@@ -1,0 +1,1 @@
+El Perú, oficialmente República del Perú,​ es un país soberano ubicado en el oeste de América del Sur. Perú tiene una población de más de 35,7 millones de habitantes. Su capital y ciudad más poblada es Lima. (Wikipedia)

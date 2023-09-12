@@ -1,0 +1,5 @@
+---
+title: "Claudia Jimenez"
+url: /san-isidro/claudia-jimenez/
+shop: ropa
+---
