@@ -1,5 +1,5 @@
 ---
 title: "Kitasol"
-url: /huancayo/kitasol/
+url: /huancayo/kitasol-antonio-lobato/
 shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Recarga"
-url: /casma/recarga/
+url: /casma/recarga-panamericana-norte/
 shop: general
 ---

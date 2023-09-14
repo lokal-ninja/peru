@@ -1,5 +1,5 @@
 ---
 title: "GMO"
-url: /miraflores/gmo/
+url: /miraflores/gmo-avenida-comandante-espinar/
 shop: óptico
 ---

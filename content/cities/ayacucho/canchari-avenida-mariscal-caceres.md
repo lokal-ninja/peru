@@ -1,5 +1,5 @@
 ---
 title: "Canchari"
-url: /ayacucho/canchari/
+url: /ayacucho/canchari-avenida-mariscal-caceres/
 shop: general
 ---

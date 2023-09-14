@@ -1,5 +1,5 @@
 ---
 title: "Sporade"
-url: /ayacucho/sporade/
+url: /ayacucho/sporade-jiron-condorcunca/
 shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Resistem"
-url: /ayacucho/resistem/
+url: /ayacucho/resistem-avenida-ramon-castilla/
 shop: hardware
 ---

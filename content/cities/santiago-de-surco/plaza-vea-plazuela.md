@@ -1,5 +1,5 @@
 ---
 title: "Plaza Vea"
-url: /santiago-de-surco/plaza-vea/
+url: /santiago-de-surco/plaza-vea-plazuela/
 shop: supermercado
 ---

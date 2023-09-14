@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
-url: /villa-el-salvador/movistar/
+url: /villa-el-salvador/movistar-avenida-cesar-vallejo/
 shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bata"
-url: /independencia/bata/
+url: /independencia/bata-avenida-tomas-valle/
 shop: zapatos
 ---

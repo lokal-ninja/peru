@@ -1,5 +1,5 @@
 ---
 title: "Wong"
-url: /miraflores/wong/
+url: /miraflores/wong-jose-sabogal/
 shop: supermercado
 ---

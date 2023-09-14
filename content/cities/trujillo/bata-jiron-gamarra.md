@@ -1,5 +1,5 @@
 ---
 title: "Bata"
-url: /trujillo/bata/
+url: /trujillo/bata-jiron-gamarra/
 shop: zapatos
 ---

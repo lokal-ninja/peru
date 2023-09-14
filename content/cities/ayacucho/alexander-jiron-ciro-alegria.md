@@ -1,5 +1,5 @@
 ---
 title: "Alexander"
-url: /ayacucho/alexander/
+url: /ayacucho/alexander-jiron-ciro-alegria/
 shop: piezas de automóviles
 ---

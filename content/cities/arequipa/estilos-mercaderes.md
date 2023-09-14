@@ -1,5 +1,5 @@
 ---
 title: "Estilos"
-url: /arequipa/estilos/
+url: /arequipa/estilos-mercaderes/
 shop: ropa
 ---

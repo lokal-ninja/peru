@@ -1,5 +1,5 @@
 ---
 title: "Tambo"
-url: /independencia/tambo/
+url: /independencia/tambo-las-violetas/
 shop: comodidad
 ---

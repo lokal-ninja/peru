@@ -1,5 +1,5 @@
 ---
 title: "Claro"
-url: /arequipa/claro/
+url: /arequipa/claro-francisco-bolognesi/
 shop: teléfono móvil
 ---

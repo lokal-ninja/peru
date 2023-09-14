@@ -1,5 +1,5 @@
 ---
 title: "Vilma"
-url: /ayacucho/vilma/
+url: /ayacucho/vilma-avenida-los-incas/
 shop: hardware
 ---

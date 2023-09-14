@@ -1,5 +1,5 @@
 ---
 title: "Wong"
-url: /la-molina/wong/
+url: /la-molina/wong-calle-tahiti/
 shop: supermercado
 ---

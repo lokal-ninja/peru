@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
-url: /arequipa/movistar/
+url: /arequipa/movistar-jerusalen/
 shop: teléfono móvil
 ---

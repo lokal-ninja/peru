@@ -1,5 +1,5 @@
 ---
 title: "Paraíso"
-url: /lima/paraiso/
+url: /lima/paraiso-prolongacion-parinacochas/
 shop: cama
 ---

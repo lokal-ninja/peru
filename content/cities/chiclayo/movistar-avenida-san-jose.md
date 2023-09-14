@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
-url: /chiclayo/movistar/
+url: /chiclayo/movistar-avenida-san-jose/
 shop: general
 ---

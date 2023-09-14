@@ -1,5 +1,5 @@
 ---
 title: "Claro"
-url: /chiclayo/claro/
+url: /chiclayo/claro-avenida-san-jose/
 shop: teléfono móvil
 ---

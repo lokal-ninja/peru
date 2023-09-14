@@ -1,5 +1,5 @@
 ---
 title: "Listo"
-url: /miraflores/listo/
+url: /miraflores/listo-avenida-jose-pardo/
 shop: comodidad
 ---

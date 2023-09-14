@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Richard's"
-url: /miraflores/ferreteria-richards/
+url: /miraflores/ferreteria-richards-jiron-gonzales-prada/
 shop: hardware
 ---

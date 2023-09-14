@@ -1,5 +1,5 @@
 ---
 title: "Bata KIDS"
-url: /independencia/bata-kids/
+url: /independencia/bata-kids-avenida-tomas-valle/
 shop: zapatos
 ---

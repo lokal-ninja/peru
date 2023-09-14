@@ -1,5 +1,5 @@
 ---
 title: "Tai Loy"
-url: /independencia/tai-loy/
+url: /independencia/tai-loy-2/
 shop: material de oficina
 ---

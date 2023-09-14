@@ -1,5 +1,5 @@
 ---
 title: "Elektra"
-url: /lima/elektra/
+url: /lima/elektra-avenida-nicolas-ayllon/
 shop: grandes almacenes
 ---

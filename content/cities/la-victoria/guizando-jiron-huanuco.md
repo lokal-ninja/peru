@@ -1,5 +1,5 @@
 ---
 title: "Guizando"
-url: /la-victoria/guizando/
+url: /la-victoria/guizando-jiron-huanuco/
 shop: centro comercial
 ---

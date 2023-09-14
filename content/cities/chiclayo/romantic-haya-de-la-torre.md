@@ -1,5 +1,5 @@
 ---
 title: "Romantic"
-url: /chiclayo/romantic/
+url: /chiclayo/romantic-haya-de-la-torre/
 shop: general
 ---

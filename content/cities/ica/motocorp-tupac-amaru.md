@@ -1,5 +1,5 @@
 ---
 title: "Motocorp"
-url: /ica/motocorp/
+url: /ica/motocorp-tupac-amaru/
 shop: coche
 ---

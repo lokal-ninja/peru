@@ -1,5 +1,5 @@
 ---
 title: "Trujillo Mart"
-url: /carhuaz/trujillo-mart/
+url: /carhuaz/trujillo-mart-jiron-aurora/
 shop: supermercado
 ---

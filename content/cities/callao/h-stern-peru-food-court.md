@@ -1,5 +1,5 @@
 ---
 title: "H. Stern"
-url: /callao/h-stern/
+url: /callao/h-stern-peru-food-court/
 shop: joyería
 ---

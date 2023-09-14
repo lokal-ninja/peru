@@ -1,5 +1,5 @@
 ---
 title: "Nicli"
-url: /lima/nicli/
+url: /lima/nicli-prolongacion-parinacochas/
 shop: general
 ---

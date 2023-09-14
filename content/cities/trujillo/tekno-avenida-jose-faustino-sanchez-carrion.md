@@ -1,5 +1,5 @@
 ---
 title: "Tekno"
-url: /trujillo/tekno/
+url: /trujillo/tekno-avenida-jose-faustino-sanchez-carrion/
 shop: general
 ---

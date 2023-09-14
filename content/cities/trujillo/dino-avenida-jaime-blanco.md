@@ -1,5 +1,5 @@
 ---
 title: "Dino"
-url: /trujillo/dino/
+url: /trujillo/dino-avenida-jaime-blanco/
 shop: hardware
 ---

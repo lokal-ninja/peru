@@ -1,5 +1,5 @@
 ---
 title: "Olé"
-url: /ayacucho/ole/
+url: /ayacucho/ole-jiron-carlos-f-vivanco/
 shop: comodidad
 ---

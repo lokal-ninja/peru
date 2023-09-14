@@ -1,5 +1,5 @@
 ---
 title: "Metro"
-url: /jesus-maria/metro/
+url: /jesus-maria/metro-avenida-general-garzon/
 shop: supermercado
 ---

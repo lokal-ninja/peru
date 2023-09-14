@@ -1,5 +1,5 @@
 ---
 title: "Entel"
-url: /cayma/entel/
+url: /cayma/entel-ejercito/
 shop: teléfono móvil
 ---

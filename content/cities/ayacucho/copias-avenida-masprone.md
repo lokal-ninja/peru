@@ -1,5 +1,5 @@
 ---
 title: "Copias"
-url: /ayacucho/copias/
+url: /ayacucho/copias-avenida-masprone/
 shop: copyshop
 ---

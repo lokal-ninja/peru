@@ -1,5 +1,5 @@
 ---
 title: "Efe"
-url: /chiclayo/efe/
+url: /chiclayo/efe-avenida-luis-gonzales/
 shop: electrónica
 ---

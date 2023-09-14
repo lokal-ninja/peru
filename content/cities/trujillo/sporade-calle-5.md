@@ -1,5 +1,5 @@
 ---
 title: "Sporade"
-url: /trujillo/sporade/
+url: /trujillo/sporade-calle-5/
 shop: comodidad
 ---
