@@ -1,5 +1,5 @@
 ---
-title: "Libreria Bazar"
+title: "Librería Bazar"
 url: /bellavista/libreria-bazar/
-shop: tienda de variedades
+shop: libros
 ---
