@@ -1,5 +1,5 @@
 ---
 title: "Autocarh Percy"
-url: /ate/autocarh-percy/
+url: /lima/autocarh-percy/
 shop: reparación de automóviles
 ---
