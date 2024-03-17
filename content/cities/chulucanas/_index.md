@@ -2,5 +2,5 @@
 title: Chulucanas
 url: /chulucanas/
 latitude: -5.096
-longitude: -80.161
+longitude: -80.16
 ---
