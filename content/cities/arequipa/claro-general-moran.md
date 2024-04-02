@@ -1,5 +1,5 @@
 ---
 title: "Claro"
-url: /arequipa/claro-san-juan-de-dios/
+url: /arequipa/claro-general-moran/
 shop: teléfono móvil
 ---
