@@ -1,6 +1,6 @@
 ---
 title: Los Olivos
 url: /los-olivos/
-latitude: -11.976
-longitude: -77.085
+latitude: -11.995
+longitude: -77.073
 ---
