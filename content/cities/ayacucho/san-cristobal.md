@@ -1,5 +1,5 @@
 ---
-title: "San Cristóbal"
+title: "San Cristobal"
 url: /ayacucho/san-cristobal/
-shop: general
+shop: reparación de automóviles
 ---
