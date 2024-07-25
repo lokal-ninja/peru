@@ -1,5 +1,5 @@
 ---
 title: "Motocentro Magdalena"
 url: /ayacucho/motocentro-magdalena/
-shop: motocicleta
+shop: reparación de automóviles
 ---
