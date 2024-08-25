@@ -1,6 +1,6 @@
 ---
 title: La Tinguiña
 url: /la-tinguina/
-latitude: -14.039
-longitude: -75.705
+latitude: -14.036
+longitude: -75.703
 ---
