@@ -1,6 +1,6 @@
 ---
 title: Santa Beatriz
 url: /santa-beatriz/
-latitude: -12.074
-longitude: -77.033
+latitude: -12.066
+longitude: -77.037
 ---
