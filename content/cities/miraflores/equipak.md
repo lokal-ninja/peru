@@ -1,5 +1,5 @@
 ---
 title: "Equipak"
 url: /miraflores/equipak/
-shop: exterior
+shop: Outdoor
 ---

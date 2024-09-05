@@ -1,5 +1,5 @@
 ---
 title: "Oana"
 url: /lima/oana/
-shop: cosméticos
+shop: Kosmetik
 ---

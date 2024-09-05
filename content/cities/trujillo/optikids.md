@@ -1,5 +1,5 @@
 ---
 title: "OptiKids"
 url: /trujillo/optikids/
-shop: óptico
+shop: Optiker
 ---

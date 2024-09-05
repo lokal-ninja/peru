@@ -1,5 +1,5 @@
 ---
 title: "Delicias"
 url: /ayacucho/delicias/
-shop: helado
+shop: Eisprodukte
 ---

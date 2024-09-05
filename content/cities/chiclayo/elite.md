@@ -1,5 +1,5 @@
 ---
 title: "Elite"
 url: /chiclayo/elite/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fantasy"
 url: /trujillo/fantasy/
-shop: general
+shop: Allgemein
 ---

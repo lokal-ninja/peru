@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /surquillo/ford/
-shop: coche
+shop: Autohaus
 ---

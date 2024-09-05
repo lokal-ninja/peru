@@ -1,5 +1,5 @@
 ---
 title: "Socota"
 url: /chiclayo/socota/
-shop: general
+shop: Allgemein
 ---

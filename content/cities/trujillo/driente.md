@@ -1,5 +1,5 @@
 ---
 title: "Driente"
 url: /trujillo/driente/
-shop: pintura
+shop: Farben
 ---

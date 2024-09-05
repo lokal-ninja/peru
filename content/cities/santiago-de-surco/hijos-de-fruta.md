@@ -1,5 +1,5 @@
 ---
 title: "Hijos de Fruta"
 url: /santiago-de-surco/hijos-de-fruta/
-shop: frutería
+shop: Gemüse & Obst
 ---

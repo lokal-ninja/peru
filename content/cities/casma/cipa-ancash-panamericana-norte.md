@@ -1,5 +1,5 @@
 ---
 title: "Cipa Ancash"
 url: /casma/cipa-ancash-panamericana-norte/
-shop: agraria
+shop: Landwirtschaftlich
 ---

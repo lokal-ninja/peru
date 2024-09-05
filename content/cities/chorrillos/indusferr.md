@@ -1,5 +1,5 @@
 ---
 title: "Indusferr"
 url: /chorrillos/indusferr/
-shop: general
+shop: Allgemein
 ---

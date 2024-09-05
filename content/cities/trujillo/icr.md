@@ -1,5 +1,5 @@
 ---
 title: "ICR"
 url: /trujillo/icr/
-shop: pintura
+shop: Farben
 ---

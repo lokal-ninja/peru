@@ -1,5 +1,5 @@
 ---
 title: "Chules"
 url: /chincha-alta/chules/
-shop: general
+shop: Allgemein
 ---

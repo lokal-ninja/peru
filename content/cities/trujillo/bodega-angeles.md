@@ -1,5 +1,5 @@
 ---
 title: "Bodega Ángeles"
 url: /trujillo/bodega-angeles/
-shop: comodidad
+shop: Lebensmittel
 ---

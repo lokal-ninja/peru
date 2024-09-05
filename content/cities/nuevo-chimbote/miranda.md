@@ -1,5 +1,5 @@
 ---
 title: "Miranda"
 url: /nuevo-chimbote/miranda/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Elena"
 url: /chaclacayo/elena/
-shop: panadería
+shop: Bäckerei
 ---

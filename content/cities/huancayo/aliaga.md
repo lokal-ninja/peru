@@ -1,5 +1,5 @@
 ---
 title: "Aliaga"
 url: /huancayo/aliaga/
-shop: ropa
+shop: Kleidung
 ---

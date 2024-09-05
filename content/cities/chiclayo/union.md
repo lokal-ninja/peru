@@ -1,5 +1,5 @@
 ---
 title: "Union"
 url: /chiclayo/union/
-shop: general
+shop: Allgemein
 ---

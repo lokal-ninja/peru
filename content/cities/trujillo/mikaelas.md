@@ -1,5 +1,5 @@
 ---
 title: "Mikaelas"
 url: /trujillo/mikaelas/
-shop: ropa
+shop: Kleidung
 ---

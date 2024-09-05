@@ -1,5 +1,5 @@
 ---
 title: "Jorlis"
 url: /chosica/jorlis/
-shop: general
+shop: Allgemein
 ---

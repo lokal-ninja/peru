@@ -1,5 +1,5 @@
 ---
 title: "Temoinox"
 url: /arequipa/temoinox/
-shop: general
+shop: Allgemein
 ---

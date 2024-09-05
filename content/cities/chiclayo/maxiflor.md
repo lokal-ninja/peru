@@ -1,5 +1,5 @@
 ---
 title: "Maxiflor"
 url: /chiclayo/maxiflor/
-shop: floristería
+shop: Blumen
 ---

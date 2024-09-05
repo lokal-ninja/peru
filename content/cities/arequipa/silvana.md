@@ -1,5 +1,5 @@
 ---
 title: "Silvana"
 url: /arequipa/silvana/
-shop: óptico
+shop: Optiker
 ---

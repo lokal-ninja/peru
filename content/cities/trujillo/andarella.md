@@ -1,5 +1,5 @@
 ---
 title: "Andarella"
 url: /trujillo/andarella/
-shop: zapatos
+shop: Schuhe
 ---

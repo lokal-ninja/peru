@@ -1,5 +1,5 @@
 ---
 title: "Dleogentru"
 url: /trujillo/dleogentru/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Unno"
 url: /huancayo/unno/
-shop: general
+shop: Allgemein
 ---

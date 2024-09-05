@@ -1,5 +1,5 @@
 ---
 title: "Sterio Amigo Intimo"
 url: /ayacucho/sterio-amigo-intimo/
-shop: general
+shop: Allgemein
 ---

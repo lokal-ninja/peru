@@ -1,5 +1,5 @@
 ---
 title: "Fries Copias"
 url: /villa-el-salvador/fries-copias/
-shop: copyshop
+shop: Kopieren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Faber Castell"
 url: /santiago-de-surco/faber-castell/
-shop: libros
+shop: Bücher
 ---

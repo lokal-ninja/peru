@@ -1,5 +1,5 @@
 ---
 title: "Plaza Vea"
 url: /lurin/plaza-vea/
-shop: supermercado
+shop: Supermarkt
 ---

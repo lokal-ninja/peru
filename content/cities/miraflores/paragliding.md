@@ -1,5 +1,5 @@
 ---
 title: "Paragliding"
 url: /miraflores/paragliding/
-shop: entradas
+shop: Tickets
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Decofer"
 url: /ayacucho/decofer/
-shop: decoración interior
+shop: Raumausstattung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Isabel Velásquez"
 url: /mariano-melgar/isabel-velasquez/
-shop: pintura
+shop: Farben
 ---

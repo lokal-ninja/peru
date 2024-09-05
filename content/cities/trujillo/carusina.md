@@ -1,5 +1,5 @@
 ---
 title: "Carusina"
 url: /trujillo/carusina/
-shop: zapatos
+shop: Schuhe
 ---

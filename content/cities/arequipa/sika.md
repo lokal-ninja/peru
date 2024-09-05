@@ -1,5 +1,5 @@
 ---
 title: "Sika"
 url: /arequipa/sika/
-shop: hardware
+shop: Eisenwaren
 ---

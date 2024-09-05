@@ -1,5 +1,5 @@
 ---
 title: "Tienda Mass"
 url: /castilla/tienda-mass/
-shop: supermercado
+shop: Supermarkt
 ---

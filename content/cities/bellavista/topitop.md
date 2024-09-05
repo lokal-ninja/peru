@@ -1,5 +1,5 @@
 ---
 title: "Topitop"
 url: /bellavista/topitop/
-shop: ropa
+shop: Kleidung
 ---

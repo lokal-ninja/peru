@@ -1,5 +1,5 @@
 ---
 title: "Tienda Chikitines"
 url: /trujillo/tienda-chikitines/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Roxana"
 url: /callao/roxana/
-shop: peluquería
+shop: Friseur
 ---

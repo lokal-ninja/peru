@@ -1,5 +1,5 @@
 ---
 title: "Fiestas"
 url: /arequipa/fiestas/
-shop: comodidad
+shop: Lebensmittel
 ---

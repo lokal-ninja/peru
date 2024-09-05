@@ -1,5 +1,5 @@
 ---
 title: "Kia"
 url: /los-olivos/kia/
-shop: coche
+shop: Autohaus
 ---

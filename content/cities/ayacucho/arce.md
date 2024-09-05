@@ -1,5 +1,5 @@
 ---
 title: "Arce"
 url: /ayacucho/arce/
-shop: hardware
+shop: Eisenwaren
 ---

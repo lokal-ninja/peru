@@ -1,5 +1,5 @@
 ---
 title: "Álvaro"
 url: /arequipa/alvaro/
-shop: copyshop
+shop: Kopieren
 ---

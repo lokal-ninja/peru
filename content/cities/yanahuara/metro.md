@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /yanahuara/metro/
-shop: supermercado
+shop: Supermarkt
 ---

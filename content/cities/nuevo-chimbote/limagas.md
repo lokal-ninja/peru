@@ -1,5 +1,5 @@
 ---
 title: "Limagas"
 url: /nuevo-chimbote/limagas/
-shop: gas
+shop: Gasflaschen
 ---

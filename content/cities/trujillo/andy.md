@@ -1,5 +1,5 @@
 ---
 title: "Andy"
 url: /trujillo/andy/
-shop: general
+shop: Allgemein
 ---

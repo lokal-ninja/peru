@@ -1,5 +1,5 @@
 ---
 title: "PistAche"
 url: /san-isidro/pistache/
-shop: ropa
+shop: Kleidung
 ---

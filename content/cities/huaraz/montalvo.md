@@ -1,5 +1,5 @@
 ---
 title: "Montalvo"
 url: /huaraz/montalvo/
-shop: peluquería
+shop: Friseur
 ---

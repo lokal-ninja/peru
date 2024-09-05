@@ -1,5 +1,5 @@
 ---
 title: "Wong"
 url: /miraflores/wong/
-shop: supermercado
+shop: Supermarkt
 ---

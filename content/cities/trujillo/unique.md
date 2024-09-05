@@ -1,5 +1,5 @@
 ---
 title: "Unique"
 url: /trujillo/unique/
-shop: cosméticos
+shop: Kosmetik
 ---

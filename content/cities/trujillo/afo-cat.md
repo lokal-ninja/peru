@@ -1,5 +1,5 @@
 ---
 title: "Afo Cat"
 url: /trujillo/afo-cat/
-shop: general
+shop: Allgemein
 ---

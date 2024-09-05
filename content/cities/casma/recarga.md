@@ -1,5 +1,5 @@
 ---
 title: "Recarga"
 url: /casma/recarga/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nañita"
 url: /ayacucho/nanita/
-shop: general
+shop: Allgemein
 ---

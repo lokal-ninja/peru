@@ -1,5 +1,5 @@
 ---
 title: "Filmaciones"
 url: /san-juan-de-miraflores/filmaciones/
-shop: foto
+shop: Foto
 ---

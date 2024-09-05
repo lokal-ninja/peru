@@ -1,5 +1,5 @@
 ---
 title: "Chikitos"
 url: /chiclayo/chikitos/
-shop: general
+shop: Allgemein
 ---

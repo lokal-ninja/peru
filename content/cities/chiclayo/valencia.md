@@ -1,5 +1,5 @@
 ---
 title: "Valencia"
 url: /chiclayo/valencia/
-shop: general
+shop: Allgemein
 ---

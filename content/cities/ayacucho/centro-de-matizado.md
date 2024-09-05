@@ -1,5 +1,5 @@
 ---
 title: "Centro de Matizado"
 url: /ayacucho/centro-de-matizado/
-shop: pintura
+shop: Farben
 ---

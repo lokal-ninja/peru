@@ -1,5 +1,5 @@
 ---
 title: "Paco Cordova"
 url: /san-isidro/paco-cordova/
-shop: cosméticos
+shop: Kosmetik
 ---

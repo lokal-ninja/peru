@@ -1,5 +1,5 @@
 ---
 title: "Civa"
 url: /ayacucho/civa/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sanchez"
 url: /trujillo/sanchez/
-shop: peluquería
+shop: Friseur
 ---

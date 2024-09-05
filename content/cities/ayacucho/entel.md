@@ -1,5 +1,5 @@
 ---
 title: "Entel"
 url: /ayacucho/entel/
-shop: teléfono móvil
+shop: Handy
 ---

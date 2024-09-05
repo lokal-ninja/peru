@@ -1,5 +1,5 @@
 ---
 title: "Ultracom"
 url: /nuevo-chimbote/ultracom/
-shop: general
+shop: Allgemein
 ---

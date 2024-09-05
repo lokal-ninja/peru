@@ -1,5 +1,5 @@
 ---
 title: "Pressto"
 url: /barranco/pressto/
-shop: lavandería
+shop: Wäscherei
 ---

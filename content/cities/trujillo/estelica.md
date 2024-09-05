@@ -1,5 +1,5 @@
 ---
 title: "Estelica"
 url: /trujillo/estelica/
-shop: peluquería
+shop: Friseur
 ---

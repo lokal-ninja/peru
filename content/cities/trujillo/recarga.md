@@ -1,5 +1,5 @@
 ---
 title: "Recarga"
 url: /trujillo/recarga/
-shop: general
+shop: Allgemein
 ---

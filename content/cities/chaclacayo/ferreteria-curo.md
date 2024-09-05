@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Curo"
 url: /chaclacayo/ferreteria-curo/
-shop: comercio
+shop: Baustoffe
 ---

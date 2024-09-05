@@ -1,5 +1,5 @@
 ---
 title: "Perumy"
 url: /trujillo/perumy/
-shop: general
+shop: Allgemein
 ---

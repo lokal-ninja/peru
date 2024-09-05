@@ -1,5 +1,5 @@
 ---
 title: "Nora Rina Salon"
 url: /san-miguel/nora-rina-salon/
-shop: peluquería
+shop: Friseur
 ---

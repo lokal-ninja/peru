@@ -1,5 +1,5 @@
 ---
 title: "Flowers"
 url: /nuevo-chimbote/flowers/
-shop: floristería
+shop: Blumen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Milagritos"
 url: /trujillo/milagritos/
-shop: cosméticos
+shop: Kosmetik
 ---

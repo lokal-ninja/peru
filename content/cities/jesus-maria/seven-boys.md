@@ -1,5 +1,5 @@
 ---
 title: "Seven Boys"
 url: /jesus-maria/seven-boys/
-shop: panadería
+shop: Bäckerei
 ---

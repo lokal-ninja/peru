@@ -1,5 +1,5 @@
 ---
 title: "GBBikes"
 url: /miraflores/gbbikes/
-shop: bicicleta
+shop: Fahrrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Almacén La Selecta"
 url: /trujillo/almacen-la-selecta/
-shop: general
+shop: Allgemein
 ---

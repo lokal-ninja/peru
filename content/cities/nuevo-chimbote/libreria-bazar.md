@@ -1,5 +1,5 @@
 ---
 title: "Libreria Bazar"
 url: /nuevo-chimbote/libreria-bazar/
-shop: libros
+shop: Bücher
 ---

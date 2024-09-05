@@ -1,5 +1,5 @@
 ---
 title: "Akomprar"
 url: /ayacucho/akomprar/
-shop: general
+shop: Allgemein
 ---

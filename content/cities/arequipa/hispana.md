@@ -1,5 +1,5 @@
 ---
 title: "Hispana"
 url: /arequipa/hispana/
-shop: óptico
+shop: Optiker
 ---

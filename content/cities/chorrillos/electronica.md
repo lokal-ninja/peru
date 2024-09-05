@@ -1,5 +1,5 @@
 ---
 title: "Electronica"
 url: /chorrillos/electronica/
-shop: electrónica
+shop: Elektronik
 ---

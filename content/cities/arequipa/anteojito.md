@@ -1,5 +1,5 @@
 ---
 title: "Anteojito"
 url: /arequipa/anteojito/
-shop: óptico
+shop: Optiker
 ---

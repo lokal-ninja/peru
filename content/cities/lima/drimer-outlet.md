@@ -1,5 +1,5 @@
 ---
 title: "Drimer Outlet"
 url: /lima/drimer-outlet/
-shop: general
+shop: Allgemein
 ---

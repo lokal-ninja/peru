@@ -1,5 +1,5 @@
 ---
 title: "Stenberg"
 url: /miraflores/stenberg/
-shop: general
+shop: Allgemein
 ---

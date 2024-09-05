@@ -1,5 +1,5 @@
 ---
 title: "La Ibérica"
 url: /yanahuara/la-iberica/
-shop: chocolate
+shop: Schokolade
 ---

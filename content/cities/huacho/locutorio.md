@@ -1,5 +1,5 @@
 ---
 title: "Locutorio"
 url: /huacho/locutorio/
-shop: copyshop
+shop: Kopieren
 ---

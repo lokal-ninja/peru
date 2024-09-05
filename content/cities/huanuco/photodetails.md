@@ -1,5 +1,5 @@
 ---
 title: "Photodetails"
 url: /huanuco/photodetails/
-shop: foto
+shop: Foto
 ---

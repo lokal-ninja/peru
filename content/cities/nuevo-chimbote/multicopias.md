@@ -1,5 +1,5 @@
 ---
 title: "Multicopias"
 url: /nuevo-chimbote/multicopias/
-shop: material de oficina
+shop: Schreibwaren
 ---

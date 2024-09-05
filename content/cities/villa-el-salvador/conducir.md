@@ -1,5 +1,5 @@
 ---
 title: "Conducir"
 url: /villa-el-salvador/conducir/
-shop: general
+shop: Allgemein
 ---

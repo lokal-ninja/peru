@@ -1,5 +1,5 @@
 ---
 title: "Bitel"
 url: /huanuco/bitel/
-shop: teléfono móvil
+shop: Handy
 ---

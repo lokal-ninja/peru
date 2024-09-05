@@ -1,5 +1,5 @@
 ---
 title: "Orologi"
 url: /miraflores/orologi/
-shop: general
+shop: Allgemein
 ---

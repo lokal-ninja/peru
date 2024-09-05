@@ -1,5 +1,5 @@
 ---
 title: "Sporade"
 url: /chorrillos/sporade/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Topitop"
 url: /ventanilla/topitop/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maxssi Tiendas"
 url: /los-olivos/maxssi-tiendas/
-shop: supermercado
+shop: Supermarkt
 ---

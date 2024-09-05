@@ -1,5 +1,5 @@
 ---
 title: "Dino"
 url: /casma/dino/
-shop: hardware
+shop: Eisenwaren
 ---

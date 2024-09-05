@@ -1,5 +1,5 @@
 ---
 title: "Apex"
 url: /ayacucho/apex/
-shop: pintura
+shop: Farben
 ---

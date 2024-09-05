@@ -1,5 +1,5 @@
 ---
 title: "Cyzone"
 url: /arequipa/cyzone/
-shop: tienda
+shop: Modehaus
 ---

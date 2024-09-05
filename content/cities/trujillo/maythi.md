@@ -1,5 +1,5 @@
 ---
 title: "Maythi"
 url: /trujillo/maythi/
-shop: general
+shop: Allgemein
 ---

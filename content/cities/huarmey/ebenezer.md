@@ -1,5 +1,5 @@
 ---
 title: "Ebenezer"
 url: /huarmey/ebenezer/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PrintCenter"
 url: /trujillo/printcenter/
-shop: copyshop
+shop: Kopieren
 ---

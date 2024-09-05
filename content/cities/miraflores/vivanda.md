@@ -1,5 +1,5 @@
 ---
 title: "Vivanda"
 url: /miraflores/vivanda/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Barrington"
 url: /chiclayo/barrington/
-shop: ropa
+shop: Kleidung
 ---

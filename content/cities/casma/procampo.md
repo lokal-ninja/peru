@@ -1,5 +1,5 @@
 ---
 title: "Procampo"
 url: /casma/procampo/
-shop: comodidad
+shop: Lebensmittel
 ---

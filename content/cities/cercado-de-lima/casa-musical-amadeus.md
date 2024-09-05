@@ -1,5 +1,5 @@
 ---
 title: "Casa Musical Amadeus"
 url: /cercado-de-lima/casa-musical-amadeus/
-shop: instrumento musical
+shop: Instrumente
 ---

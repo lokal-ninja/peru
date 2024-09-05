@@ -1,5 +1,5 @@
 ---
 title: "Pintura"
 url: /ayacucho/pintura/
-shop: pintura
+shop: Farben
 ---

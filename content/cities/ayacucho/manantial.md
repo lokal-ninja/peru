@@ -1,5 +1,5 @@
 ---
-title: "Manantíal"
+title: "Manantial"
 url: /ayacucho/manantial/
-shop: agraria
+shop: Allgemein
 ---

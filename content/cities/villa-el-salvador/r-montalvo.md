@@ -1,5 +1,5 @@
 ---
 title: "R Montalvo"
 url: /villa-el-salvador/r-montalvo/
-shop: peluquería
+shop: Friseur
 ---

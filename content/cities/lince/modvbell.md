@@ -1,5 +1,5 @@
 ---
 title: "ModVBell"
 url: /lince/modvbell/
-shop: ropa
+shop: Kleidung
 ---

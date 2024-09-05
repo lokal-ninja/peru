@@ -1,5 +1,5 @@
 ---
 title: "Maranatha"
 url: /nuevo-chimbote/maranatha/
-shop: general
+shop: Allgemein
 ---

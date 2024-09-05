@@ -1,5 +1,5 @@
 ---
 title: "Elektra"
 url: /lima/elektra-avenida-republica-de-venezuela/
-shop: supermercado
+shop: Supermarkt
 ---

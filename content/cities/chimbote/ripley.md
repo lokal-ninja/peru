@@ -1,5 +1,5 @@
 ---
 title: "Ripley"
 url: /chimbote/ripley/
-shop: grandes almacenes
+shop: Warenhaus
 ---

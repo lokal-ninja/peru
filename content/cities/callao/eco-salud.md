@@ -1,5 +1,5 @@
 ---
 title: "Eco salud"
 url: /callao/eco-salud/
-shop: farmacia
+shop: Drogerie
 ---

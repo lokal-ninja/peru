@@ -1,5 +1,5 @@
 ---
 title: "Paraíso"
 url: /lima/paraiso/
-shop: cama
+shop: Betten
 ---

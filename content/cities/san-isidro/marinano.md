@@ -1,5 +1,5 @@
 ---
 title: "Marinano"
 url: /san-isidro/marinano/
-shop: general
+shop: Allgemein
 ---

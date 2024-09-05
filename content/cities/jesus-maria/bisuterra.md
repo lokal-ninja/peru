@@ -1,5 +1,5 @@
 ---
 title: "Bisuterra"
 url: /jesus-maria/bisuterra/
-shop: general
+shop: Allgemein
 ---

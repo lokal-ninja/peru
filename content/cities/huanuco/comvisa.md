@@ -1,5 +1,5 @@
 ---
 title: "Comvisa"
 url: /huanuco/comvisa/
-shop: comodidad
+shop: Lebensmittel
 ---

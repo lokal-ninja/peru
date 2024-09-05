@@ -1,5 +1,5 @@
 ---
 title: "Solgas"
 url: /ayacucho/solgas/
-shop: gas
+shop: Gasflaschen
 ---

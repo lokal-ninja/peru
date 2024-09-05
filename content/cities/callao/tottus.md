@@ -1,5 +1,5 @@
 ---
 title: "Tottus"
 url: /callao/tottus/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Market Plaza Carhuaz"
 url: /carhuaz/market-plaza-carhuaz/
-shop: supermercado
+shop: Supermarkt
 ---

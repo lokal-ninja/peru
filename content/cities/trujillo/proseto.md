@@ -1,5 +1,5 @@
 ---
 title: "Proseto"
 url: /trujillo/proseto/
-shop: general
+shop: Allgemein
 ---

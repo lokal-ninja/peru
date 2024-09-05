@@ -1,5 +1,5 @@
 ---
 title: "La Casa del Ganadero"
 url: /colcamar/la-casa-del-ganadero/
-shop: mascotas
+shop: Tiere
 ---

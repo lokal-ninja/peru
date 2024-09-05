@@ -1,5 +1,5 @@
 ---
 title: "Tanguis"
 url: /san-isidro/tanguis/
-shop: general
+shop: Allgemein
 ---

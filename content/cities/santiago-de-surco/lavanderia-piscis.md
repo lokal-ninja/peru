@@ -1,5 +1,5 @@
 ---
 title: "Lavanderia Piscis"
 url: /santiago-de-surco/lavanderia-piscis/
-shop: lavandería
+shop: Wäscherei
 ---

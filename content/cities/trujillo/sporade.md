@@ -1,5 +1,5 @@
 ---
 title: "Sporade"
 url: /trujillo/sporade/
-shop: comodidad
+shop: Lebensmittel
 ---

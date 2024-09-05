@@ -1,5 +1,5 @@
 ---
 title: "Torres"
 url: /trujillo/torres/
-shop: general
+shop: Allgemein
 ---

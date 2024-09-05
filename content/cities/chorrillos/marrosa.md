@@ -1,5 +1,5 @@
 ---
 title: "Marrosa"
 url: /chorrillos/marrosa/
-shop: eléctrico
+shop: Elektrisch
 ---

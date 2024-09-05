@@ -1,5 +1,5 @@
 ---
 title: "Makro"
 url: /ica/makro/
-shop: mayorista
+shop: Großhandel
 ---

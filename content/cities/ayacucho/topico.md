@@ -1,5 +1,5 @@
 ---
 title: "Topico"
 url: /ayacucho/topico/
-shop: comodidad
+shop: Lebensmittel
 ---

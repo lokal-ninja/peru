@@ -1,5 +1,5 @@
 ---
 title: "Company"
 url: /san-isidro/company/
-shop: ropa
+shop: Kleidung
 ---

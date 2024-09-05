@@ -1,5 +1,5 @@
 ---
 title: "Alfabel"
 url: /trujillo/alfabel/
-shop: electrónica
+shop: Elektronik
 ---

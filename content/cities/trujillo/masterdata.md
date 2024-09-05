@@ -1,5 +1,5 @@
 ---
 title: "Masterdata"
 url: /trujillo/masterdata/
-shop: ordenador
+shop: Computer
 ---

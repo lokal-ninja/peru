@@ -1,5 +1,5 @@
 ---
 title: "Drywall"
 url: /ayacucho/drywall/
-shop: general
+shop: Allgemein
 ---

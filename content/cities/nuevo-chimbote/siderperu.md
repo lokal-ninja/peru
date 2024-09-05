@@ -1,5 +1,5 @@
 ---
 title: "Siderperu"
 url: /nuevo-chimbote/siderperu/
-shop: general
+shop: Allgemein
 ---

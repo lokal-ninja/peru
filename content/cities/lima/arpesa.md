@@ -1,5 +1,5 @@
 ---
 title: "Arpesa"
 url: /lima/arpesa/
-shop: hardware
+shop: Eisenwaren
 ---

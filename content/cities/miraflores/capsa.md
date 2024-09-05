@@ -1,5 +1,5 @@
 ---
 title: "Capsa"
 url: /miraflores/capsa/
-shop: general
+shop: Allgemein
 ---

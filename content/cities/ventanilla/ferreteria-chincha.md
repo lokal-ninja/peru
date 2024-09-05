@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Chincha"
 url: /ventanilla/ferreteria-chincha/
-shop: hardware
+shop: Eisenwaren
 ---

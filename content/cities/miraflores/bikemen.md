@@ -1,5 +1,5 @@
 ---
 title: "Bikemen"
 url: /miraflores/bikemen/
-shop: bicicleta
+shop: Fahrrad
 ---

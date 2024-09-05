@@ -1,5 +1,5 @@
 ---
 title: "Feng Shui"
 url: /villa-el-salvador/feng-shui/
-shop: general
+shop: Allgemein
 ---

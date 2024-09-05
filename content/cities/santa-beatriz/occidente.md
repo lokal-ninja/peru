@@ -1,5 +1,5 @@
 ---
 title: "Occidente"
 url: /santa-beatriz/occidente/
-shop: entradas
+shop: Tickets
 ---

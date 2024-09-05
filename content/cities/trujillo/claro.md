@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /trujillo/claro/
-shop: teléfono móvil
+shop: Handy
 ---

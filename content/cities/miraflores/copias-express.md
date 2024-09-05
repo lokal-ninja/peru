@@ -1,5 +1,5 @@
 ---
 title: "Copias Express"
 url: /miraflores/copias-express/
-shop: copyshop
+shop: Kopieren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tecnopor"
 url: /huancayo/tecnopor/
-shop: general
+shop: Allgemein
 ---

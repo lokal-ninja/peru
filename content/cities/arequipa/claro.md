@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /arequipa/claro/
-shop: teléfono móvil
+shop: Handy
 ---

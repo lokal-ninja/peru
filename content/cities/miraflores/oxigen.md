@@ -1,5 +1,5 @@
 ---
 title: "Oxigen"
 url: /miraflores/oxigen/
-shop: cosméticos
+shop: Kosmetik
 ---

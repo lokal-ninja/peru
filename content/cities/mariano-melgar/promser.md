@@ -1,5 +1,5 @@
 ---
 title: "Promser"
 url: /mariano-melgar/promser/
-shop: hardware
+shop: Eisenwaren
 ---

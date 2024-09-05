@@ -1,5 +1,5 @@
 ---
 title: "Locutorio"
 url: /lince/locutorio/
-shop: electrónica
+shop: Elektronik
 ---

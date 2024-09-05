@@ -1,5 +1,5 @@
 ---
 title: "Heintz"
 url: /lima/heintz/
-shop: neumáticos
+shop: Reifen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kaita"
 url: /arequipa/kaita/
-shop: comodidad
+shop: Lebensmittel
 ---

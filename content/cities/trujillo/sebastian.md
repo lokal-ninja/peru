@@ -1,5 +1,5 @@
 ---
 title: "Sebastián"
 url: /trujillo/sebastian/
-shop: peluquería
+shop: Friseur
 ---

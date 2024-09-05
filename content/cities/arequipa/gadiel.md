@@ -1,5 +1,5 @@
 ---
 title: "Gadiel"
 url: /arequipa/gadiel/
-shop: copyshop
+shop: Kopieren
 ---

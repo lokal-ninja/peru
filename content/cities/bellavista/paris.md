@@ -1,5 +1,5 @@
 ---
 title: "Paris"
 url: /bellavista/paris/
-shop: tienda
+shop: Modehaus
 ---

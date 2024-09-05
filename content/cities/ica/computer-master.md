@@ -1,5 +1,5 @@
 ---
 title: "Computer Master"
 url: /ica/computer-master/
-shop: ordenador
+shop: Computer
 ---

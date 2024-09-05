@@ -1,5 +1,5 @@
 ---
 title: "Calvin Klein"
 url: /santiago-de-surco/calvin-klein/
-shop: ropa
+shop: Kleidung
 ---

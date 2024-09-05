@@ -1,5 +1,5 @@
 ---
 title: "Nanotext"
 url: /la-victoria/nanotext/
-shop: tela
+shop: Textil
 ---

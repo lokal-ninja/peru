@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /la-victoria/bata/
-shop: zapatos
+shop: Schuhe
 ---

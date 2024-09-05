@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /miraflores/claro/
-shop: general
+shop: Allgemein
 ---

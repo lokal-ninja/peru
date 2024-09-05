@@ -1,5 +1,5 @@
 ---
 title: "Bonita"
 url: /nuevo-chimbote/bonita/
-shop: peluquería
+shop: Friseur
 ---

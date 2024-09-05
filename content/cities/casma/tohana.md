@@ -1,5 +1,5 @@
 ---
 title: "Tohana"
 url: /casma/tohana/
-shop: comodidad
+shop: Lebensmittel
 ---

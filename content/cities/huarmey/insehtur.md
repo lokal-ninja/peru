@@ -1,5 +1,5 @@
 ---
 title: "Insehtur"
 url: /huarmey/insehtur/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BiciCentro San Borja"
 url: /san-borja/bicicentro-san-borja/
-shop: bicicleta
+shop: Fahrrad
 ---

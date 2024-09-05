@@ -1,5 +1,5 @@
 ---
 title: "Vesalius"
 url: /nuevo-chimbote/vesalius/
-shop: general
+shop: Allgemein
 ---

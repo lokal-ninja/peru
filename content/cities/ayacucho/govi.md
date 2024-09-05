@@ -1,5 +1,5 @@
 ---
 title: "Govi"
 url: /ayacucho/govi/
-shop: ropa
+shop: Kleidung
 ---

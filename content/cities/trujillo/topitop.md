@@ -1,5 +1,5 @@
 ---
 title: "TopiTop"
 url: /trujillo/topitop/
-shop: ropa
+shop: Kleidung
 ---

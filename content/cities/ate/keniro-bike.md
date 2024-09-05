@@ -1,5 +1,5 @@
 ---
 title: "Keniro Bike"
 url: /ate/keniro-bike/
-shop: bicicleta
+shop: Fahrrad
 ---

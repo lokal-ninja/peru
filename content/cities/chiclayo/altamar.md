@@ -1,5 +1,5 @@
 ---
 title: "Altamar"
 url: /chiclayo/altamar/
-shop: general
+shop: Allgemein
 ---

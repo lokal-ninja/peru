@@ -1,5 +1,5 @@
 ---
 title: "Diplomas Crearte"
 url: /puno/diplomas-crearte/
-shop: foto
+shop: Foto
 ---

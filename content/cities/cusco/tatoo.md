@@ -1,5 +1,5 @@
 ---
 title: "Tatoo"
 url: /cusco/tatoo/
-shop: exterior
+shop: Outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Santos"
 url: /tacna/santos/
-shop: libros
+shop: Bücher
 ---

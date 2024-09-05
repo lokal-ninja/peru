@@ -1,5 +1,5 @@
 ---
 title: "Galerias Nicolas Cuglievan"
 url: /chiclayo/galerias-nicolas-cuglievan/
-shop: general
+shop: Allgemein
 ---

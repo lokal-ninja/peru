@@ -1,5 +1,5 @@
 ---
 title: "Copacabana"
 url: /tacna/copacabana/
-shop: comodidad
+shop: Lebensmittel
 ---

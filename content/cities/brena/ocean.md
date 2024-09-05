@@ -1,5 +1,5 @@
 ---
 title: "Ocean"
 url: /brena/ocean/
-shop: lavandería
+shop: Wäscherei
 ---

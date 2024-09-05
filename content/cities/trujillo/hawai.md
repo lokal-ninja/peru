@@ -1,5 +1,5 @@
 ---
 title: "Hawai"
 url: /trujillo/hawai/
-shop: peluquería
+shop: Friseur
 ---

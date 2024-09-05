@@ -1,5 +1,5 @@
 ---
 title: "Lavenderia"
 url: /lince/lavenderia/
-shop: lavandería
+shop: Wäscherei
 ---

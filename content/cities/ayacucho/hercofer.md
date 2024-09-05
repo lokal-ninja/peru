@@ -1,5 +1,5 @@
 ---
 title: "Hercofer"
 url: /ayacucho/hercofer/
-shop: hardware
+shop: Eisenwaren
 ---

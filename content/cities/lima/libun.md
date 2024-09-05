@@ -1,5 +1,5 @@
 ---
 title: "Libun"
 url: /lima/libun/
-shop: libros
+shop: Bücher
 ---

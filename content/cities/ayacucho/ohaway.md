@@ -1,5 +1,5 @@
 ---
 title: "Ohaway"
 url: /ayacucho/ohaway/
-shop: óptico
+shop: Optiker
 ---

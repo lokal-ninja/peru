@@ -1,5 +1,5 @@
 ---
 title: "Teo"
 url: /huarmey/teo/
-shop: peluquería
+shop: Friseur
 ---

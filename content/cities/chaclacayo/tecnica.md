@@ -1,5 +1,5 @@
 ---
 title: "Tecnica"
 url: /chaclacayo/tecnica/
-shop: general
+shop: Allgemein
 ---

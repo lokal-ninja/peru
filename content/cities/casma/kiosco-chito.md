@@ -1,5 +1,5 @@
 ---
 title: "Kiosco Chito"
 url: /casma/kiosco-chito/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bodega Harley"
 url: /trujillo/bodega-harley/
-shop: comodidad
+shop: Lebensmittel
 ---

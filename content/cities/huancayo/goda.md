@@ -1,5 +1,5 @@
 ---
 title: "Goda"
 url: /huancayo/goda/
-shop: general
+shop: Allgemein
 ---

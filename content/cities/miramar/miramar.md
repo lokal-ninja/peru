@@ -1,5 +1,5 @@
 ---
 title: "Miramar"
 url: /miramar/miramar/
-shop: general
+shop: Allgemein
 ---

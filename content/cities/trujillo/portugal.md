@@ -1,5 +1,5 @@
 ---
 title: "Portugal"
 url: /trujillo/portugal/
-shop: comodidad
+shop: Lebensmittel
 ---

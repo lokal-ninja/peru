@@ -1,5 +1,5 @@
 ---
 title: "Optica Punta Visual"
 url: /lince/optica-punta-visual/
-shop: óptico
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AdvanceBer"
 url: /sechura/advanceber/
-shop: cosméticos
+shop: Kosmetik
 ---

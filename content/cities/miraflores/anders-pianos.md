@@ -1,5 +1,5 @@
 ---
 title: "Anders Pianos"
 url: /miraflores/anders-pianos/
-shop: instrumento musical
+shop: Instrumente
 ---

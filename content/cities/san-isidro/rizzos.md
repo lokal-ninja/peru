@@ -1,5 +1,5 @@
 ---
 title: "Rizzos"
 url: /san-isidro/rizzos/
-shop: general
+shop: Allgemein
 ---

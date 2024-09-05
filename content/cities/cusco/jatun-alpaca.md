@@ -1,5 +1,5 @@
 ---
 title: "Jatun Alpaca"
 url: /cusco/jatun-alpaca/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ayell"
 url: /huarmey/ayell/
-shop: ropa
+shop: Kleidung
 ---

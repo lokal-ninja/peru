@@ -1,5 +1,5 @@
 ---
 title: "Asroandina"
 url: /ayacucho/asroandina/
-shop: agraria
+shop: Landwirtschaftlich
 ---

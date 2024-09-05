@@ -1,5 +1,5 @@
 ---
 title: "Cynthia"
 url: /huarmey/cynthia/
-shop: comodidad
+shop: Lebensmittel
 ---

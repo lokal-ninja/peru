@@ -1,5 +1,5 @@
 ---
 title: "Tapiceria"
 url: /chaclacayo/tapiceria/
-shop: general
+shop: Allgemein
 ---

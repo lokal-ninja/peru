@@ -1,5 +1,5 @@
 ---
 title: "Optica Primavera"
 url: /miraflores/optica-primavera/
-shop: óptico
+shop: Optiker
 ---

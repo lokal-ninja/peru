@@ -1,5 +1,5 @@
 ---
 title: "Munoa"
 url: /miraflores/munoa/
-shop: general
+shop: Allgemein
 ---

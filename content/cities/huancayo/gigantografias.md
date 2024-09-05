@@ -1,5 +1,5 @@
 ---
 title: "Gigantografías"
 url: /huancayo/gigantografias/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Copyfull"
 url: /chiclayo/copyfull/
-shop: copyshop
+shop: Kopieren
 ---

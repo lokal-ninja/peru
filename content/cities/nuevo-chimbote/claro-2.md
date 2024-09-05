@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /nuevo-chimbote/claro-2/
-shop: comodidad
+shop: Lebensmittel
 ---

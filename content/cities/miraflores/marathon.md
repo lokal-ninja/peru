@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /miraflores/marathon/
-shop: deportes
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Credilents"
 url: /arequipa/credilents/
-shop: óptico
+shop: Optiker
 ---

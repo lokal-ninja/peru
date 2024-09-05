@@ -1,5 +1,5 @@
 ---
 title: "Crisol"
 url: /independencia/crisol/
-shop: libros
+shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /huarmey/movistar/
-shop: teléfono móvil
+shop: Handy
 ---

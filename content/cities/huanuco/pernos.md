@@ -1,5 +1,5 @@
 ---
 title: "Pernos"
 url: /huanuco/pernos/
-shop: hardware
+shop: Eisenwaren
 ---

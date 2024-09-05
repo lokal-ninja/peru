@@ -1,5 +1,5 @@
 ---
 title: "Libreria Mi Melanie"
 url: /chiclayo/libreria-mi-melanie/
-shop: general
+shop: Allgemein
 ---

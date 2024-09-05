@@ -1,5 +1,5 @@
 ---
 title: "Santa Sofia Del Sur"
 url: /casma/santa-sofia-del-sur/
-shop: general
+shop: Allgemein
 ---

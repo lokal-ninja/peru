@@ -1,5 +1,5 @@
 ---
 title: "Kabaru"
 url: /ayacucho/kabaru/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cristo La Roca"
 url: /trujillo/cristo-la-roca/
-shop: general
+shop: Allgemein
 ---

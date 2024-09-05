@@ -1,5 +1,5 @@
 ---
 title: "Bianchezza"
 url: /lince/bianchezza/
-shop: lavandería
+shop: Wäscherei
 ---

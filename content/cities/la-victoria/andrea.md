@@ -1,5 +1,5 @@
 ---
 title: "Andrea"
 url: /la-victoria/andrea/
-shop: general
+shop: Allgemein
 ---

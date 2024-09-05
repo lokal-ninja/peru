@@ -1,5 +1,5 @@
 ---
 title: "Tumi"
 url: /chorrillos/tumi/
-shop: lavandería
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kia Motors"
 url: /san-miguel/kia-motors/
-shop: coche
+shop: Autohaus
 ---

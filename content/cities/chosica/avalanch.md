@@ -1,5 +1,5 @@
 ---
 title: "Avalanch"
 url: /chosica/avalanch/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vittorino"
 url: /trujillo/vittorino/
-shop: pastelería
+shop: Konditorei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /bellavista/bata/
-shop: zapatos
+shop: Schuhe
 ---

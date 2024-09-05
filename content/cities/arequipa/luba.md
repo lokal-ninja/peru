@@ -1,5 +1,5 @@
 ---
 title: "Luba"
 url: /arequipa/luba/
-shop: ropa
+shop: Kleidung
 ---

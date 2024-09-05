@@ -1,5 +1,5 @@
 ---
 title: "Frutas Verduras Jhony"
 url: /santiago-de-surco/frutas-verduras-jhony/
-shop: frutería
+shop: Gemüse & Obst
 ---

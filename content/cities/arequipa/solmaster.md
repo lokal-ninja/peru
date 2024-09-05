@@ -1,5 +1,5 @@
 ---
 title: "SoLMaster"
 url: /arequipa/solmaster/
-shop: general
+shop: Allgemein
 ---

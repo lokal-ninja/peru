@@ -1,5 +1,5 @@
 ---
 title: "Maza"
 url: /ayacucho/maza/
-shop: hardware
+shop: Eisenwaren
 ---

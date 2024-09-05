@@ -1,5 +1,5 @@
 ---
 title: "Intralot"
 url: /chiclayo/intralot/
-shop: general
+shop: Allgemein
 ---

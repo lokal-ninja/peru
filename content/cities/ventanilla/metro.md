@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /ventanilla/metro/
-shop: supermercado
+shop: Supermarkt
 ---

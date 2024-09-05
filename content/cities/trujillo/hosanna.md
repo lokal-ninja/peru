@@ -1,5 +1,5 @@
 ---
 title: "Hosanna"
 url: /trujillo/hosanna/
-shop: hardware
+shop: Eisenwaren
 ---

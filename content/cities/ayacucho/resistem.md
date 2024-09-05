@@ -1,5 +1,5 @@
 ---
 title: "Resistem"
 url: /ayacucho/resistem/
-shop: agraria
+shop: Landwirtschaftlich
 ---

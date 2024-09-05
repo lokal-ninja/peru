@@ -1,5 +1,5 @@
 ---
 title: "Mary"
 url: /chorrillos/mary/
-shop: regalo
+shop: Andenken
 ---

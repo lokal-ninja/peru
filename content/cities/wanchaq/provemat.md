@@ -1,5 +1,5 @@
 ---
 title: "Provemat"
 url: /wanchaq/provemat/
-shop: hardware
+shop: Eisenwaren
 ---

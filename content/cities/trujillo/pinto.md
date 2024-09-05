@@ -1,5 +1,5 @@
 ---
 title: "Pinto"
 url: /trujillo/pinto/
-shop: general
+shop: Allgemein
 ---

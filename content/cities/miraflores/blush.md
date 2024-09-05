@@ -1,5 +1,5 @@
 ---
 title: "Blush"
 url: /miraflores/blush/
-shop: cosméticos
+shop: Kosmetik
 ---

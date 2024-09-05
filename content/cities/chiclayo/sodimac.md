@@ -1,5 +1,5 @@
 ---
 title: "Sodimac"
 url: /chiclayo/sodimac/
-shop: centro comercial
+shop: Einkaufszentrum
 ---

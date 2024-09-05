@@ -1,5 +1,5 @@
 ---
 title: "Lajconsa"
 url: /trujillo/lajconsa/
-shop: comodidad
+shop: Lebensmittel
 ---

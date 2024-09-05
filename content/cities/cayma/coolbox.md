@@ -1,5 +1,5 @@
 ---
 title: "Coolbox"
 url: /cayma/coolbox/
-shop: aparato
+shop: Haushaltsgeräte
 ---

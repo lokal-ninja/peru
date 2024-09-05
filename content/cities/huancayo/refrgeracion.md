@@ -1,5 +1,5 @@
 ---
 title: "Refrgeracion"
 url: /huancayo/refrgeracion/
-shop: general
+shop: Allgemein
 ---

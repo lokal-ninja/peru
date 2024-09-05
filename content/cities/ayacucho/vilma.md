@@ -1,5 +1,5 @@
 ---
 title: "Vilma"
 url: /ayacucho/vilma/
-shop: hardware
+shop: Eisenwaren
 ---

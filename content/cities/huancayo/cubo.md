@@ -1,5 +1,5 @@
 ---
 title: "Cubo"
 url: /huancayo/cubo/
-shop: juguetes
+shop: Spielzeug
 ---

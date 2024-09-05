@@ -1,5 +1,5 @@
 ---
 title: "Relax"
 url: /chosica/relax/
-shop: general
+shop: Allgemein
 ---

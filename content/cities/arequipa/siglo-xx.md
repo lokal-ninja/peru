@@ -1,5 +1,5 @@
 ---
 title: "Siglo XX"
 url: /arequipa/siglo-xx/
-shop: comodidad
+shop: Lebensmittel
 ---

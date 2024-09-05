@@ -1,5 +1,5 @@
 ---
 title: "Podología"
 url: /bellavista/podologia/
-shop: general
+shop: Allgemein
 ---

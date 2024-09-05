@@ -1,5 +1,5 @@
 ---
 title: "Maderera Criszac"
 url: /mala/maderera-criszac/
-shop: comercio
+shop: Baustoffe
 ---

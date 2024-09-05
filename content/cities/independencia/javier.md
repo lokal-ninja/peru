@@ -1,5 +1,5 @@
 ---
 title: "Javier"
 url: /independencia/javier/
-shop: peluquería
+shop: Friseur
 ---

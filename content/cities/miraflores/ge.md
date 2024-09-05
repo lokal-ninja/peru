@@ -1,5 +1,5 @@
 ---
 title: "GE"
 url: /miraflores/ge/
-shop: electrónica
+shop: Elektronik
 ---

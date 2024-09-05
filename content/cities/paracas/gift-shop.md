@@ -1,5 +1,5 @@
 ---
 title: "Gift Shop"
 url: /paracas/gift-shop/
-shop: regalo
+shop: Andenken
 ---

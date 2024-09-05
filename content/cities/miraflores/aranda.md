@@ -1,5 +1,5 @@
 ---
 title: "Aranda"
 url: /miraflores/aranda/
-shop: general
+shop: Allgemein
 ---

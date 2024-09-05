@@ -1,5 +1,5 @@
 ---
 title: "Vencedor"
 url: /miraflores/vencedor/
-shop: pintura
+shop: Farben
 ---

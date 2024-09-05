@@ -1,5 +1,5 @@
 ---
 title: "Karol"
 url: /chincha-alta/karol/
-shop: general
+shop: Allgemein
 ---

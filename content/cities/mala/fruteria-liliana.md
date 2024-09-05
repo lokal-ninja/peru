@@ -1,5 +1,5 @@
 ---
 title: "Frutería Liliana"
 url: /mala/fruteria-liliana/
-shop: frutería
+shop: Gemüse & Obst
 ---

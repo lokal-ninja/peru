@@ -1,5 +1,5 @@
 ---
 title: "Napema"
 url: /trujillo/napema/
-shop: pintura
+shop: Farben
 ---

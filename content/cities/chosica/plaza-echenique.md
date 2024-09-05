@@ -1,5 +1,5 @@
 ---
 title: "Plaza Echenique"
 url: /chosica/plaza-echenique/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Calcina"
 url: /chosica/calcina/
-shop: sastre
+shop: Schneiderei
 ---

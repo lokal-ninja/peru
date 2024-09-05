@@ -1,5 +1,5 @@
 ---
 title: "Unión"
 url: /arequipa/union/
-shop: libros
+shop: Bücher
 ---

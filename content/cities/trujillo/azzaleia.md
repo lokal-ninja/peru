@@ -1,5 +1,5 @@
 ---
 title: "Azzaléia"
 url: /trujillo/azzaleia/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Arife"
 url: /pisco/arife/
-shop: motocicleta
+shop: Motorrad
 ---

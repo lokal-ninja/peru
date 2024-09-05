@@ -1,5 +1,5 @@
 ---
 title: "NeoMarket"
 url: /lurin/neomarket/
-shop: comodidad
+shop: Lebensmittel
 ---

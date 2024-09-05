@@ -1,5 +1,5 @@
 ---
 title: "Iwash"
 url: /ayacucho/iwash/
-shop: lavandería
+shop: Wäscherei
 ---

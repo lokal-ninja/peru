@@ -1,5 +1,5 @@
 ---
 title: "America"
 url: /ciudad-nueva/america/
-shop: alquiler
+shop: Mieten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mitsubishi"
 url: /los-olivos/mitsubishi/
-shop: coche
+shop: Autohaus
 ---

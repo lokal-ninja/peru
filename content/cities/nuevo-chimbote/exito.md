@@ -1,5 +1,5 @@
 ---
 title: "Exito"
 url: /nuevo-chimbote/exito/
-shop: general
+shop: Allgemein
 ---

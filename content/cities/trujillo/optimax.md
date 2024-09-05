@@ -1,5 +1,5 @@
 ---
 title: "Optimax"
 url: /trujillo/optimax/
-shop: óptico
+shop: Optiker
 ---

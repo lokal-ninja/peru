@@ -1,5 +1,5 @@
 ---
 title: "vision"
 url: /arequipa/vision/
-shop: óptico
+shop: Optiker
 ---

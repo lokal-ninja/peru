@@ -1,5 +1,5 @@
 ---
 title: "Ripley"
 url: /chiclayo/ripley/
-shop: general
+shop: Allgemein
 ---

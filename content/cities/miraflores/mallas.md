@@ -1,5 +1,5 @@
 ---
 title: "Mallas"
 url: /miraflores/mallas/
-shop: general
+shop: Allgemein
 ---

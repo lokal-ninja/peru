@@ -1,5 +1,5 @@
 ---
 title: "Comercial Yuli"
 url: /benemerita-villa-san-pedro-de-hualla/comercial-yuli/
-shop: general
+shop: Allgemein
 ---

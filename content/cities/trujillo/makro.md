@@ -1,5 +1,5 @@
 ---
 title: "Makro"
 url: /trujillo/makro/
-shop: mayorista
+shop: Großhandel
 ---

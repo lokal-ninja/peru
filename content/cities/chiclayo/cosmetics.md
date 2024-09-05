@@ -1,5 +1,5 @@
 ---
 title: "Cosmetics"
 url: /chiclayo/cosmetics/
-shop: cosméticos
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CoolBox"
 url: /lima/coolbox/
-shop: general
+shop: Allgemein
 ---

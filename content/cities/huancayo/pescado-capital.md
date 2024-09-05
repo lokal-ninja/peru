@@ -1,5 +1,5 @@
 ---
 title: "Pescado Capital"
 url: /huancayo/pescado-capital/
-shop: general
+shop: Allgemein
 ---

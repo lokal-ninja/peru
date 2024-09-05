@@ -1,5 +1,5 @@
 ---
 title: "Perezoso"
 url: /miraflores/perezoso/
-shop: general
+shop: Allgemein
 ---

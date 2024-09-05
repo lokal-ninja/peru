@@ -1,5 +1,5 @@
 ---
 title: "Jugo's"
 url: /jesus-maria/jugos/
-shop: general
+shop: Allgemein
 ---

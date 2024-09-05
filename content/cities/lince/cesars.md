@@ -1,5 +1,5 @@
 ---
 title: "Cesar's"
 url: /lince/cesars/
-shop: general
+shop: Allgemein
 ---

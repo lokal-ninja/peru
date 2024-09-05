@@ -1,5 +1,5 @@
 ---
 title: "Limagas"
 url: /chorrillos/limagas/
-shop: gas
+shop: Gasflaschen
 ---

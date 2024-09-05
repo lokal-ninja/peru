@@ -1,5 +1,5 @@
 ---
 title: "Redisa"
 url: /trujillo/redisa/
-shop: general
+shop: Allgemein
 ---

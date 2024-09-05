@@ -1,5 +1,5 @@
 ---
 title: "Elektra"
 url: /trujillo/elektra/
-shop: grandes almacenes
+shop: Warenhaus
 ---

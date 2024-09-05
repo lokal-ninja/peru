@@ -1,5 +1,5 @@
 ---
 title: "Plaza Vea"
 url: /chosica/plaza-vea/
-shop: supermercado
+shop: Supermarkt
 ---

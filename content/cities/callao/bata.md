@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /callao/bata/
-shop: zapatos
+shop: Schuhe
 ---

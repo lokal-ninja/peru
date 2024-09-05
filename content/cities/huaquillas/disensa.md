@@ -1,5 +1,5 @@
 ---
 title: "disensa"
 url: /huaquillas/disensa/
-shop: hardware
+shop: Eisenwaren
 ---

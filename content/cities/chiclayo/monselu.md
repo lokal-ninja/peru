@@ -1,5 +1,5 @@
 ---
 title: "Monselú"
 url: /chiclayo/monselu/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mercy"
 url: /ventanilla/mercy/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pinturas Mio's"
 url: /chiclayo/pinturas-mios/
-shop: pintura
+shop: Farben
 ---

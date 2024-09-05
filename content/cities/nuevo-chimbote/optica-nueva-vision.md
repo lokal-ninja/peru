@@ -1,5 +1,5 @@
 ---
 title: "Optica Nueva Vision"
 url: /nuevo-chimbote/optica-nueva-vision/
-shop: óptico
+shop: Optiker
 ---

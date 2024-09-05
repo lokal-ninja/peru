@@ -1,5 +1,5 @@
 ---
 title: "Samsung"
 url: /independencia/samsung/
-shop: electrónica
+shop: Elektronik
 ---

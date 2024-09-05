@@ -1,5 +1,5 @@
 ---
 title: "Valeatina"
 url: /ayacucho/valeatina/
-shop: general
+shop: Allgemein
 ---

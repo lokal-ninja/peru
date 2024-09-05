@@ -1,5 +1,5 @@
 ---
 title: "Ibañez"
 url: /trujillo/ibanez/
-shop: hardware
+shop: Eisenwaren
 ---

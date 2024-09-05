@@ -1,5 +1,5 @@
 ---
 title: "TVS"
 url: /ayacucho/tvs/
-shop: general
+shop: Allgemein
 ---

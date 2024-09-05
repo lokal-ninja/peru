@@ -1,5 +1,5 @@
 ---
 title: "Electrónica"
 url: /trujillo/electronica/
-shop: electrónica
+shop: Elektronik
 ---

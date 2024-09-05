@@ -1,5 +1,5 @@
 ---
 title: "Ayala"
 url: /ayacucho/ayala/
-shop: reparación de automóviles
+shop: Autowerkstatt
 ---

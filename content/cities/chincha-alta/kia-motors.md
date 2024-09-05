@@ -1,5 +1,5 @@
 ---
 title: "Kia Motors"
 url: /chincha-alta/kia-motors/
-shop: coche
+shop: Autohaus
 ---

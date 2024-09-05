@@ -1,5 +1,5 @@
 ---
 title: "Polmira"
 url: /trujillo/polmira/
-shop: comodidad
+shop: Lebensmittel
 ---

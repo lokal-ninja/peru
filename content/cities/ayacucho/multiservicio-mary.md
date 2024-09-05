@@ -1,5 +1,5 @@
 ---
 title: "Multiservicio Mary"
 url: /ayacucho/multiservicio-mary/
-shop: general
+shop: Allgemein
 ---

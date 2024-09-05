@@ -1,5 +1,5 @@
 ---
 title: "Cuz"
 url: /arequipa/cuz/
-shop: hardware
+shop: Eisenwaren
 ---

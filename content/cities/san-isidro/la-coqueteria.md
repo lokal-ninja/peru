@@ -1,5 +1,5 @@
 ---
 title: "La Coquetería"
 url: /san-isidro/la-coqueteria/
-shop: general
+shop: Allgemein
 ---

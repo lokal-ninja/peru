@@ -1,5 +1,5 @@
 ---
 title: "Chery"
 url: /chincha-alta/chery/
-shop: coche
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bodega El Corner"
 url: /huarmey/bodega-el-corner/
-shop: comodidad
+shop: Lebensmittel
 ---

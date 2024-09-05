@@ -1,5 +1,5 @@
 ---
 title: "Klix"
 url: /chorrillos/klix/
-shop: lavandería
+shop: Wäscherei
 ---

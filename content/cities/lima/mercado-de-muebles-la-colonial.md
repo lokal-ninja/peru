@@ -1,5 +1,5 @@
 ---
 title: "Mercado de muebles La Colonial"
 url: /lima/mercado-de-muebles-la-colonial/
-shop: centro comercial
+shop: Einkaufszentrum
 ---

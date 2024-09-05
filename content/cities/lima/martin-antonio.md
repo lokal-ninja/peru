@@ -1,5 +1,5 @@
 ---
 title: "Martin Antonio"
 url: /lima/martin-antonio/
-shop: muebles
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Entel"
 url: /arequipa/entel/
-shop: teléfono móvil
+shop: Handy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /el-agustino/metro/
-shop: supermercado
+shop: Supermarkt
 ---

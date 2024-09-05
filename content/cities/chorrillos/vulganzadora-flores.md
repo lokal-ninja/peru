@@ -1,5 +1,5 @@
 ---
 title: "Vulganzadora Flores"
 url: /chorrillos/vulganzadora-flores/
-shop: floristería
+shop: Blumen
 ---

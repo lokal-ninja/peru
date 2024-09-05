@@ -1,5 +1,5 @@
 ---
 title: "Came"
 url: /huarmey/came/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Enaco"
 url: /ayacucho/enaco/
-shop: general
+shop: Allgemein
 ---

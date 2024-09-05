@@ -1,5 +1,5 @@
 ---
 title: "Retina"
 url: /trujillo/retina/
-shop: óptico
+shop: Optiker
 ---

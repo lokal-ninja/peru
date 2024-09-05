@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /miraflores/toyota/
-shop: coche
+shop: Autohaus
 ---

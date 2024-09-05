@@ -1,5 +1,5 @@
 ---
 title: "Guadalupe"
 url: /arequipa/guadalupe/
-shop: general
+shop: Allgemein
 ---

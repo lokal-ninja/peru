@@ -1,5 +1,5 @@
 ---
 title: "Kero"
 url: /ayacucho/kero/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Paraíso"
 url: /independencia/paraiso/
-shop: cama
+shop: Betten
 ---

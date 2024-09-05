@@ -1,5 +1,5 @@
 ---
 title: "Vernácula"
 url: /san-isidro/vernacula/
-shop: ropa
+shop: Kleidung
 ---

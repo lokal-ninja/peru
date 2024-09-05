@@ -1,5 +1,5 @@
 ---
 title: "Tapizados"
 url: /bellavista/tapizados/
-shop: general
+shop: Allgemein
 ---

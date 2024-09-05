@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /brena/metro/
-shop: supermercado
+shop: Supermarkt
 ---

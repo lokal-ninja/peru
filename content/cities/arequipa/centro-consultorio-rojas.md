@@ -1,5 +1,5 @@
 ---
 title: "Centro consultorio Rojas"
 url: /arequipa/centro-consultorio-rojas/
-shop: óptico
+shop: Optiker
 ---

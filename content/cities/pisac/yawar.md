@@ -1,5 +1,5 @@
 ---
 title: "Yawar"
 url: /pisac/yawar/
-shop: tatuaje
+shop: Tattoo
 ---

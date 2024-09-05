@@ -1,5 +1,5 @@
 ---
 title: "Andrade"
 url: /trujillo/andrade/
-shop: hardware
+shop: Eisenwaren
 ---

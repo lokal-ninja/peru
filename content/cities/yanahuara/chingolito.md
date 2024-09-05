@@ -1,5 +1,5 @@
 ---
 title: "Chingolito"
 url: /yanahuara/chingolito/
-shop: supermercado
+shop: Supermarkt
 ---

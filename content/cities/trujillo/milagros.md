@@ -1,5 +1,5 @@
 ---
 title: "Milagros"
 url: /trujillo/milagros/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jossy"
 url: /miraflores/jossy/
-shop: panadería
+shop: Bäckerei
 ---

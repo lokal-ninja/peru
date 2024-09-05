@@ -1,5 +1,5 @@
 ---
 title: "Bridgestone"
 url: /arequipa/bridgestone/
-shop: neumáticos
+shop: Reifen
 ---

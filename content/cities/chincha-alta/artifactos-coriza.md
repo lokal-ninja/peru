@@ -1,5 +1,5 @@
 ---
 title: "Artifactos Coriza"
 url: /chincha-alta/artifactos-coriza/
-shop: general
+shop: Allgemein
 ---

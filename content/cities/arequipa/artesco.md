@@ -1,5 +1,5 @@
 ---
 title: "Artesco"
 url: /arequipa/artesco/
-shop: libros
+shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Casa Henry"
 url: /jesus-maria/casa-henry/
-shop: general
+shop: Allgemein
 ---

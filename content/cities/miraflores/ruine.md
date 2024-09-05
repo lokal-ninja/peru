@@ -1,5 +1,5 @@
 ---
 title: "Ruine"
 url: /miraflores/ruine/
-shop: peluquería
+shop: Friseur
 ---

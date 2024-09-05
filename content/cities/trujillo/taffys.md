@@ -1,5 +1,5 @@
 ---
 title: "Taffy's"
 url: /trujillo/taffys/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Uno"
 url: /miraflores/uno/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tambo+"
 url: /miraflores/tambo/
-shop: comodidad
+shop: Lebensmittel
 ---

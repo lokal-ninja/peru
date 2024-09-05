@@ -1,5 +1,5 @@
 ---
 title: "Rotoplas"
 url: /ayacucho/rotoplas/
-shop: cuarto de baño
+shop: Badezimmer
 ---

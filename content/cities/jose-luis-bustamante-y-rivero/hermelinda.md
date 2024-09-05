@@ -1,5 +1,5 @@
 ---
 title: "Hermelinda"
 url: /jose-luis-bustamante-y-rivero/hermelinda/
-shop: frutería
+shop: Gemüse & Obst
 ---

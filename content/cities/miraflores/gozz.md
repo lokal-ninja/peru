@@ -1,5 +1,5 @@
 ---
 title: "Gozz"
 url: /miraflores/gozz/
-shop: general
+shop: Allgemein
 ---

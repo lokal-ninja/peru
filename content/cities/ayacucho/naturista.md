@@ -1,5 +1,5 @@
 ---
 title: "Naturista"
 url: /ayacucho/naturista/
-shop: herbolario
+shop: Kräuter
 ---

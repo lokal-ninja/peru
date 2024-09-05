@@ -1,5 +1,5 @@
 ---
 title: "La Solución"
 url: /huarmey/la-solucion/
-shop: hardware
+shop: Eisenwaren
 ---

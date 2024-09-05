@@ -1,5 +1,5 @@
 ---
 title: "Armonica"
 url: /miraflores/armonica/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Doch"
 url: /san-martin-de-porres/doch/
-shop: zapatos
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MaxiAhorro"
 url: /chulucanas/maxiahorro/
-shop: supermercado
+shop: Supermarkt
 ---

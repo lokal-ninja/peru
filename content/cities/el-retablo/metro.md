@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /el-retablo/metro/
-shop: supermercado
+shop: Supermarkt
 ---

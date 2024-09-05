@@ -1,5 +1,5 @@
 ---
 title: "Destellos Ópticos"
 url: /surquillo/destellos-opticos/
-shop: óptico
+shop: Optiker
 ---

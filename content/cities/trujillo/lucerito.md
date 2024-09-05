@@ -1,5 +1,5 @@
 ---
 title: "Lucerito"
 url: /trujillo/lucerito/
-shop: arte
+shop: Kunst
 ---

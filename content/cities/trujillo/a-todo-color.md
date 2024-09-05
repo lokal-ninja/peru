@@ -1,5 +1,5 @@
 ---
 title: "A Todo Color"
 url: /trujillo/a-todo-color/
-shop: pintura
+shop: Farben
 ---

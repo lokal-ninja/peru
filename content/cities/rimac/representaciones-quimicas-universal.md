@@ -1,5 +1,5 @@
 ---
 title: "Representaciones Químicas Universal"
 url: /rimac/representaciones-quimicas-universal/
-shop: general
+shop: Allgemein
 ---

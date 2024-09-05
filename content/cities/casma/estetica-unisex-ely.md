@@ -1,5 +1,5 @@
 ---
 title: "Estetica Unisex Ely"
 url: /casma/estetica-unisex-ely/
-shop: peluquería
+shop: Friseur
 ---

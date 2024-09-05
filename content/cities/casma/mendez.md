@@ -1,5 +1,5 @@
 ---
 title: "Mendez"
 url: /casma/mendez/
-shop: agraria
+shop: Landwirtschaftlich
 ---

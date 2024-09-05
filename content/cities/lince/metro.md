@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /lince/metro/
-shop: supermercado
+shop: Supermarkt
 ---

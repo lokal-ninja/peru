@@ -1,5 +1,5 @@
 ---
 title: "Coolbox"
 url: /jesus-maria/coolbox/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mass"
 url: /surquillo/mass/
-shop: comodidad
+shop: Lebensmittel
 ---

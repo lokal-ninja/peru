@@ -1,5 +1,5 @@
 ---
 title: "Don Alex"
 url: /alto-peru/don-alex/
-shop: comodidad
+shop: Lebensmittel
 ---

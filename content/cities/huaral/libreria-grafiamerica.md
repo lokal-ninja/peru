@@ -1,5 +1,5 @@
 ---
 title: "Libreria Grafiamerica"
 url: /huaral/libreria-grafiamerica/
-shop: libros
+shop: Bücher
 ---

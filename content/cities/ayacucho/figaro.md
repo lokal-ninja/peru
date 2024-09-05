@@ -1,5 +1,5 @@
 ---
 title: "Figaro"
 url: /ayacucho/figaro/
-shop: ropa
+shop: Kleidung
 ---

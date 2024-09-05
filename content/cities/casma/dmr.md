@@ -1,5 +1,5 @@
 ---
 title: "DMR"
 url: /casma/dmr/
-shop: ropa
+shop: Kleidung
 ---

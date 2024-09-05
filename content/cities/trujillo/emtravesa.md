@@ -1,5 +1,5 @@
 ---
 title: "Emtravesa"
 url: /trujillo/emtravesa/
-shop: general
+shop: Allgemein
 ---

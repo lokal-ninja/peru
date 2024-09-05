@@ -1,5 +1,5 @@
 ---
 title: "SaniCenter"
 url: /ica/sanicenter/
-shop: general
+shop: Allgemein
 ---

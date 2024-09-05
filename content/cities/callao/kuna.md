@@ -1,5 +1,5 @@
 ---
 title: "Kuna"
 url: /callao/kuna/
-shop: ropa
+shop: Kleidung
 ---

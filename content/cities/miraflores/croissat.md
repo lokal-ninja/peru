@@ -1,5 +1,5 @@
 ---
 title: "Croissat"
 url: /miraflores/croissat/
-shop: panadería
+shop: Bäckerei
 ---

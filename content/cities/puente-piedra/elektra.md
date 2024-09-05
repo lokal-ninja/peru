@@ -1,5 +1,5 @@
 ---
 title: "Elektra"
 url: /puente-piedra/elektra/
-shop: electrónica
+shop: Elektronik
 ---

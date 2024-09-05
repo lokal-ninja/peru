@@ -1,5 +1,5 @@
 ---
 title: "Gintex"
 url: /la-victoria/gintex/
-shop: tela
+shop: Textil
 ---

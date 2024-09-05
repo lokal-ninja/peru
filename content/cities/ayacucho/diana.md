@@ -1,5 +1,5 @@
 ---
 title: "Diana"
 url: /ayacucho/diana/
-shop: peluquería
+shop: Friseur
 ---

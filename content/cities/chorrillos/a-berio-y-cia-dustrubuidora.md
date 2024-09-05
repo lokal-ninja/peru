@@ -1,5 +1,5 @@
 ---
 title: "A. Berio y CIA Dustrubuidora"
 url: /chorrillos/a-berio-y-cia-dustrubuidora/
-shop: general
+shop: Allgemein
 ---

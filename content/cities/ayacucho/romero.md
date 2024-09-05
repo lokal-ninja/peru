@@ -1,5 +1,5 @@
 ---
 title: "Romero"
 url: /ayacucho/romero/
-shop: comodidad
+shop: Lebensmittel
 ---

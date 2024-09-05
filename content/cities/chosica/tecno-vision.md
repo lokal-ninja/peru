@@ -1,5 +1,5 @@
 ---
 title: "Tecno Vision"
 url: /chosica/tecno-vision/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CompuPalace"
 url: /miraflores/compupalace/
-shop: ordenador
+shop: Computer
 ---
