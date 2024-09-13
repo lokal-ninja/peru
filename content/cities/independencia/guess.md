@@ -1,5 +1,5 @@
 ---
 title: "Guess"
 url: /independencia/guess/
-shop: Kleidung
+shop: ropa
 ---

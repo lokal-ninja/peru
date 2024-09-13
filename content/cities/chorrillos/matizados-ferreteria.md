@@ -1,5 +1,5 @@
 ---
 title: "Matizados Ferreteria"
 url: /chorrillos/matizados-ferreteria/
-shop: Eisenwaren
+shop: hardware
 ---

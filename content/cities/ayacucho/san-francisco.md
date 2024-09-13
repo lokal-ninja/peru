@@ -1,5 +1,5 @@
 ---
 title: "San Francisco"
 url: /ayacucho/san-francisco/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

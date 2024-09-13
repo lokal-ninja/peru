@@ -1,5 +1,5 @@
 ---
 title: "Viajes Pacífico"
 url: /miraflores/viajes-pacifico/
-shop: Reisebüro
+shop: agencia de viajes
 ---

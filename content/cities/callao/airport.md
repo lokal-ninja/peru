@@ -1,5 +1,5 @@
 ---
 title: "Airport"
 url: /callao/airport/
-shop: Tickets
+shop: entradas
 ---

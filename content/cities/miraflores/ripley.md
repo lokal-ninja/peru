@@ -1,5 +1,5 @@
 ---
 title: "Ripley"
 url: /miraflores/ripley/
-shop: Warenhaus
+shop: grandes almacenes
 ---

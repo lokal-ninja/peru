@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Libertad"
 url: /carabayllo/ferreteria-libertad/
-shop: Eisenwaren
+shop: hardware
 ---

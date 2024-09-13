@@ -1,5 +1,5 @@
 ---
 title: "Avanty"
 url: /lima/avanty-prolongacion-parinacochas/
-shop: Betten
+shop: cama
 ---

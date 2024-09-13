@@ -1,5 +1,5 @@
 ---
 title: "Tapiceria Angel"
 url: /ayacucho/tapiceria-angel/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

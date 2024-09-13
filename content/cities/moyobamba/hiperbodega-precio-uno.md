@@ -1,5 +1,5 @@
 ---
 title: "Hiperbodega Precio Uno"
 url: /moyobamba/hiperbodega-precio-uno/
-shop: Supermarkt
+shop: supermercado
 ---

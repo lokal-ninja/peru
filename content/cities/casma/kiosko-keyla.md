@@ -1,5 +1,5 @@
 ---
 title: "Kiosko Keyla"
 url: /casma/kiosko-keyla/
-shop: Allgemein
+shop: general
 ---

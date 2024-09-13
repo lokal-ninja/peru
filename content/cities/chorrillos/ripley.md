@@ -1,5 +1,5 @@
 ---
 title: "Ripley"
 url: /chorrillos/ripley/
-shop: Warenhaus
+shop: grandes almacenes
 ---

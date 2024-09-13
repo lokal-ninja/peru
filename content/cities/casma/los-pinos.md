@@ -1,5 +1,5 @@
 ---
 title: "Los Pinos"
 url: /casma/los-pinos/
-shop: Allgemein
+shop: general
 ---

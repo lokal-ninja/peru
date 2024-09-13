@@ -1,5 +1,5 @@
 ---
 title: "Bomberman"
 url: /ayacucho/bomberman/
-shop: Spirituosen
+shop: alcohol
 ---

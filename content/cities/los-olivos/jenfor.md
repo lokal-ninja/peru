@@ -1,5 +1,5 @@
 ---
 title: "Jenfor"
 url: /los-olivos/jenfor/
-shop: Autoteile
+shop: piezas de automóviles
 ---

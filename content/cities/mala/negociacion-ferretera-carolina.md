@@ -1,5 +1,5 @@
 ---
 title: "Negociación Ferretera Carolina"
 url: /mala/negociacion-ferretera-carolina/
-shop: Baustoffe
+shop: comercio
 ---

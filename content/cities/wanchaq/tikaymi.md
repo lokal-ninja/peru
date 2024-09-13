@@ -1,5 +1,5 @@
 ---
 title: "Tikaymi"
 url: /wanchaq/tikaymi/
-shop: Reisebüro
+shop: agencia de viajes
 ---

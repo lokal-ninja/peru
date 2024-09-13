@@ -1,5 +1,5 @@
 ---
 title: "Hidraulicos"
 url: /chorrillos/hidraulicos/
-shop: Allgemein
+shop: general
 ---

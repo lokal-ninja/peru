@@ -1,5 +1,5 @@
 ---
 title: "Chichos Oil"
 url: /trujillo/chichos-oil/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

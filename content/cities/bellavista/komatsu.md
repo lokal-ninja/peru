@@ -1,5 +1,5 @@
 ---
 title: "Komatsu"
 url: /bellavista/komatsu/
-shop: Autohaus
+shop: coche
 ---

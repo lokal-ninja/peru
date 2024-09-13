@@ -1,5 +1,5 @@
 ---
 title: "Santa Cruz"
 url: /casma/santa-cruz/
-shop: Lebensmittel
+shop: comodidad
 ---

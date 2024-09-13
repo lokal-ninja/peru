@@ -1,5 +1,5 @@
 ---
 title: "Venta de Carboón"
 url: /ayacucho/venta-de-carboon/
-shop: Allgemein
+shop: general
 ---

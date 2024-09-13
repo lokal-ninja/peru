@@ -1,5 +1,5 @@
 ---
 title: "Entel"
 url: /chosica/entel/
-shop: Elektronik
+shop: electrónica
 ---

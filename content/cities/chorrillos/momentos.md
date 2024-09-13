@@ -1,5 +1,5 @@
 ---
 title: "Momentos"
 url: /chorrillos/momentos/
-shop: Blumen
+shop: floristería
 ---

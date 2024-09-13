@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /chiclayo/bata/
-shop: Schuhe
+shop: zapatos
 ---

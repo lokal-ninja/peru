@@ -1,5 +1,5 @@
 ---
 title: "canvas"
 url: /miraflores/canvas/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bodega Los Pulpos"
 url: /lurin/bodega-los-pulpos/
-shop: Lebensmittel
+shop: comodidad
 ---

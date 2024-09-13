@@ -1,5 +1,5 @@
 ---
 title: "Oleocentro Union"
 url: /trujillo/oleocentro-union/
-shop: Allgemein
+shop: general
 ---

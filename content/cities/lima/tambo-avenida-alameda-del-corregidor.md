@@ -1,5 +1,5 @@
 ---
 title: "Tambo+"
 url: /lima/tambo-avenida-alameda-del-corregidor/
-shop: Lebensmittel
+shop: comodidad
 ---

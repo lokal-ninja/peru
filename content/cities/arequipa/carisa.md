@@ -1,5 +1,5 @@
 ---
 title: "Carisa"
 url: /arequipa/carisa/
-shop: Textil
+shop: tela
 ---

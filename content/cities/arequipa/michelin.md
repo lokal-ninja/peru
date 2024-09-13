@@ -1,5 +1,5 @@
 ---
 title: "MIchelin"
 url: /arequipa/michelin/
-shop: Autoteile
+shop: piezas de automóviles
 ---

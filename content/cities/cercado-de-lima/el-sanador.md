@@ -1,5 +1,5 @@
 ---
 title: "El Sanador"
 url: /cercado-de-lima/el-sanador/
-shop: Allgemein
+shop: general
 ---

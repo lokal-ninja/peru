@@ -1,5 +1,5 @@
 ---
 title: "Ricar"
 url: /chiclayo/ricar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

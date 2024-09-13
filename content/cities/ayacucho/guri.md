@@ -1,5 +1,5 @@
 ---
 title: "Gurí"
 url: /ayacucho/guri/
-shop: Autoteile
+shop: piezas de automóviles
 ---

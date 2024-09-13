@@ -1,5 +1,5 @@
 ---
 title: "Entel"
 url: /trujillo/entel/
-shop: Handy
+shop: teléfono móvil
 ---

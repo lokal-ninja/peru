@@ -1,5 +1,5 @@
 ---
 title: "Decor Center"
 url: /san-isidro/decor-center/
-shop: Allgemein
+shop: general
 ---

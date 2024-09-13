@@ -1,5 +1,5 @@
 ---
 title: "Sky Airline"
 url: /miraflores/sky-airline/
-shop: Reisebüro
+shop: agencia de viajes
 ---

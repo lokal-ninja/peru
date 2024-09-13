@@ -1,5 +1,5 @@
 ---
 title: "Piaceri"
 url: /lima/piaceri/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Grecia"
 url: /comas/grecia/
-shop: Friseur
+shop: peluquería
 ---

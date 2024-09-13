@@ -1,5 +1,5 @@
 ---
 title: "Apple Perú"
 url: /lince/apple-peru/
-shop: Radiotechnik
+shop: radiotecnia
 ---

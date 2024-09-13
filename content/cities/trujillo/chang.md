@@ -1,5 +1,5 @@
 ---
 title: "Chang"
 url: /trujillo/chang/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

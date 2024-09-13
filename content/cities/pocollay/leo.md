@@ -1,5 +1,5 @@
 ---
 title: "Leo"
 url: /pocollay/leo/
-shop: Dorfladen
+shop: tienda rural
 ---

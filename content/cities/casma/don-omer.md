@@ -1,5 +1,5 @@
 ---
 title: "Don Omer"
 url: /casma/don-omer/
-shop: Bäckerei
+shop: panadería
 ---

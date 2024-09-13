@@ -1,5 +1,5 @@
 ---
 title: "Jesus"
 url: /ayacucho/jesus/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

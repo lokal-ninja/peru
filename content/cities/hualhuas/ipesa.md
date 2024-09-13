@@ -1,5 +1,5 @@
 ---
 title: "Ipesa"
 url: /hualhuas/ipesa/
-shop: Autohaus
+shop: coche
 ---

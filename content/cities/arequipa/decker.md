@@ -1,5 +1,5 @@
 ---
 title: "Decker"
 url: /arequipa/decker/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

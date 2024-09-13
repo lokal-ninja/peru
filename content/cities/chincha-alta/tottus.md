@@ -1,5 +1,5 @@
 ---
 title: "Tottus"
 url: /chincha-alta/tottus/
-shop: Supermarkt
+shop: supermercado
 ---

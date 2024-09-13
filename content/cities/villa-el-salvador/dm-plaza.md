@@ -1,5 +1,5 @@
 ---
 title: "DM Plaza"
 url: /villa-el-salvador/dm-plaza/
-shop: Elektronik
+shop: electrónica
 ---

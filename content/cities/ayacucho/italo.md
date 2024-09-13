@@ -1,5 +1,5 @@
 ---
 title: "Italo"
 url: /ayacucho/italo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

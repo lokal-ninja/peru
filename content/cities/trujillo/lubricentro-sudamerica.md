@@ -1,5 +1,5 @@
 ---
 title: "Lubricentro Sudamerica"
 url: /trujillo/lubricentro-sudamerica/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

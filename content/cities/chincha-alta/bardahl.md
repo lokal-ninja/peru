@@ -1,5 +1,5 @@
 ---
 title: "Bardahl"
 url: /chincha-alta/bardahl/
-shop: Autoteile
+shop: piezas de automóviles
 ---

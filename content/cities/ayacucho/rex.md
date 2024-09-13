@@ -1,5 +1,5 @@
 ---
 title: "Rex"
 url: /ayacucho/rex/
-shop: Baustoffe
+shop: comercio
 ---

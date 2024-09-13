@@ -1,5 +1,5 @@
 ---
 title: "Fazu"
 url: /chosica/fazu/
-shop: Allgemein
+shop: general
 ---

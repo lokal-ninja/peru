@@ -1,5 +1,5 @@
 ---
 title: "Italika"
 url: /trujillo/italika/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

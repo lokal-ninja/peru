@@ -1,5 +1,5 @@
 ---
 title: "Manna"
 url: /miraflores/manna/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Frenos RAI"
 url: /chorrillos/frenos-rai/
-shop: Autoteile
+shop: piezas de automóviles
 ---

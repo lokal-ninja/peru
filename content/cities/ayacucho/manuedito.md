@@ -1,5 +1,5 @@
 ---
 title: "Manuedito"
 url: /ayacucho/manuedito/
-shop: Bäckerei
+shop: panadería
 ---

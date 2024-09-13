@@ -1,5 +1,5 @@
 ---
 title: "Optica Real"
 url: /chiclayo/optica-real/
-shop: Optiker
+shop: óptico
 ---

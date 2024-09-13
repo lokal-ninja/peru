@@ -1,5 +1,5 @@
 ---
 title: "San Cristobal"
 url: /ayacucho/san-cristobal/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

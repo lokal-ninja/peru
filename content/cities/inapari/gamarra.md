@@ -1,5 +1,5 @@
 ---
 title: "Gamarra"
 url: /inapari/gamarra/
-shop: Autoteile
+shop: piezas de automóviles
 ---

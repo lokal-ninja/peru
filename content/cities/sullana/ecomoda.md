@@ -1,5 +1,5 @@
 ---
 title: "Ecomoda"
 url: /sullana/ecomoda/
-shop: Kleidung
+shop: ropa
 ---

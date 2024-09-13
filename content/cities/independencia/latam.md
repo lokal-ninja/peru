@@ -1,5 +1,5 @@
 ---
 title: "LATAM"
 url: /independencia/latam/
-shop: Reisebüro
+shop: agencia de viajes
 ---

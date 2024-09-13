@@ -1,5 +1,5 @@
 ---
 title: "D'Mary"
 url: /huancayo/dmary/
-shop: Allgemein
+shop: general
 ---

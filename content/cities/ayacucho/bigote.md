@@ -1,5 +1,5 @@
 ---
 title: "Bigote"
 url: /ayacucho/bigote/
-shop: Autoteile
+shop: piezas de automóviles
 ---

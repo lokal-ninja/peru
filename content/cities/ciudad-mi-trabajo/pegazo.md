@@ -1,5 +1,5 @@
 ---
 title: "Pegazo"
 url: /ciudad-mi-trabajo/pegazo/
-shop: Autoteile
+shop: piezas de automóviles
 ---

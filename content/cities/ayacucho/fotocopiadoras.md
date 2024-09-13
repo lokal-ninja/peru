@@ -1,5 +1,5 @@
 ---
 title: "Fotocopiadoras"
 url: /ayacucho/fotocopiadoras/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dordados"
 url: /huarmey/dordados/
-shop: Badezimmer
+shop: cuarto de baño
 ---

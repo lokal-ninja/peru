@@ -1,5 +1,5 @@
 ---
 title: "Medical Spa"
 url: /tacna/medical-spa/
-shop: Kosmetik
+shop: cosméticos
 ---

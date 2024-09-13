@@ -1,5 +1,5 @@
 ---
 title: "Victor"
 url: /trujillo/victor/
-shop: Lebensmittel
+shop: comodidad
 ---

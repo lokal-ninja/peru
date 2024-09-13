@@ -1,5 +1,5 @@
 ---
 title: "Kamonaya"
 url: /villa-maria-del-triunfo/kamonaya/
-shop: Kramladen
+shop: tienda de variedades
 ---

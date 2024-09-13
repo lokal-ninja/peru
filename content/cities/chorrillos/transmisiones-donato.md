@@ -1,5 +1,5 @@
 ---
 title: "Transmisiones Donato"
 url: /chorrillos/transmisiones-donato/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

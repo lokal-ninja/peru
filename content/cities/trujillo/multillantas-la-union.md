@@ -1,5 +1,5 @@
 ---
 title: "Multillantas La Unión"
 url: /trujillo/multillantas-la-union/
-shop: Reifen
+shop: neumáticos
 ---

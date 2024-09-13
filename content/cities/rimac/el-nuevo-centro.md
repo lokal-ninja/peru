@@ -1,5 +1,5 @@
 ---
 title: "El Nuevo Centro"
 url: /rimac/el-nuevo-centro/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

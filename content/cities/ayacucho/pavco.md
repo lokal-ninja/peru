@@ -1,5 +1,5 @@
 ---
 title: "Pavco"
 url: /ayacucho/pavco/
-shop: Landwirtschaftlich
+shop: agraria
 ---

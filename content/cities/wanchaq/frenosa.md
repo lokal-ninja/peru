@@ -1,5 +1,5 @@
 ---
 title: "frenosa"
 url: /wanchaq/frenosa/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

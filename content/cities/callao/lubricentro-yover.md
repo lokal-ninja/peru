@@ -1,5 +1,5 @@
 ---
 title: "Lubricentro Yover"
 url: /callao/lubricentro-yover/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Regesol"
 url: /cusco/regesol/
-shop: Bücher
+shop: libros
 ---

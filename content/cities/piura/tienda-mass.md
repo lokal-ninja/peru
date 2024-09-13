@@ -1,5 +1,5 @@
 ---
 title: "Tienda Mass"
 url: /piura/tienda-mass/
-shop: Supermarkt
+shop: supermercado
 ---

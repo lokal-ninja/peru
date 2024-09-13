@@ -1,5 +1,5 @@
 ---
 title: "Conafovicer"
 url: /chincha-alta/conafovicer/
-shop: Allgemein
+shop: general
 ---

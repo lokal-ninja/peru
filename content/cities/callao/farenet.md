@@ -1,5 +1,5 @@
 ---
 title: "Farenet"
 url: /callao/farenet/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

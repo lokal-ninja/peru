@@ -1,5 +1,5 @@
 ---
 title: "Johana"
 url: /trujillo/johana/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

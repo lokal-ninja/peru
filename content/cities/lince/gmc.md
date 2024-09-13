@@ -1,5 +1,5 @@
 ---
 title: "GMC"
 url: /lince/gmc/
-shop: Allgemein
+shop: general
 ---

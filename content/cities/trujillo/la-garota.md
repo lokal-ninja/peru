@@ -1,5 +1,5 @@
 ---
 title: "La Garota"
 url: /trujillo/la-garota/
-shop: Textil
+shop: tela
 ---

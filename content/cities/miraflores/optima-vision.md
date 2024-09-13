@@ -1,5 +1,5 @@
 ---
 title: "Optima Vision"
 url: /miraflores/optima-vision/
-shop: Optiker
+shop: óptico
 ---

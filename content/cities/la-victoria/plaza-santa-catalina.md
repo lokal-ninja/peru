@@ -1,5 +1,5 @@
 ---
 title: "Plaza Santa Catalina"
 url: /la-victoria/plaza-santa-catalina/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

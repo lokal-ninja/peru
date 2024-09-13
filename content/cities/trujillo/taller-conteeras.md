@@ -1,5 +1,5 @@
 ---
 title: "Taller Conteeras"
 url: /trujillo/taller-conteeras/
-shop: Allgemein
+shop: general
 ---

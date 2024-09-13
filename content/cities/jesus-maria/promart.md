@@ -1,5 +1,5 @@
 ---
 title: "Promart"
 url: /jesus-maria/promart/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

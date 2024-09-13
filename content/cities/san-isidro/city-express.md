@@ -1,5 +1,5 @@
 ---
 title: "City Express"
 url: /san-isidro/city-express/
-shop: Wäscherei
+shop: lavandería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DulZuro"
 url: /nuevo-chimbote/dulzuro/
-shop: Andenken
+shop: regalo
 ---

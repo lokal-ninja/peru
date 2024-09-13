@@ -1,5 +1,5 @@
 ---
 title: "Kprichos"
 url: /ayacucho/kprichos/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kdosh"
 url: /huanuco/kdosh/
-shop: Warenhaus
+shop: grandes almacenes
 ---

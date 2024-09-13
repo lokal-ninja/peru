@@ -1,5 +1,5 @@
 ---
 title: "Fleischman"
 url: /la-victoria/fleischman/
-shop: Allgemein
+shop: general
 ---

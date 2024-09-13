@@ -1,5 +1,5 @@
 ---
 title: "Naelyd SAC"
 url: /trujillo/naelyd-sac/
-shop: Farben
+shop: pintura
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Casa Musical Huaman"
 url: /cercado-de-lima/casa-musical-huaman/
-shop: Instrumente
+shop: instrumento musical
 ---

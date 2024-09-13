@@ -1,5 +1,5 @@
 ---
 title: "Disfraces Pandis Perú"
 url: /miraflores/disfraces-pandis-peru/
-shop: Allgemein
+shop: general
 ---

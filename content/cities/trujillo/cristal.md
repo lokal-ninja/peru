@@ -1,5 +1,5 @@
 ---
 title: "Cristal"
 url: /trujillo/cristal/
-shop: Friseur
+shop: peluquería
 ---

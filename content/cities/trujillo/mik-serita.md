@@ -1,5 +1,5 @@
 ---
 title: "Mik Serita"
 url: /trujillo/mik-serita/
-shop: Allgemein
+shop: general
 ---

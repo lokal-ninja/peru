@@ -1,5 +1,5 @@
 ---
 title: "D' Wong"
 url: /ica/d-wong/
-shop: Lebensmittel
+shop: comodidad
 ---

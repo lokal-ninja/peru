@@ -1,5 +1,5 @@
 ---
 title: "efe"
 url: /huanuco/efe/
-shop: Elektronik
+shop: electrónica
 ---

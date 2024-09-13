@@ -1,5 +1,5 @@
 ---
 title: "Zúniga Lab"
 url: /huarmey/zuniga-lab/
-shop: Allgemein
+shop: general
 ---

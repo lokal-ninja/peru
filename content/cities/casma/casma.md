@@ -1,5 +1,5 @@
 ---
 title: "Casma"
 url: /casma/casma/
-shop: Lebensmittel
+shop: comodidad
 ---

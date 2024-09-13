@@ -1,5 +1,5 @@
 ---
 title: "San Rogue"
 url: /chiclayo/san-rogue/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Corte y Color Karla"
 url: /pisco/corte-y-color-karla/
-shop: Friseur
+shop: peluquería
 ---

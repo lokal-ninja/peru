@@ -1,5 +1,5 @@
 ---
 title: "Edipesa"
 url: /lima/edipesa/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

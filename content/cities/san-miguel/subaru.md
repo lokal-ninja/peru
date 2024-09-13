@@ -1,5 +1,5 @@
 ---
 title: "Subaru"
 url: /san-miguel/subaru/
-shop: Autohaus
+shop: coche
 ---

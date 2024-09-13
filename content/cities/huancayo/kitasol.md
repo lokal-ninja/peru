@@ -1,5 +1,5 @@
 ---
 title: "Kitasol"
 url: /huancayo/kitasol/
-shop: Gardinen
+shop: cortina
 ---

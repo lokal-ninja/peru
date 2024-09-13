@@ -1,5 +1,5 @@
 ---
 title: "Celeste"
 url: /ventanilla/celeste/
-shop: Friseur
+shop: peluquería
 ---

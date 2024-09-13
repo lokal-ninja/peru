@@ -1,5 +1,5 @@
 ---
 title: "Antahuaylla"
 url: /ayacucho/antahuaylla/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Óptica Rean Visión"
 url: /lince/optica-rean-vision/
-shop: Optiker
+shop: óptico
 ---

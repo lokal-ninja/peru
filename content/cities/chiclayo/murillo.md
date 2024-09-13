@@ -1,5 +1,5 @@
 ---
 title: "Murillo"
 url: /chiclayo/murillo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

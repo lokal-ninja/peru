@@ -1,5 +1,5 @@
 ---
 title: "Illa Snack Bar"
 url: /intihuatana/illa-snack-bar/
-shop: Getränke
+shop: bebidas
 ---

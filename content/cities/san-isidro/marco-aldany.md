@@ -1,5 +1,5 @@
 ---
 title: "Marco Aldany"
 url: /san-isidro/marco-aldany/
-shop: Kleidung
+shop: ropa
 ---

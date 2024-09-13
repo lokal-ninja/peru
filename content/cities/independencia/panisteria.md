@@ -1,5 +1,5 @@
 ---
 title: "Panistería"
 url: /independencia/panisteria/
-shop: Bäckerei
+shop: panadería
 ---

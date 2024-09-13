@@ -1,5 +1,5 @@
 ---
 title: "Resistem"
 url: /ayacucho/resistem-avenida-ramon-castilla/
-shop: Eisenwaren
+shop: hardware
 ---

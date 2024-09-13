@@ -1,5 +1,5 @@
 ---
 title: "Gala"
 url: /trujillo/gala/
-shop: Schuhe
+shop: zapatos
 ---

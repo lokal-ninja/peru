@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /la-molina/bata/
-shop: Schuhe
+shop: zapatos
 ---

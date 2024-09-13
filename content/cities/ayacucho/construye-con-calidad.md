@@ -1,5 +1,5 @@
 ---
 title: "Construye Con Calidad"
 url: /ayacucho/construye-con-calidad/
-shop: Allgemein
+shop: general
 ---

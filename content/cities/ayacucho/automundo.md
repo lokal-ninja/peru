@@ -1,5 +1,5 @@
 ---
 title: "Automundo"
 url: /ayacucho/automundo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

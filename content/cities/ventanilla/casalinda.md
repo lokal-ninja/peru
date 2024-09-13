@@ -1,5 +1,5 @@
 ---
 title: "Casalinda"
 url: /ventanilla/casalinda/
-shop: Warenhaus
+shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bodega Fredy"
 url: /trujillo/bodega-fredy/
-shop: Lebensmittel
+shop: comodidad
 ---

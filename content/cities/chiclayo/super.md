@@ -1,5 +1,5 @@
 ---
 title: "Super"
 url: /chiclayo/super/
-shop: Supermarkt
+shop: supermercado
 ---

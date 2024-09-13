@@ -1,5 +1,5 @@
 ---
 title: "Maxi Ahorro"
 url: /piura/maxi-ahorro/
-shop: Supermarkt
+shop: supermercado
 ---

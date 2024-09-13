@@ -1,5 +1,5 @@
 ---
 title: "Barrington"
 url: /arequipa/barrington/
-shop: Kleidung
+shop: ropa
 ---

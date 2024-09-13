@@ -1,5 +1,5 @@
 ---
 title: "Porras"
 url: /chorrillos/porras/
-shop: Allgemein
+shop: general
 ---

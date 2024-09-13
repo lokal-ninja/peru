@@ -1,5 +1,5 @@
 ---
 title: "Urban Hall"
 url: /cercado-de-lima/urban-hall/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

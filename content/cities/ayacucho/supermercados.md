@@ -1,5 +1,5 @@
 ---
 title: "Supermercados"
 url: /ayacucho/supermercados/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

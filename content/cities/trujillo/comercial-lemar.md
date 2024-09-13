@@ -1,5 +1,5 @@
 ---
 title: "Comercial Lemar"
 url: /trujillo/comercial-lemar/
-shop: Allgemein
+shop: general
 ---

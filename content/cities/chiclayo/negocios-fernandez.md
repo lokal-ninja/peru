@@ -1,5 +1,5 @@
 ---
 title: "Negocios Fernandez"
 url: /chiclayo/negocios-fernandez/
-shop: Allgemein
+shop: general
 ---

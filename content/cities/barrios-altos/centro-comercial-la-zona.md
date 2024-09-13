@@ -1,5 +1,5 @@
 ---
 title: "Centro comercial La Zona"
 url: /barrios-altos/centro-comercial-la-zona/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tai-Loy"
 url: /trujillo/tai-loy/
-shop: Schreibwaren
+shop: material de oficina
 ---

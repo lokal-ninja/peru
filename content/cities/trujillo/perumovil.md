@@ -1,5 +1,5 @@
 ---
 title: "PerúMovil"
 url: /trujillo/perumovil/
-shop: Handy
+shop: teléfono móvil
 ---

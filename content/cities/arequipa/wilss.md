@@ -1,5 +1,5 @@
 ---
 title: "Wilss"
 url: /arequipa/wilss/
-shop: Kleidung
+shop: ropa
 ---

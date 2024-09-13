@@ -1,5 +1,5 @@
 ---
 title: "Oeshle"
 url: /independencia/oeshle/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Automotris"
 url: /chorrillos/automotris/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

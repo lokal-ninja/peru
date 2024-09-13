@@ -1,5 +1,5 @@
 ---
 title: "Agencia El Porvenir"
 url: /trujillo/agencia-el-porvenir/
-shop: Allgemein
+shop: general
 ---

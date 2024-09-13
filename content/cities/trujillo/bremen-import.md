@@ -1,5 +1,5 @@
 ---
 title: "Bremen Import"
 url: /trujillo/bremen-import/
-shop: Baustoffe
+shop: comercio
 ---

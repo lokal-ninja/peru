@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Xiomi"
 url: /trujillo/ferreteria-xiomi/
-shop: Eisenwaren
+shop: hardware
 ---

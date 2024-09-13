@@ -1,5 +1,5 @@
 ---
 title: "Isumi1"
 url: /chiclayo/isumi1/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Promart"
 url: /lurin/promart/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

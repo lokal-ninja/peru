@@ -1,5 +1,5 @@
 ---
 title: "Flores"
 url: /ayacucho/flores/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

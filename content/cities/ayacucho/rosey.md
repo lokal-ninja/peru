@@ -1,5 +1,5 @@
 ---
 title: "Rosey"
 url: /ayacucho/rosey/
-shop: Allgemein
+shop: general
 ---

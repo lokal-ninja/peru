@@ -1,5 +1,5 @@
 ---
 title: "Rose"
 url: /lince/rose/
-shop: Optiker
+shop: óptico
 ---

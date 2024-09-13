@@ -1,5 +1,5 @@
 ---
 title: "Plaza Vea"
 url: /cercado-de-lima/plaza-vea/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /arequipa/bata/
-shop: Schuhe
+shop: zapatos
 ---

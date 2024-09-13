@@ -1,5 +1,5 @@
 ---
 title: "Bitel"
 url: /chulucanas/bitel/
-shop: Handy
+shop: teléfono móvil
 ---

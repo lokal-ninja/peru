@@ -1,5 +1,5 @@
 ---
 title: "El Chino"
 url: /chosica/el-chino/
-shop: Allgemein
+shop: general
 ---

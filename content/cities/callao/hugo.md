@@ -1,5 +1,5 @@
 ---
 title: "Hugo"
 url: /callao/hugo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bodega Alto Perú"
 url: /santa-rosa/bodega-alto-peru/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Avanty"
 url: /lima/avanty/
-shop: Betten
+shop: cama
 ---

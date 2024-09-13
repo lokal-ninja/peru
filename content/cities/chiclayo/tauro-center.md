@@ -1,5 +1,5 @@
 ---
 title: "Tauro Center"
 url: /chiclayo/tauro-center/
-shop: Allgemein
+shop: general
 ---

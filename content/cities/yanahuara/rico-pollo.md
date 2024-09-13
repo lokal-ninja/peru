@@ -1,5 +1,5 @@
 ---
 title: "Rico Pollo"
 url: /yanahuara/rico-pollo/
-shop: Metzgerei
+shop: carnicero
 ---

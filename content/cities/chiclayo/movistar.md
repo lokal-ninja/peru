@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /chiclayo/movistar/
-shop: Allgemein
+shop: general
 ---

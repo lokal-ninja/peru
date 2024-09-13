@@ -1,5 +1,5 @@
 ---
 title: "Repuestos"
 url: /trujillo/repuestos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

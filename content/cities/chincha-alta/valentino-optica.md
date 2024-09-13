@@ -1,5 +1,5 @@
 ---
 title: "Valentino Optica"
 url: /chincha-alta/valentino-optica/
-shop: Optiker
+shop: óptico
 ---

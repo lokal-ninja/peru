@@ -1,5 +1,5 @@
 ---
 title: "El Rey"
 url: /lurin/el-rey/
-shop: Lebensmittel
+shop: comodidad
 ---

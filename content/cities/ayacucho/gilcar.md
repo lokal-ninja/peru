@@ -1,5 +1,5 @@
 ---
 title: "Gilcar"
 url: /ayacucho/gilcar/
-shop: Eisenwaren
+shop: hardware
 ---

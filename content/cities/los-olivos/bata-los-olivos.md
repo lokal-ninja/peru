@@ -1,5 +1,5 @@
 ---
 title: "Bata Los Olivos"
 url: /los-olivos/bata-los-olivos/
-shop: Schuhe
+shop: zapatos
 ---

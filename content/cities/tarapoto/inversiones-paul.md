@@ -1,5 +1,5 @@
 ---
 title: "Inversiones Paul"
 url: /tarapoto/inversiones-paul/
-shop: Kopieren
+shop: copyshop
 ---

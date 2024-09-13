@@ -1,5 +1,5 @@
 ---
 title: "Momatu"
 url: /ayacucho/momatu/
-shop: Allgemein
+shop: general
 ---

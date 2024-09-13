@@ -1,5 +1,5 @@
 ---
 title: "Femeni"
 url: /la-victoria/femeni/
-shop: Kleidung
+shop: ropa
 ---

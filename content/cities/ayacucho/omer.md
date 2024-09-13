@@ -1,5 +1,5 @@
 ---
 title: "Omer"
 url: /ayacucho/omer/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meridianbet"
 url: /lima/meridianbet-jiron-tacna/
-shop: Wettbüro
+shop: corredor de apuestas
 ---

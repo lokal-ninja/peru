@@ -1,5 +1,5 @@
 ---
 title: "Oficentro"
 url: /callao/oficentro/
-shop: Schreibwaren
+shop: material de oficina
 ---

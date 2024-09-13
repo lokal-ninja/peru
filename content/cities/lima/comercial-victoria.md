@@ -1,5 +1,5 @@
 ---
 title: "Comercial Victoria"
 url: /lima/comercial-victoria/
-shop: Allgemein
+shop: general
 ---

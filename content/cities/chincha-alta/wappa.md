@@ -1,5 +1,5 @@
 ---
 title: "Wappa"
 url: /chincha-alta/wappa/
-shop: Allgemein
+shop: general
 ---

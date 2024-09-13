@@ -1,5 +1,5 @@
 ---
 title: "Fresh"
 url: /chincha-alta/fresh/
-shop: Wäscherei
+shop: lavandería
 ---

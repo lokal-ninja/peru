@@ -1,5 +1,5 @@
 ---
 title: "Súper Japón"
 url: /paucarpata/super-japon/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

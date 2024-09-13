@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /san-miguel/toyota/
-shop: Autohaus
+shop: coche
 ---

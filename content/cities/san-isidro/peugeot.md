@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /san-isidro/peugeot/
-shop: Autohaus
+shop: coche
 ---

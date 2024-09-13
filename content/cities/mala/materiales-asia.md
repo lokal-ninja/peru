@@ -1,5 +1,5 @@
 ---
 title: "Materiales Asia"
 url: /mala/materiales-asia/
-shop: Baustoffe
+shop: comercio
 ---

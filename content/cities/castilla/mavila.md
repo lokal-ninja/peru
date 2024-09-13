@@ -1,5 +1,5 @@
 ---
 title: "Mavila"
 url: /castilla/mavila/
-shop: Motorrad
+shop: motocicleta
 ---

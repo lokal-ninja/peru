@@ -1,5 +1,5 @@
 ---
 title: "Miniso"
 url: /independencia/miniso/
-shop: Kramladen
+shop: tienda de variedades
 ---

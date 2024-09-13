@@ -1,5 +1,5 @@
 ---
 title: "Funeraría Villar"
 url: /lima/funeraria-villar/
-shop: Bestattungen
+shop: directores de funerarias
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Calavera Gamer"
 url: /barrios-altos/calavera-gamer/
-shop: Videospiele
+shop: videojuegos
 ---

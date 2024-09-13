@@ -1,5 +1,5 @@
 ---
 title: "Auto Accesorios"
 url: /chorrillos/auto-accesorios/
-shop: Autoteile
+shop: piezas de automóviles
 ---

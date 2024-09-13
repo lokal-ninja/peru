@@ -1,5 +1,5 @@
 ---
 title: "Cico Cico"
 url: /arequipa/cico-cico/
-shop: Kleidung
+shop: ropa
 ---

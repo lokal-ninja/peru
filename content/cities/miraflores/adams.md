@@ -1,5 +1,5 @@
 ---
 title: "Adams"
 url: /miraflores/adams/
-shop: Allgemein
+shop: general
 ---

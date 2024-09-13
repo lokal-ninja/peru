@@ -1,5 +1,5 @@
 ---
 title: "CasaIdeas"
 url: /santiago-de-surco/casaideas/
-shop: Warenhaus
+shop: grandes almacenes
 ---

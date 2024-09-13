@@ -1,5 +1,5 @@
 ---
 title: "Salinas"
 url: /huancayo/salinas/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Venta De Badana"
 url: /trujillo/venta-de-badana/
-shop: Allgemein
+shop: general
 ---

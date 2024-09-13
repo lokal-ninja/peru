@@ -1,5 +1,5 @@
 ---
 title: "Casa Hercon"
 url: /ayacucho/casa-hercon/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kiara Decoraciones"
 url: /trujillo/kiara-decoraciones/
-shop: Raumausstattung
+shop: decoración interior
 ---

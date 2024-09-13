@@ -1,5 +1,5 @@
 ---
 title: "Tienda Mass"
 url: /chulucanas/tienda-mass/
-shop: Lebensmittel
+shop: comodidad
 ---

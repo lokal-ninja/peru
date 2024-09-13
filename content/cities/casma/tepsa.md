@@ -1,5 +1,5 @@
 ---
 title: "Tepsa"
 url: /casma/tepsa/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

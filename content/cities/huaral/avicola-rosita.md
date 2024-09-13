@@ -1,5 +1,5 @@
 ---
 title: "Avicola Rosita"
 url: /huaral/avicola-rosita/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Reparamos Celulares"
 url: /casma/reparamos-celulares/
-shop: Handy
+shop: teléfono móvil
 ---

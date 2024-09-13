@@ -1,5 +1,5 @@
 ---
 title: "Lubricentro García"
 url: /mala/lubricentro-garcia/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Radiadores Luque"
 url: /miraflores/radiadores-luque/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ugritino"
 url: /san-martin-de-porres/ugritino/
-shop: Bäckerei
+shop: panadería
 ---

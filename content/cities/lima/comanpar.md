@@ -1,5 +1,5 @@
 ---
 title: "Comanpar"
 url: /lima/comanpar/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lavass"
 url: /miraflores/lavass/
-shop: Wäscherei
+shop: lavandería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Matichusa"
 url: /sullana/matichusa/
-shop: Lebensmittel
+shop: comodidad
 ---

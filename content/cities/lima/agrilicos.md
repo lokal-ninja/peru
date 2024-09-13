@@ -1,5 +1,5 @@
 ---
 title: "Agrilicos"
 url: /lima/agrilicos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

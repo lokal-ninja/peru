@@ -1,5 +1,5 @@
 ---
 title: "Kromasol"
 url: /ica/kromasol/
-shop: Nahrungsergänzung
+shop: suplementos nutricionales
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centro Matizado"
 url: /callao/centro-matizado/
-shop: Autoteile
+shop: piezas de automóviles
 ---

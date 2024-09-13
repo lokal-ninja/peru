@@ -1,5 +1,5 @@
 ---
 title: "Oropeza"
 url: /chorrillos/oropeza/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

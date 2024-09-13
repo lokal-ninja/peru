@@ -1,5 +1,5 @@
 ---
 title: "Farmascotas"
 url: /mala/farmascotas/
-shop: Tiere
+shop: mascotas
 ---

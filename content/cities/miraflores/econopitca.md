@@ -1,5 +1,5 @@
 ---
 title: "Econópitca"
 url: /miraflores/econopitca/
-shop: Optiker
+shop: óptico
 ---

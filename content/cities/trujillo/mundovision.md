@@ -1,5 +1,5 @@
 ---
 title: "Mundovisión"
 url: /trujillo/mundovision/
-shop: Optiker
+shop: óptico
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Navesa"
 url: /huarmey/navesa/
-shop: Bestattungen
+shop: directores de funerarias
 ---

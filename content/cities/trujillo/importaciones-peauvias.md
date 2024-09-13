@@ -1,5 +1,5 @@
 ---
 title: "Importaciones Peauvias"
 url: /trujillo/importaciones-peauvias/
-shop: Allgemein
+shop: general
 ---

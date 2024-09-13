@@ -1,5 +1,5 @@
 ---
 title: "Lukito's"
 url: /trujillo/lukitos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

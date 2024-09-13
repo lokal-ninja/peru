@@ -1,5 +1,5 @@
 ---
 title: "Chicocos"
 url: /ayacucho/chicocos/
-shop: Babysachen
+shop: artículos para bebés
 ---

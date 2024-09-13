@@ -1,5 +1,5 @@
 ---
 title: "Rosen"
 url: /lince/rosen/
-shop: Allgemein
+shop: general
 ---

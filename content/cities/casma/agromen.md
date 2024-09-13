@@ -1,5 +1,5 @@
 ---
 title: "Agromen"
 url: /casma/agromen/
-shop: Landwirtschaftlich
+shop: agraria
 ---

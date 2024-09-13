@@ -1,5 +1,5 @@
 ---
 title: "Conoco"
 url: /mariano-melgar/conoco/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

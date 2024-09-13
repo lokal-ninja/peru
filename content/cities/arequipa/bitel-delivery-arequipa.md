@@ -1,5 +1,5 @@
 ---
 title: "Bitel Delivery Arequipa"
 url: /arequipa/bitel-delivery-arequipa/
-shop: Handy
+shop: teléfono móvil
 ---

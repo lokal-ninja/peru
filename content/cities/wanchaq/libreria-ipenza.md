@@ -1,5 +1,5 @@
 ---
 title: "Librería Ipenza"
 url: /wanchaq/libreria-ipenza/
-shop: Bücher
+shop: libros
 ---

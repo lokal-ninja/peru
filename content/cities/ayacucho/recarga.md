@@ -1,5 +1,5 @@
 ---
 title: "Recarga"
 url: /ayacucho/recarga/
-shop: Lebensmittel
+shop: comodidad
 ---

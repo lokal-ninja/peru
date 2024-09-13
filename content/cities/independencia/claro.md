@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /independencia/claro/
-shop: Handy
+shop: teléfono móvil
 ---

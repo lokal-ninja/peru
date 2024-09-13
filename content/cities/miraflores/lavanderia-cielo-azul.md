@@ -1,5 +1,5 @@
 ---
 title: "Lavanderia Cielo Azul"
 url: /miraflores/lavanderia-cielo-azul/
-shop: Wäscherei
+shop: lavandería
 ---

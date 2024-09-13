@@ -1,5 +1,5 @@
 ---
 title: "Meridianbet"
 url: /lima/meridianbet/
-shop: Wettbüro
+shop: corredor de apuestas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Libertad"
 url: /pueblo-libre/el-libertad/
-shop: Blumen
+shop: floristería
 ---

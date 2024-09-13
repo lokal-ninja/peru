@@ -1,5 +1,5 @@
 ---
 title: "Comercial"
 url: /casma/comercial/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

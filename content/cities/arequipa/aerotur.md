@@ -1,5 +1,5 @@
 ---
 title: "Aerotur"
 url: /arequipa/aerotur/
-shop: Reisebüro
+shop: agencia de viajes
 ---

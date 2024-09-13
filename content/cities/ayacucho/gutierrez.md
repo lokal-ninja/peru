@@ -1,5 +1,5 @@
 ---
 title: "Gutierrez"
 url: /ayacucho/gutierrez/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

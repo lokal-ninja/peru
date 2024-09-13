@@ -1,5 +1,5 @@
 ---
 title: "Piscis"
 url: /nuevo-chimbote/piscis/
-shop: Spirituosen
+shop: alcohol
 ---

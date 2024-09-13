@@ -1,5 +1,5 @@
 ---
 title: "Oechsle"
 url: /santiago-de-surco/oechsle/
-shop: Warenhaus
+shop: grandes almacenes
 ---

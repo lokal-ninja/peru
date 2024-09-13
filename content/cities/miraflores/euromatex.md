@@ -1,5 +1,5 @@
 ---
 title: "Euromatex"
 url: /miraflores/euromatex/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lubricantes Imperial"
 url: /trujillo/lubricantes-imperial/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

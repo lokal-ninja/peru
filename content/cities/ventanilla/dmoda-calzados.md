@@ -1,5 +1,5 @@
 ---
 title: "D'Moda Calzados"
 url: /ventanilla/dmoda-calzados/
-shop: Schuhe
+shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marmoleria"
 url: /barranco/marmoleria/
-shop: Kunst
+shop: arte
 ---

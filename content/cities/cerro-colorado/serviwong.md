@@ -1,5 +1,5 @@
 ---
 title: "Serviwong"
 url: /cerro-colorado/serviwong/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

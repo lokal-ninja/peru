@@ -1,5 +1,5 @@
 ---
 title: "Chevrolet"
 url: /arequipa/chevrolet/
-shop: Autohaus
+shop: coche
 ---

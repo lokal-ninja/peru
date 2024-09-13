@@ -1,5 +1,5 @@
 ---
 title: "Librería Adelis"
 url: /lima/libreria-adelis/
-shop: Schreibwaren
+shop: material de oficina
 ---

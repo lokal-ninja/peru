@@ -1,5 +1,5 @@
 ---
 title: "Autonovedades"
 url: /ayacucho/autonovedades/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

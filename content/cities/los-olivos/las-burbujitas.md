@@ -1,5 +1,5 @@
 ---
 title: "Las Burbujitas"
 url: /los-olivos/las-burbujitas/
-shop: Wäscherei
+shop: lavandería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Limeñita"
 url: /cercado-de-lima/la-limenita/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

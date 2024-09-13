@@ -1,5 +1,5 @@
 ---
 title: "Guevara"
 url: /trujillo/guevara/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

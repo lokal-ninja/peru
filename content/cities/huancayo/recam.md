@@ -1,5 +1,5 @@
 ---
 title: "Recam"
 url: /huancayo/recam/
-shop: Allgemein
+shop: general
 ---

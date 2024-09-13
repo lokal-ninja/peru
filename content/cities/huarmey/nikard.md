@@ -1,5 +1,5 @@
 ---
 title: "Nikard"
 url: /huarmey/nikard/
-shop: Autoteile
+shop: piezas de automóviles
 ---

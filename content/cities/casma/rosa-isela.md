@@ -1,5 +1,5 @@
 ---
 title: "Rosa Isela"
 url: /casma/rosa-isela/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

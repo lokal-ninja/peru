@@ -1,5 +1,5 @@
 ---
 title: "NEySER"
 url: /huancayo/neyser/
-shop: Allgemein
+shop: general
 ---

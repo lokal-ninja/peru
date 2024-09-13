@@ -1,5 +1,5 @@
 ---
 title: "Panadería Belén"
 url: /chulucanas/panaderia-belen/
-shop: Bäckerei
+shop: panadería
 ---

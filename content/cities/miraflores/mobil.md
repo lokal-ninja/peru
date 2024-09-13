@@ -1,5 +1,5 @@
 ---
 title: "Mobil"
 url: /miraflores/mobil/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

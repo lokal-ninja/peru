@@ -1,5 +1,5 @@
 ---
 title: "Oeshle"
 url: /cercado-de-lima/oeshle/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

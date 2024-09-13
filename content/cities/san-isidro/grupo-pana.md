@@ -1,5 +1,5 @@
 ---
 title: "Grupo Pana"
 url: /san-isidro/grupo-pana/
-shop: Autohaus
+shop: coche
 ---

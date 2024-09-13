@@ -1,5 +1,5 @@
 ---
 title: "Decameron"
 url: /independencia/decameron/
-shop: Reisebüro
+shop: agencia de viajes
 ---

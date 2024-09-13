@@ -1,5 +1,5 @@
 ---
 title: "Norton United Kingdom"
 url: /chiclayo/norton-united-kingdom/
-shop: Kleidung
+shop: ropa
 ---

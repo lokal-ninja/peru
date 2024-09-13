@@ -1,5 +1,5 @@
 ---
 title: "Lupita"
 url: /santa-beatriz/lupita/
-shop: Wäscherei
+shop: lavandería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Renova"
 url: /ayacucho/renova/
-shop: Allgemein
+shop: general
 ---

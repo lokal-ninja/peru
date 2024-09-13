@@ -1,5 +1,5 @@
 ---
 title: "Etna"
 url: /chaclacayo/etna/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

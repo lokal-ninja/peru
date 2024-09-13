@@ -1,5 +1,5 @@
 ---
 title: "Promart"
 url: /morales/promart/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

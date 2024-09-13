@@ -1,5 +1,5 @@
 ---
 title: "Ketal"
 url: /cusco/ketal/
-shop: Supermarkt
+shop: supermercado
 ---

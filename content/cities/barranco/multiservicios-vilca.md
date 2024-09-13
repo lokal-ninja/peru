@@ -1,5 +1,5 @@
 ---
 title: "Multiservicios Vilca"
 url: /barranco/multiservicios-vilca/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

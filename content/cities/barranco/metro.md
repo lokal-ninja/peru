@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /barranco/metro/
-shop: Supermarkt
+shop: supermercado
 ---

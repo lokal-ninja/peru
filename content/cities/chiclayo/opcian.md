@@ -1,5 +1,5 @@
 ---
 title: "Opcian"
 url: /chiclayo/opcian/
-shop: Optiker
+shop: óptico
 ---

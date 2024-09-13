@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
 url: /san-isidro/hyundai/
-shop: Autohaus
+shop: coche
 ---

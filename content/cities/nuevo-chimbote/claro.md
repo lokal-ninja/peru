@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /nuevo-chimbote/claro/
-shop: Handy
+shop: teléfono móvil
 ---

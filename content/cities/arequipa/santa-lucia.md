@@ -1,5 +1,5 @@
 ---
 title: "Santa Lucia"
 url: /arequipa/santa-lucia/
-shop: Bestattungen
+shop: directores de funerarias
 ---

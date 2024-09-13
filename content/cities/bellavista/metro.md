@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /bellavista/metro/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "FerMedic"
 url: /trujillo/fermedic/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

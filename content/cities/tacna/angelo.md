@@ -1,5 +1,5 @@
 ---
 title: "Angelo"
 url: /tacna/angelo/
-shop: Allgemein
+shop: general
 ---

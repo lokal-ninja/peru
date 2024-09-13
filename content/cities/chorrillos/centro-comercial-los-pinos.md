@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Los Pinos"
 url: /chorrillos/centro-comercial-los-pinos/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

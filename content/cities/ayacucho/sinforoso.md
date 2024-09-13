@@ -1,5 +1,5 @@
 ---
 title: "Sinforoso"
 url: /ayacucho/sinforoso/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ruber"
 url: /trujillo/ruber/
-shop: Lebensmittel
+shop: comodidad
 ---

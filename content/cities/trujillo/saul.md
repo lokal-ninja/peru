@@ -1,5 +1,5 @@
 ---
 title: "Saul"
 url: /trujillo/saul/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

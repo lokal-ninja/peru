@@ -1,5 +1,5 @@
 ---
 title: "Accesos Automaticos"
 url: /lima/accesos-automaticos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

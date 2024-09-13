@@ -1,5 +1,5 @@
 ---
 title: "Cochera"
 url: /huarmey/cochera/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

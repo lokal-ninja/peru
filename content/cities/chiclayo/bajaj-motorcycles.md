@@ -1,5 +1,5 @@
 ---
 title: "Bajaj Motorcycles"
 url: /chiclayo/bajaj-motorcycles/
-shop: Motorrad
+shop: motocicleta
 ---

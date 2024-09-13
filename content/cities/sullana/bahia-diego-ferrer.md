@@ -1,5 +1,5 @@
 ---
 title: "Bahia Diego Ferrer"
 url: /sullana/bahia-diego-ferrer/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

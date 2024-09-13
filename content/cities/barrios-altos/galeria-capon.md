@@ -1,5 +1,5 @@
 ---
 title: "Galería Capón"
 url: /barrios-altos/galeria-capon/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /paucarpata/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

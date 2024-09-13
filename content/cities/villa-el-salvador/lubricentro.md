@@ -1,5 +1,5 @@
 ---
 title: "Lubricentro"
 url: /villa-el-salvador/lubricentro/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

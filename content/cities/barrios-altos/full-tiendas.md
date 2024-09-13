@@ -1,5 +1,5 @@
 ---
 title: "Full Tiendas"
 url: /barrios-altos/full-tiendas/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

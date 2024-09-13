@@ -1,5 +1,5 @@
 ---
 title: "Dedos"
 url: /trujillo/dedos/
-shop: Sport
+shop: deportes
 ---

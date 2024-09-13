@@ -1,5 +1,5 @@
 ---
 title: "Nicoll"
 url: /ayacucho/nicoll/
-shop: Badezimmer
+shop: cuarto de baño
 ---

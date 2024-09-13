@@ -1,5 +1,5 @@
 ---
 title: "Latam"
 url: /miraflores/latam/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kalin"
 url: /trujillo/kalin/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

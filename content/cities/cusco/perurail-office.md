@@ -1,5 +1,5 @@
 ---
 title: "PeruRail Office"
 url: /cusco/perurail-office/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spiruvida"
 url: /yanahuara/spiruvida/
-shop: Warenhaus
+shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vannia"
 url: /trujillo/vannia/
-shop: Blumen
+shop: floristería
 ---

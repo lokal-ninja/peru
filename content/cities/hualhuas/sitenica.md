@@ -1,5 +1,5 @@
 ---
 title: "Sitenica"
 url: /hualhuas/sitenica/
-shop: Autohaus
+shop: coche
 ---

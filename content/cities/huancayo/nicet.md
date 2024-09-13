@@ -1,5 +1,5 @@
 ---
 title: "Nicet"
 url: /huancayo/nicet/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

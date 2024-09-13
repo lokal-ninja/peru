@@ -1,5 +1,5 @@
 ---
 title: "Galerias Adderly"
 url: /la-victoria/galerias-adderly/
-shop: Allgemein
+shop: general
 ---

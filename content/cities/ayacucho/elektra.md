@@ -1,5 +1,5 @@
 ---
 title: "Elektra"
 url: /ayacucho/elektra/
-shop: Elektronik
+shop: electrónica
 ---

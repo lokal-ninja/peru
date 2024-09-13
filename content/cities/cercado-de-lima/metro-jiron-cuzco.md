@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /cercado-de-lima/metro-jiron-cuzco/
-shop: Supermarkt
+shop: supermercado
 ---

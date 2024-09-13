@@ -1,5 +1,5 @@
 ---
 title: "Edipesa"
 url: /ayacucho/edipesa/
-shop: Lebensmittel
+shop: comodidad
 ---

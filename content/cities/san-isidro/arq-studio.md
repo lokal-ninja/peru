@@ -1,5 +1,5 @@
 ---
 title: "ARQ Studio"
 url: /san-isidro/arq-studio/
-shop: Möbel
+shop: muebles
 ---

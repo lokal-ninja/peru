@@ -1,5 +1,5 @@
 ---
 title: "In One"
 url: /independencia/in-one/
-shop: Lebensmittel
+shop: comodidad
 ---

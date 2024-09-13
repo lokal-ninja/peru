@@ -1,5 +1,5 @@
 ---
 title: "Mantenimiento"
 url: /trujillo/mantenimiento/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

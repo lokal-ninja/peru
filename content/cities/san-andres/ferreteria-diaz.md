@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Diaz"
 url: /san-andres/ferreteria-diaz/
-shop: Baustoffe
+shop: comercio
 ---

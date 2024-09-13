@@ -1,5 +1,5 @@
 ---
 title: "Billabong"
 url: /surquillo/billabong/
-shop: Allgemein
+shop: general
 ---

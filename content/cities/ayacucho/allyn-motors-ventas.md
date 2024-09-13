@@ -1,5 +1,5 @@
 ---
 title: "Allyn Motors Ventas"
 url: /ayacucho/allyn-motors-ventas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

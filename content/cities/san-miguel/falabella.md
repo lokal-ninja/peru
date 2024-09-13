@@ -1,5 +1,5 @@
 ---
 title: "Falabella"
 url: /san-miguel/falabella/
-shop: Warenhaus
+shop: grandes almacenes
 ---

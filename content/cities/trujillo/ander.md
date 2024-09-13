@@ -1,5 +1,5 @@
 ---
 title: "Ander"
 url: /trujillo/ander/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

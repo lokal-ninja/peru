@@ -1,5 +1,5 @@
 ---
 title: "Millenium"
 url: /trujillo/millenium/
-shop: Kunst
+shop: arte
 ---

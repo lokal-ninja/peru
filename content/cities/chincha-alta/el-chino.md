@@ -1,5 +1,5 @@
 ---
 title: "El Chino"
 url: /chincha-alta/el-chino/
-shop: Allgemein
+shop: general
 ---

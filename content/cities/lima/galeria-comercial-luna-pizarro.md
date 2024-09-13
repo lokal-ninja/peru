@@ -1,5 +1,5 @@
 ---
 title: "Galeria Comercial Luna Pizarro"
 url: /lima/galeria-comercial-luna-pizarro/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

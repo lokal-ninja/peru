@@ -1,5 +1,5 @@
 ---
 title: "Bodega Country"
 url: /nuevo-chimbote/bodega-country/
-shop: Lebensmittel
+shop: comodidad
 ---

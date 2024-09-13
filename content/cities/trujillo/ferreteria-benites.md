@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Benites"
 url: /trujillo/ferreteria-benites/
-shop: Eisenwaren
+shop: hardware
 ---

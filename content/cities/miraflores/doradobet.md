@@ -1,5 +1,5 @@
 ---
 title: "DoradoBet"
 url: /miraflores/doradobet/
-shop: Wettbüro
+shop: corredor de apuestas
 ---

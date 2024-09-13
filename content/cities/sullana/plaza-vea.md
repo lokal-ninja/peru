@@ -1,5 +1,5 @@
 ---
 title: "Plaza Vea"
 url: /sullana/plaza-vea/
-shop: Supermarkt
+shop: supermercado
 ---

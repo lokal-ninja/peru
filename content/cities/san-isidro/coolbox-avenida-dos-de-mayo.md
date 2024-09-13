@@ -1,5 +1,5 @@
 ---
 title: "Coolbox"
 url: /san-isidro/coolbox-avenida-dos-de-mayo/
-shop: Elektronik
+shop: electrónica
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kevin"
 url: /trujillo/kevin/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

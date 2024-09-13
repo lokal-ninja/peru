@@ -1,5 +1,5 @@
 ---
 title: "Organica Peru Market"
 url: /miraflores/organica-peru-market/
-shop: Supermarkt
+shop: supermercado
 ---

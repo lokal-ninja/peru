@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Zamora"
 url: /chiclayo/repuestos-zamora/
-shop: Autoteile
+shop: piezas de automóviles
 ---

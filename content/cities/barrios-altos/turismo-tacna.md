@@ -1,5 +1,5 @@
 ---
 title: "Turismo Tacna"
 url: /barrios-altos/turismo-tacna/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Serviautos"
 url: /cerro-colorado/serviautos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costamar Travel"
 url: /miraflores/costamar-travel/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Emanuel"
 url: /ventanilla/ferreteria-emanuel/
-shop: Eisenwaren
+shop: hardware
 ---

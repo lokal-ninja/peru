@@ -1,5 +1,5 @@
 ---
 title: "Ripley"
 url: /san-isidro/ripley/
-shop: Warenhaus
+shop: grandes almacenes
 ---

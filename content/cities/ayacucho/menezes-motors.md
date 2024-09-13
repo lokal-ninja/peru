@@ -1,5 +1,5 @@
 ---
 title: "Menezes Motors"
 url: /ayacucho/menezes-motors/
-shop: Motorrad
+shop: motocicleta
 ---

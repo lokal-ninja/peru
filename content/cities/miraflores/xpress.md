@@ -1,5 +1,5 @@
 ---
 title: "Xpress"
 url: /miraflores/xpress/
-shop: Allgemein
+shop: general
 ---

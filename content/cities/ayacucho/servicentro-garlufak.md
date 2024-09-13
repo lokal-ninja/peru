@@ -1,5 +1,5 @@
 ---
 title: "Servicentro Garlufak"
 url: /ayacucho/servicentro-garlufak/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

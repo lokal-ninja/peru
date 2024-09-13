@@ -1,5 +1,5 @@
 ---
 title: "KLM"
 url: /san-isidro/klm/
-shop: Reisebüro
+shop: agencia de viajes
 ---

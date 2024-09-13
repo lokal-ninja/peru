@@ -1,5 +1,5 @@
 ---
 title: "Jheral"
 url: /ayacucho/jheral/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Copias Adela"
 url: /lima/copias-adela/
-shop: Kopieren
+shop: copyshop
 ---

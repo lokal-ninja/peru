@@ -1,5 +1,5 @@
 ---
 title: "Mallqui"
 url: /ayacucho/mallqui/
-shop: Kleidung
+shop: ropa
 ---

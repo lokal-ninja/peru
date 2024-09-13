@@ -1,5 +1,5 @@
 ---
 title: "Etna"
 url: /trujillo/etna/
-shop: Allgemein
+shop: general
 ---

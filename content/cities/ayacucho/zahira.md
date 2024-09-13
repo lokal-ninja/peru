@@ -1,5 +1,5 @@
 ---
 title: "Zahira"
 url: /ayacucho/zahira/
-shop: Optiker
+shop: óptico
 ---

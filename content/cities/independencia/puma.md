@@ -1,5 +1,5 @@
 ---
 title: "Puma"
 url: /independencia/puma/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /lima/bata/
-shop: Schuhe
+shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Conzalez"
 url: /ayacucho/conzalez/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

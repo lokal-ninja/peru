@@ -1,5 +1,5 @@
 ---
 title: "Nutrition"
 url: /arequipa/nutrition/
-shop: Allgemein
+shop: general
 ---

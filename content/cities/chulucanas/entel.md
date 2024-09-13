@@ -1,5 +1,5 @@
 ---
 title: "Entel"
 url: /chulucanas/entel/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /santa-clara/bata/
-shop: Schuhe
+shop: zapatos
 ---

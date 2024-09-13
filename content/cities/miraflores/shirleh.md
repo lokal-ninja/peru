@@ -1,5 +1,5 @@
 ---
 title: "Shirleh"
 url: /miraflores/shirleh/
-shop: Friseur
+shop: peluquería
 ---

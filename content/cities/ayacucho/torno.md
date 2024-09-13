@@ -1,5 +1,5 @@
 ---
 title: "Torno"
 url: /ayacucho/torno/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Saldana"
 url: /trujillo/saldana/
-shop: Eisenwaren
+shop: hardware
 ---

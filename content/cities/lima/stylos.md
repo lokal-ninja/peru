@@ -1,5 +1,5 @@
 ---
 title: "Stylos"
 url: /lima/stylos/
-shop: Kleidung
+shop: ropa
 ---

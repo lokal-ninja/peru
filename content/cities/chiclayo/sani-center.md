@@ -1,5 +1,5 @@
 ---
 title: "Sani Center"
 url: /chiclayo/sani-center/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

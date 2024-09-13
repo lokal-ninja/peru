@@ -1,5 +1,5 @@
 ---
 title: "chocomania"
 url: /chiclayo/chocomania/
-shop: Süßwaren
+shop: confitería
 ---

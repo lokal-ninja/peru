@@ -1,5 +1,5 @@
 ---
 title: "Inkafilms"
 url: /lima/inkafilms/
-shop: Autoteile
+shop: piezas de automóviles
 ---

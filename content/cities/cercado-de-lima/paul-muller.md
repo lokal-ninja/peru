@@ -1,5 +1,5 @@
 ---
 title: "Paul Muller"
 url: /cercado-de-lima/paul-muller/
-shop: Allgemein
+shop: general
 ---

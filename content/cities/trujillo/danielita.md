@@ -1,5 +1,5 @@
 ---
 title: "Danielita"
 url: /trujillo/danielita/
-shop: Lebensmittel
+shop: comodidad
 ---

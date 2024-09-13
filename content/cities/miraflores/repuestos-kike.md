@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Kike"
 url: /miraflores/repuestos-kike/
-shop: Autoteile
+shop: piezas de automóviles
 ---

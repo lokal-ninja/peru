@@ -1,5 +1,5 @@
 ---
 title: "Merina"
 url: /arequipa/merina/
-shop: Kleidung
+shop: ropa
 ---

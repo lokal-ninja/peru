@@ -1,5 +1,5 @@
 ---
 title: "Ciclo Mundo Sport"
 url: /san-borja/ciclo-mundo-sport/
-shop: Fahrrad
+shop: bicicleta
 ---

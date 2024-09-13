@@ -1,5 +1,5 @@
 ---
 title: "Multiservicios Autocam"
 url: /ayacucho/multiservicios-autocam/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

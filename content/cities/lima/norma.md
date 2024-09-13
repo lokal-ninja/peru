@@ -1,5 +1,5 @@
 ---
 title: "Norma"
 url: /lima/norma/
-shop: Allgemein
+shop: general
 ---

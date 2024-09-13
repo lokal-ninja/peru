@@ -1,5 +1,5 @@
 ---
 title: "Remil"
 url: /lima/remil/
-shop: Eisenwaren
+shop: hardware
 ---

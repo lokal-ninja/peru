@@ -1,5 +1,5 @@
 ---
 title: "Tu Entrada"
 url: /jesus-maria/tu-entrada/
-shop: Tickets
+shop: entradas
 ---

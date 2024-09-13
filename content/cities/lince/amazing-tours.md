@@ -1,5 +1,5 @@
 ---
 title: "Amazing Tours"
 url: /lince/amazing-tours/
-shop: Reisebüro
+shop: agencia de viajes
 ---

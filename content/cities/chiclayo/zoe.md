@@ -1,5 +1,5 @@
 ---
 title: "Zoe"
 url: /chiclayo/zoe/
-shop: Andenken
+shop: regalo
 ---

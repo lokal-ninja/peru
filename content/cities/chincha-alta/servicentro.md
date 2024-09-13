@@ -1,5 +1,5 @@
 ---
 title: "Servicentro"
 url: /chincha-alta/servicentro/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

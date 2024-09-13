@@ -1,5 +1,5 @@
 ---
 title: "Ino Latina"
 url: /arequipa/ino-latina/
-shop: Warenhaus
+shop: grandes almacenes
 ---

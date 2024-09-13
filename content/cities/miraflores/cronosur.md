@@ -1,5 +1,5 @@
 ---
 title: "Cronosur"
 url: /miraflores/cronosur/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

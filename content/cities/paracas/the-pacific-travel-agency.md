@@ -1,5 +1,5 @@
 ---
 title: "The Pacific Travel Agency"
 url: /paracas/the-pacific-travel-agency/
-shop: Reisebüro
+shop: agencia de viajes
 ---

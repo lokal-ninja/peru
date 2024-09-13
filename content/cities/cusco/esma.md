@@ -1,5 +1,5 @@
 ---
 title: "ESMA"
 url: /cusco/esma/
-shop: Schmuck
+shop: joyería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Papabubble"
 url: /san-isidro/papabubble/
-shop: Allgemein
+shop: general
 ---

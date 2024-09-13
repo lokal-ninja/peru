@@ -1,5 +1,5 @@
 ---
 title: "Lavandería Luxor"
 url: /trujillo/lavanderia-luxor/
-shop: Wäscherei
+shop: lavandería
 ---

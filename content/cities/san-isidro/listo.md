@@ -1,5 +1,5 @@
 ---
 title: "Listo"
 url: /san-isidro/listo/
-shop: Lebensmittel
+shop: comodidad
 ---

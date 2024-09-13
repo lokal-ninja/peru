@@ -1,5 +1,5 @@
 ---
 title: "MaxiAhorro Ica"
 url: /ica/maxiahorro-ica/
-shop: Supermarkt
+shop: supermercado
 ---

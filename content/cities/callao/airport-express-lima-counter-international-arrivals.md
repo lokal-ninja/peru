@@ -1,5 +1,5 @@
 ---
 title: "Airport Express Lima (Counter International Arrivals)"
 url: /callao/airport-express-lima-counter-international-arrivals/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Disfraces"
 url: /trujillo/disfraces/
-shop: Schreibwaren
+shop: material de oficina
 ---

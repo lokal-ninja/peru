@@ -1,5 +1,5 @@
 ---
 title: "MIG"
 url: /miraflores/mig/
-shop: Kosmetik
+shop: cosméticos
 ---

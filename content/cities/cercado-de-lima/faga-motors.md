@@ -1,5 +1,5 @@
 ---
 title: "Faga Motors"
 url: /cercado-de-lima/faga-motors/
-shop: Autoteile
+shop: piezas de automóviles
 ---

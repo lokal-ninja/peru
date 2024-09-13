@@ -1,5 +1,5 @@
 ---
 title: "Casboni"
 url: /ayacucho/casboni/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

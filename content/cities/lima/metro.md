@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /lima/metro/
-shop: Supermarkt
+shop: supermercado
 ---

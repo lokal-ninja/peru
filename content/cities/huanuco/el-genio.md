@@ -1,5 +1,5 @@
 ---
 title: "El Genio"
 url: /huanuco/el-genio/
-shop: Schreibwaren
+shop: material de oficina
 ---

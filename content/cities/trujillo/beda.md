@@ -1,5 +1,5 @@
 ---
 title: "Beda"
 url: /trujillo/beda/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

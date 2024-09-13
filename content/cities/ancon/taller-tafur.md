@@ -1,5 +1,5 @@
 ---
 title: "Taller Tafur"
 url: /ancon/taller-tafur/
-shop: Allgemein
+shop: general
 ---

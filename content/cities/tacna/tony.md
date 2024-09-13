@@ -1,5 +1,5 @@
 ---
 title: "Tony"
 url: /tacna/tony/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

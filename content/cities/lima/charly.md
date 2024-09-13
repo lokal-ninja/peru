@@ -1,5 +1,5 @@
 ---
 title: "Charly"
 url: /lima/charly/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Iseing"
 url: /trujillo/iseing/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

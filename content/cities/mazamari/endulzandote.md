@@ -1,5 +1,5 @@
 ---
 title: "Endulzándote"
 url: /mazamari/endulzandote/
-shop: Konditorei
+shop: pastelería
 ---

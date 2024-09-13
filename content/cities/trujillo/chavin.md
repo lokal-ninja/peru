@@ -1,5 +1,5 @@
 ---
 title: "Chavin"
 url: /trujillo/chavin/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

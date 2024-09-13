@@ -1,5 +1,5 @@
 ---
 title: "Centro Cerámico Lian"
 url: /casma/centro-ceramico-lian/
-shop: Fliesen
+shop: baldosas
 ---

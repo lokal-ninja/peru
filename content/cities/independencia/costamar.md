@@ -1,5 +1,5 @@
 ---
 title: "CostaMar"
 url: /independencia/costamar/
-shop: Reisebüro
+shop: agencia de viajes
 ---

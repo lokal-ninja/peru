@@ -1,5 +1,5 @@
 ---
 title: "Ferretería El Progreso"
 url: /coishco/ferreteria-el-progreso/
-shop: Eisenwaren
+shop: hardware
 ---

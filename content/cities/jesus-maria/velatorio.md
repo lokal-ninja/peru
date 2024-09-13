@@ -1,5 +1,5 @@
 ---
 title: "Velatorio"
 url: /jesus-maria/velatorio/
-shop: Bestattungen
+shop: directores de funerarias
 ---

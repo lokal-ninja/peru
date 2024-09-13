@@ -1,5 +1,5 @@
 ---
 title: "MOIXX"
 url: /chiclayo/moixx/
-shop: Allgemein
+shop: general
 ---

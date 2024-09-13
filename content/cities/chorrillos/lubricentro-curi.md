@@ -1,5 +1,5 @@
 ---
 title: "Lubricentro Curi"
 url: /chorrillos/lubricentro-curi/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

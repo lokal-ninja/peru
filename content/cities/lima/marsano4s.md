@@ -1,5 +1,5 @@
 ---
 title: "Marsano4S"
 url: /lima/marsano4s/
-shop: Allgemein
+shop: general
 ---

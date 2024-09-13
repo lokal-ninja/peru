@@ -1,5 +1,5 @@
 ---
 title: "JC Servicio Electronico Automotriz"
 url: /ayacucho/jc-servicio-electronico-automotriz/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

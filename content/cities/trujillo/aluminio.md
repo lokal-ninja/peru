@@ -1,5 +1,5 @@
 ---
 title: "Aluminio"
 url: /trujillo/aluminio/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Casalinda"
 url: /lima/casalinda/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

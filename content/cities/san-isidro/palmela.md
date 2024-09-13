@@ -1,5 +1,5 @@
 ---
 title: "Palmela"
 url: /san-isidro/palmela/
-shop: Allgemein
+shop: general
 ---

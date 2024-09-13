@@ -1,5 +1,5 @@
 ---
 title: "Lujantrading"
 url: /ayacucho/lujantrading/
-shop: Kleidung
+shop: ropa
 ---

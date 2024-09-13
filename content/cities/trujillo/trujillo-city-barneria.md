@@ -1,5 +1,5 @@
 ---
 title: "Trujillo City Barnería"
 url: /trujillo/trujillo-city-barneria/
-shop: Friseur
+shop: peluquería
 ---

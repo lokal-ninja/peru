@@ -1,5 +1,5 @@
 ---
 title: "Acrilicos"
 url: /lima/acrilicos/
-shop: Allgemein
+shop: general
 ---

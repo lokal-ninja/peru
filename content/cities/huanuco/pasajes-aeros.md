@@ -1,5 +1,5 @@
 ---
 title: "Pasajes Aeros"
 url: /huanuco/pasajes-aeros/
-shop: Reisebüro
+shop: agencia de viajes
 ---

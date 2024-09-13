@@ -1,5 +1,5 @@
 ---
-title: "Lavandería y Tintorería Las Flores"
+title: "Lavanderia y Tintoreria Las Flores"
 url: /cusco/lavanderia-y-tintoreria-las-flores/
-shop: Wäscherei
+shop: lavandería
 ---

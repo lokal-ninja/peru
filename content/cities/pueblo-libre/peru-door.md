@@ -1,5 +1,5 @@
 ---
 title: "Peru Door"
 url: /pueblo-libre/peru-door/
-shop: Türen
+shop: puertas
 ---

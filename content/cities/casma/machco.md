@@ -1,5 +1,5 @@
 ---
 title: "Machco"
 url: /casma/machco/
-shop: Allgemein
+shop: general
 ---

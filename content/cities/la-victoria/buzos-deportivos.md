@@ -1,5 +1,5 @@
 ---
 title: "Buzos Deportivos"
 url: /la-victoria/buzos-deportivos/
-shop: Kleidung
+shop: ropa
 ---

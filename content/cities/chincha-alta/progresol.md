@@ -1,5 +1,5 @@
 ---
 title: "Progresol"
 url: /chincha-alta/progresol/
-shop: Allgemein
+shop: general
 ---

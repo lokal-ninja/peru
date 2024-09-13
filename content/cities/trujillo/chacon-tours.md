@@ -1,5 +1,5 @@
 ---
 title: "Chacon Tours"
 url: /trujillo/chacon-tours/
-shop: Reisebüro
+shop: agencia de viajes
 ---

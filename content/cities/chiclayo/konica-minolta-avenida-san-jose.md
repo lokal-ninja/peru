@@ -1,5 +1,5 @@
 ---
 title: "Konica Minolta"
 url: /chiclayo/konica-minolta-avenida-san-jose/
-shop: Allgemein
+shop: general
 ---

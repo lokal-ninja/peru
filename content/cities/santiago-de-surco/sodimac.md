@@ -1,5 +1,5 @@
 ---
 title: "Sodimac"
 url: /santiago-de-surco/sodimac/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

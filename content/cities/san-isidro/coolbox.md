@@ -1,5 +1,5 @@
 ---
 title: "Coolbox"
 url: /san-isidro/coolbox/
-shop: Elektronik
+shop: electrónica
 ---

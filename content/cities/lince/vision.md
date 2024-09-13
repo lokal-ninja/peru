@@ -1,5 +1,5 @@
 ---
 title: "Vision"
 url: /lince/vision/
-shop: Optiker
+shop: óptico
 ---

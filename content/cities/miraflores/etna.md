@@ -1,5 +1,5 @@
 ---
 title: "ETNA"
 url: /miraflores/etna/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

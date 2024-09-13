@@ -1,5 +1,5 @@
 ---
 title: "Triboox"
 url: /carhuaz/triboox/
-shop: Friseur
+shop: peluquería
 ---

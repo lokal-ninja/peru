@@ -1,5 +1,5 @@
 ---
 title: "EFE"
 url: /nuevo-chimbote/efe/
-shop: Supermarkt
+shop: supermercado
 ---

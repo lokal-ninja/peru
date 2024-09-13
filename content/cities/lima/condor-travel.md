@@ -1,5 +1,5 @@
 ---
 title: "Condor Travel"
 url: /lima/condor-travel/
-shop: Reisebüro
+shop: agencia de viajes
 ---

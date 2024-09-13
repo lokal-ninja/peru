@@ -1,5 +1,5 @@
 ---
 title: "Planchado Y Pintura"
 url: /trujillo/planchado-y-pintura-avenida-cesar-vallejo/
-shop: Farben
+shop: pintura
 ---

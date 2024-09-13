@@ -1,5 +1,5 @@
 ---
 title: "Nicli"
 url: /lima/nicli/
-shop: Allgemein
+shop: general
 ---

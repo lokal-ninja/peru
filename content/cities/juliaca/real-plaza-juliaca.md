@@ -1,5 +1,5 @@
 ---
 title: "Real Plaza Juliaca"
 url: /juliaca/real-plaza-juliaca/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

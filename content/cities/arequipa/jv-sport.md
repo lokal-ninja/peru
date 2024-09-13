@@ -1,5 +1,5 @@
 ---
 title: "JV Sport"
 url: /arequipa/jv-sport/
-shop: Foto
+shop: foto
 ---

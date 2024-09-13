@@ -1,5 +1,5 @@
 ---
 title: "Mecánica Aytomotriz"
 url: /ventanilla/mecanica-aytomotriz/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coolbox"
 url: /miraflores/coolbox/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

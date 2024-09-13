@@ -1,5 +1,5 @@
 ---
 title: "Paraíso"
 url: /lince/paraiso/
-shop: Möbel
+shop: muebles
 ---

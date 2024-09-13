@@ -1,5 +1,5 @@
 ---
 title: "Eco Deli Gourmet"
 url: /ica/eco-deli-gourmet/
-shop: Feinkost
+shop: charcutería
 ---

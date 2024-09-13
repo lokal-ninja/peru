@@ -1,5 +1,5 @@
 ---
 title: "Bial Service"
 url: /lima/bial-service/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

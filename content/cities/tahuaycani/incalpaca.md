@@ -1,5 +1,5 @@
 ---
 title: "Incalpaca"
 url: /tahuaycani/incalpaca/
-shop: Kleidung
+shop: ropa
 ---

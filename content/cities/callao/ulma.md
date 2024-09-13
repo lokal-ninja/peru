@@ -1,5 +1,5 @@
 ---
 title: "Ulma"
 url: /callao/ulma/
-shop: Eisenwaren
+shop: hardware
 ---

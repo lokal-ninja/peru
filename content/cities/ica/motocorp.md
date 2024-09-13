@@ -1,5 +1,5 @@
 ---
 title: "MotoCorp"
 url: /ica/motocorp/
-shop: Motorrad
+shop: motocicleta
 ---

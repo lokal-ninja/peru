@@ -1,5 +1,5 @@
 ---
 title: "Autopartes"
 url: /lima/autopartes/
-shop: Autoteile
+shop: piezas de automóviles
 ---

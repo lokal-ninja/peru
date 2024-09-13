@@ -1,5 +1,5 @@
 ---
 title: "Diego"
 url: /tacna/diego/
-shop: Allgemein
+shop: general
 ---

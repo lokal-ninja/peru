@@ -1,5 +1,5 @@
 ---
 title: "Recor"
 url: /ayacucho/recor/
-shop: Allgemein
+shop: general
 ---

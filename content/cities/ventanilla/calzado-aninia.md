@@ -1,5 +1,5 @@
 ---
 title: "Calzado Aninia"
 url: /ventanilla/calzado-aninia/
-shop: Schuhe
+shop: zapatos
 ---

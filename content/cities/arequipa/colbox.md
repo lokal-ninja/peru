@@ -1,5 +1,5 @@
 ---
 title: "Colbox"
 url: /arequipa/colbox/
-shop: Radiotechnik
+shop: radiotecnia
 ---

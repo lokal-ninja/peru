@@ -1,5 +1,5 @@
 ---
 title: "Moche Tours"
 url: /trujillo/moche-tours/
-shop: Reisebüro
+shop: agencia de viajes
 ---

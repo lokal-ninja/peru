@@ -1,5 +1,5 @@
 ---
 title: "Econnvrae"
 url: /ayacucho/econnvrae/
-shop: Autoteile
+shop: piezas de automóviles
 ---

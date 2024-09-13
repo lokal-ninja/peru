@@ -1,5 +1,5 @@
 ---
 title: "MultiMuelles"
 url: /lima/multimuelles/
-shop: Autoteile
+shop: piezas de automóviles
 ---

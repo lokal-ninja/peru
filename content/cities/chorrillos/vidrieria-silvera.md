@@ -1,5 +1,5 @@
 ---
 title: "Vidrieria Silvera"
 url: /chorrillos/vidrieria-silvera/
-shop: Allgemein
+shop: general
 ---

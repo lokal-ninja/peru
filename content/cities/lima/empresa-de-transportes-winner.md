@@ -1,5 +1,5 @@
 ---
 title: "Empresa de Transportes Winner"
 url: /lima/empresa-de-transportes-winner/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

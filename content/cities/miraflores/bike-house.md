@@ -1,5 +1,5 @@
 ---
 title: "Bike House"
 url: /miraflores/bike-house/
-shop: Fahrrad
+shop: bicicleta
 ---

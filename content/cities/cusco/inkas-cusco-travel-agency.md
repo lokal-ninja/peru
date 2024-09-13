@@ -1,5 +1,5 @@
 ---
 title: "INKAS CUSCO TRAVEL AGENCY"
 url: /cusco/inkas-cusco-travel-agency/
-shop: Reisebüro
+shop: agencia de viajes
 ---

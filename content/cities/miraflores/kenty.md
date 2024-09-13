@@ -1,5 +1,5 @@
 ---
 title: "Kenty"
 url: /miraflores/kenty/
-shop: Autoteile
+shop: piezas de automóviles
 ---

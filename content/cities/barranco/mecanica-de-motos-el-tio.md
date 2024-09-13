@@ -1,5 +1,5 @@
 ---
 title: "MECÁNICA DE MOTOS  EL TIO "
 url: /barranco/mecanica-de-motos-el-tio/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

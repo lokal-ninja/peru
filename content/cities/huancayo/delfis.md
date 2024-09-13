@@ -1,5 +1,5 @@
 ---
 title: "Delfi's"
 url: /huancayo/delfis/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Paracas Explorer"
 url: /paracas/paracas-explorer/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidercon"
 url: /comas/lidercon/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

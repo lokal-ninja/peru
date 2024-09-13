@@ -1,5 +1,5 @@
 ---
 title: "Piantique"
 url: /barranco/piantique/
-shop: Allgemein
+shop: general
 ---

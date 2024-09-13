@@ -1,5 +1,5 @@
 ---
 title: "Autoparts"
 url: /trujillo/autoparts/
-shop: Autoteile
+shop: piezas de automóviles
 ---

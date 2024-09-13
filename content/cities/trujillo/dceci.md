@@ -1,5 +1,5 @@
 ---
 title: "D'Ceci"
 url: /trujillo/dceci/
-shop: Allgemein
+shop: general
 ---

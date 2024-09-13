@@ -1,5 +1,5 @@
 ---
 title: "Copias"
 url: /ayacucho/copias/
-shop: Kopieren
+shop: copyshop
 ---

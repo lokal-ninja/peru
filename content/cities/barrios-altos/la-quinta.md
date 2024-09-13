@@ -1,5 +1,5 @@
 ---
 title: "La Quinta"
 url: /barrios-altos/la-quinta/
-shop: Warenhaus
+shop: grandes almacenes
 ---

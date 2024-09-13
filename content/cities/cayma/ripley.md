@@ -1,5 +1,5 @@
 ---
 title: "Ripley"
 url: /cayma/ripley/
-shop: Warenhaus
+shop: grandes almacenes
 ---

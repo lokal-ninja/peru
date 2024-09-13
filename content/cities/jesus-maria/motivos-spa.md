@@ -1,5 +1,5 @@
 ---
 title: "Motivos Spa"
 url: /jesus-maria/motivos-spa/
-shop: Kosmetik
+shop: cosméticos
 ---

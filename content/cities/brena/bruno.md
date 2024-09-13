@@ -1,5 +1,5 @@
 ---
 title: "Bruño"
 url: /brena/bruno/
-shop: Schreibwaren
+shop: material de oficina
 ---

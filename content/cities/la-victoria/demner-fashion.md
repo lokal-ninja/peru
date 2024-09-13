@@ -1,5 +1,5 @@
 ---
 title: "Demner Fashion"
 url: /la-victoria/demner-fashion/
-shop: Kleidung
+shop: ropa
 ---

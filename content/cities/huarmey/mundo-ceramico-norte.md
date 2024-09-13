@@ -1,5 +1,5 @@
 ---
 title: "Mundo Ceramico Norte"
 url: /huarmey/mundo-ceramico-norte/
-shop: Fliesen
+shop: baldosas
 ---

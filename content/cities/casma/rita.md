@@ -1,5 +1,5 @@
 ---
 title: "Rita"
 url: /casma/rita/
-shop: Friseur
+shop: peluquería
 ---

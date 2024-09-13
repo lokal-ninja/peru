@@ -1,5 +1,5 @@
 ---
 title: "Inveragro"
 url: /casma/inveragro/
-shop: Allgemein
+shop: general
 ---

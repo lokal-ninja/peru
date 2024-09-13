@@ -1,5 +1,5 @@
 ---
 title: "Bajaj"
 url: /ventanilla/bajaj/
-shop: Motorrad
+shop: motocicleta
 ---

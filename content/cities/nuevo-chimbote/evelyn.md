@@ -1,5 +1,5 @@
 ---
 title: "Evelyn"
 url: /nuevo-chimbote/evelyn/
-shop: Raumausstattung
+shop: decoración interior
 ---

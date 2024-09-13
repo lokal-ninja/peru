@@ -1,5 +1,5 @@
 ---
 title: "Africa"
 url: /huancayo/africa/
-shop: Allgemein
+shop: general
 ---

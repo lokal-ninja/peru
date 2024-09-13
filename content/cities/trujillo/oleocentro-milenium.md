@@ -1,5 +1,5 @@
 ---
 title: "Oleocentro Milenium"
 url: /trujillo/oleocentro-milenium/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Planos"
 url: /ayacucho/planos/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

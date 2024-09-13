@@ -1,5 +1,5 @@
 ---
 title: "Etna"
 url: /santiago-de-surco/etna/
-shop: Allgemein
+shop: general
 ---

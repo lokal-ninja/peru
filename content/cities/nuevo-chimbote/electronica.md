@@ -1,5 +1,5 @@
 ---
 title: "Electronica"
 url: /nuevo-chimbote/electronica/
-shop: Elektronik
+shop: electrónica
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lukat"
 url: /ayacucho/lukat/
-shop: Allgemein
+shop: general
 ---

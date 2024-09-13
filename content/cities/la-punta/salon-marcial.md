@@ -1,5 +1,5 @@
 ---
 title: "Salon Marcial"
 url: /la-punta/salon-marcial/
-shop: Friseur
+shop: peluquería
 ---

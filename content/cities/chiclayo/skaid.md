@@ -1,5 +1,5 @@
 ---
 title: "Skaid"
 url: /chiclayo/skaid/
-shop: Elektronik
+shop: electrónica
 ---

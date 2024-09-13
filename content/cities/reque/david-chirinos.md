@@ -1,5 +1,5 @@
 ---
 title: "David Chirinos"
 url: /reque/david-chirinos/
-shop: Allgemein
+shop: general
 ---

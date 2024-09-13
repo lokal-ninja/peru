@@ -1,5 +1,5 @@
 ---
 title: "Ziyaz"
 url: /miraflores/ziyaz/
-shop: Allgemein
+shop: general
 ---

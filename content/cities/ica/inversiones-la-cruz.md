@@ -1,5 +1,5 @@
 ---
 title: "Inversiones La Cruz"
 url: /ica/inversiones-la-cruz/
-shop: Leiher
+shop: prestamista
 ---

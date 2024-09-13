@@ -1,5 +1,5 @@
 ---
 title: "Delgado"
 url: /chiclayo/delgado/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Plaza Vea"
 url: /arequipa/plaza-vea/
-shop: Supermarkt
+shop: supermercado
 ---

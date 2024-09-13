@@ -1,5 +1,5 @@
 ---
 title: "Clinica Automotriz Ruso"
 url: /ayacucho/clinica-automotriz-ruso/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

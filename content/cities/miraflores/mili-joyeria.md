@@ -1,5 +1,5 @@
 ---
 title: "Mili Joyería"
 url: /miraflores/mili-joyeria/
-shop: Schmuck
+shop: joyería
 ---

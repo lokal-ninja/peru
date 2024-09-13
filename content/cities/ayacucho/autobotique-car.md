@@ -1,5 +1,5 @@
 ---
 title: "Autobotique Car"
 url: /ayacucho/autobotique-car/
-shop: Autoteile
+shop: piezas de automóviles
 ---

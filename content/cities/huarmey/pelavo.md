@@ -1,5 +1,5 @@
 ---
 title: "Pelavo"
 url: /huarmey/pelavo/
-shop: Allgemein
+shop: general
 ---

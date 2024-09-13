@@ -1,5 +1,5 @@
 ---
 title: "Kahuaza"
 url: /ayacucho/kahuaza/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

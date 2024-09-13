@@ -1,5 +1,5 @@
 ---
 title: "Multiservicios Ariza"
 url: /huarmey/multiservicios-ariza/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

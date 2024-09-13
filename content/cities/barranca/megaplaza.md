@@ -1,5 +1,5 @@
 ---
 title: "Megaplaza"
 url: /barranca/megaplaza/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

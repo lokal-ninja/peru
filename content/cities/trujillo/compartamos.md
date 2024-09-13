@@ -1,5 +1,5 @@
 ---
 title: "Compartamos"
 url: /trujillo/compartamos/
-shop: Allgemein
+shop: general
 ---

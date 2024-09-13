@@ -1,5 +1,5 @@
 ---
 title: "Romantic"
 url: /chiclayo/romantic/
-shop: Allgemein
+shop: general
 ---

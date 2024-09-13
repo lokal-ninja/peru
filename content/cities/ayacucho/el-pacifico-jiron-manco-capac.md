@@ -1,5 +1,5 @@
 ---
 title: "El Pacifico"
 url: /ayacucho/el-pacifico-jiron-manco-capac/
-shop: Eisenwaren
+shop: hardware
 ---

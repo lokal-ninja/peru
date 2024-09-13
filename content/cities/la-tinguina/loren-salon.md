@@ -1,5 +1,5 @@
 ---
 title: "Loren Salón"
 url: /la-tinguina/loren-salon/
-shop: Kosmetik
+shop: cosméticos
 ---

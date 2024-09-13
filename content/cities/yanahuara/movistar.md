@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /yanahuara/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

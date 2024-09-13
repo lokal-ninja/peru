@@ -1,5 +1,5 @@
 ---
 title: "Claumar"
 url: /trujillo/claumar/
-shop: Eisenwaren
+shop: hardware
 ---

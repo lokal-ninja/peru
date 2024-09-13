@@ -1,5 +1,5 @@
 ---
 title: "Coqueta"
 url: /casma/coqueta/
-shop: Kleidung
+shop: ropa
 ---

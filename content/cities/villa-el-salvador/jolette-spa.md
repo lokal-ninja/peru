@@ -1,5 +1,5 @@
 ---
 title: "Jolette Spa"
 url: /villa-el-salvador/jolette-spa/
-shop: Kosmetik
+shop: cosméticos
 ---

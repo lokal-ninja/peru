@@ -1,5 +1,5 @@
 ---
 title: "WIlson's"
 url: /chiclayo/wilsons/
-shop: Farben
+shop: pintura
 ---

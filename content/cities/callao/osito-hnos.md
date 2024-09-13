@@ -1,5 +1,5 @@
 ---
 title: "Osito Hnos"
 url: /callao/osito-hnos/
-shop: Allgemein
+shop: general
 ---

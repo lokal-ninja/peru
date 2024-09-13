@@ -1,5 +1,5 @@
 ---
 title: "Ferretería San Carlos"
 url: /chao/ferreteria-san-carlos/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ebony"
 url: /san-borja/ebony/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Samsonite"
 url: /santiago-de-surco/samsonite/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

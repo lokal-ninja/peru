@@ -1,5 +1,5 @@
 ---
 title: "Bodega Cinthia"
 url: /lima/bodega-cinthia/
-shop: Lebensmittel
+shop: comodidad
 ---

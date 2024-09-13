@@ -1,5 +1,5 @@
 ---
 title: "Pernos"
 url: /trujillo/pernos/
-shop: Allgemein
+shop: general
 ---

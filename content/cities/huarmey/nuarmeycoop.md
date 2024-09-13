@@ -1,5 +1,5 @@
 ---
 title: "Nuarmeycoop"
 url: /huarmey/nuarmeycoop/
-shop: Landwirtschaftlich
+shop: agraria
 ---

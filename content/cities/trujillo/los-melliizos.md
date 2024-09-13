@@ -1,5 +1,5 @@
 ---
 title: "Los Melliizos"
 url: /trujillo/los-melliizos/
-shop: Allgemein
+shop: general
 ---

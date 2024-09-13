@@ -1,5 +1,5 @@
 ---
 title: "El Gool"
 url: /ayacucho/el-gool/
-shop: Schreibwaren
+shop: material de oficina
 ---

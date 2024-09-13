@@ -1,5 +1,5 @@
 ---
 title: "Econópticas"
 url: /independencia/econopticas/
-shop: Optiker
+shop: óptico
 ---

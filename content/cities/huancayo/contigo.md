@@ -1,5 +1,5 @@
 ---
 title: "Contigo"
 url: /huancayo/contigo/
-shop: Allgemein
+shop: general
 ---

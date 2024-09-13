@@ -1,5 +1,5 @@
 ---
 title: "Sonrisalud"
 url: /chiclayo/sonrisalud/
-shop: Allgemein
+shop: general
 ---

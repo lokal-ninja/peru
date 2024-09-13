@@ -1,5 +1,5 @@
 ---
 title: "La Canona"
 url: /chincha-alta/la-canona/
-shop: Lebensmittel
+shop: comodidad
 ---

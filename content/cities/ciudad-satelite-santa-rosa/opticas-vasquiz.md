@@ -1,5 +1,5 @@
 ---
 title: "Opticas Vasquiz"
 url: /ciudad-satelite-santa-rosa/opticas-vasquiz/
-shop: Optiker
+shop: óptico
 ---

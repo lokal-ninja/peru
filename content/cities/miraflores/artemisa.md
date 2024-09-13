@@ -1,5 +1,5 @@
 ---
 title: "Artemisa"
 url: /miraflores/artemisa/
-shop: Kosmetik
+shop: cosméticos
 ---

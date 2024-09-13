@@ -1,5 +1,5 @@
 ---
 title: "Artisnia"
 url: /moyobamba/artisnia/
-shop: Kramladen
+shop: tienda de variedades
 ---

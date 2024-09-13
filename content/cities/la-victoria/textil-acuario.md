@@ -1,5 +1,5 @@
 ---
 title: "Textil Acuario"
 url: /la-victoria/textil-acuario/
-shop: Textil
+shop: tela
 ---

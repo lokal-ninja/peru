@@ -1,5 +1,5 @@
 ---
 title: "Gallegos"
 url: /chincha-alta/gallegos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

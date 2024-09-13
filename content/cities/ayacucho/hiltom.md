@@ -1,5 +1,5 @@
 ---
 title: "Hiltom"
 url: /ayacucho/hiltom/
-shop: Eisenwaren
+shop: hardware
 ---

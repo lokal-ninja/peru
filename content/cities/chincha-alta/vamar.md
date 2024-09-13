@@ -1,5 +1,5 @@
 ---
 title: "Vamar"
 url: /chincha-alta/vamar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

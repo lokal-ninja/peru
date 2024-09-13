@@ -1,5 +1,5 @@
 ---
-title: "Optica Rojas"
+title: "Óptica Rojas"
 url: /trujillo/optica-rojas/
-shop: Optiker
+shop: óptico
 ---

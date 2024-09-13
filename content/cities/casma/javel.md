@@ -1,5 +1,5 @@
 ---
 title: "Javel"
 url: /casma/javel/
-shop: Schreibwaren
+shop: material de oficina
 ---

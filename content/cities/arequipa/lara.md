@@ -1,5 +1,5 @@
 ---
 title: "Lara"
 url: /arequipa/lara/
-shop: Eisenwaren
+shop: hardware
 ---

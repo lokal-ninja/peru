@@ -1,5 +1,5 @@
 ---
 title: "Choquequirao Trekk"
 url: /arequipa/choquequirao-trekk/
-shop: Reisebüro
+shop: agencia de viajes
 ---

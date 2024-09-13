@@ -1,5 +1,5 @@
 ---
 title: "Ambacar"
 url: /san-isidro/ambacar/
-shop: Autohaus
+shop: coche
 ---

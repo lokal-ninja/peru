@@ -1,5 +1,5 @@
 ---
 title: "Funeraría"
 url: /ventanilla/funeraria/
-shop: Bestattungen
+shop: directores de funerarias
 ---

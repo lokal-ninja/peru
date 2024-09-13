@@ -1,5 +1,5 @@
 ---
 title: "Chicho"
 url: /trujillo/chicho/
-shop: Autoteile
+shop: piezas de automóviles
 ---

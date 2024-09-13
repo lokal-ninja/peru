@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Palma"
 url: /casma/ferreteria-palma/
-shop: Eisenwaren
+shop: hardware
 ---

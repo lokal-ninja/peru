@@ -1,5 +1,5 @@
 ---
 title: "Conforflex"
 url: /trujillo/conforflex/
-shop: Allgemein
+shop: general
 ---

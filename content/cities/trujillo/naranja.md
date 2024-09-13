@@ -1,5 +1,5 @@
 ---
 title: "Naranja"
 url: /trujillo/naranja/
-shop: Reifen
+shop: neumáticos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Inca Lake"
 url: /puno/inca-lake/
-shop: Reisebüro
+shop: agencia de viajes
 ---

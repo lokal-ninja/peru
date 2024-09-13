@@ -1,5 +1,5 @@
 ---
 title: "La Zona"
 url: /pucallpa/la-zona/
-shop: Autohaus
+shop: coche
 ---

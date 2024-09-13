@@ -1,5 +1,5 @@
 ---
 title: "MallPlaza"
 url: /cayma/mallplaza/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

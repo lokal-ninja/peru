@@ -1,5 +1,5 @@
 ---
 title: "Sodello"
 url: /ayacucho/sodello/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Detalles PiBu Chota"
 url: /chota/detalles-pibu-chota/
-shop: Andenken
+shop: regalo
 ---

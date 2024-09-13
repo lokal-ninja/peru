@@ -1,5 +1,5 @@
 ---
 title: "Tiendas EFE"
 url: /chulucanas/tiendas-efe/
-shop: Elektronik
+shop: electrónica
 ---

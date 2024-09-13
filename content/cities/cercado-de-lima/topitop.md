@@ -1,5 +1,5 @@
 ---
 title: "Topitop"
 url: /cercado-de-lima/topitop/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

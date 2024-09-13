@@ -1,5 +1,5 @@
 ---
 title: "Lego"
 url: /santiago-de-surco/lego/
-shop: Spielzeug
+shop: juguetes
 ---

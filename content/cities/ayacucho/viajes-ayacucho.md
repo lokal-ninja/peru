@@ -1,5 +1,5 @@
 ---
 title: "Viajes Ayacucho"
 url: /ayacucho/viajes-ayacucho/
-shop: Reisebüro
+shop: agencia de viajes
 ---

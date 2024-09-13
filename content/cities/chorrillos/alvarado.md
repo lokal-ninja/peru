@@ -1,5 +1,5 @@
 ---
 title: "Alvarado"
 url: /chorrillos/alvarado/
-shop: Allgemein
+shop: general
 ---

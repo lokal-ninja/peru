@@ -1,5 +1,5 @@
 ---
 title: "Filomena"
 url: /miraflores/filomena/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Electronica Gutierrez"
 url: /ayacucho/electronica-gutierrez/
-shop: Elektronik
+shop: electrónica
 ---

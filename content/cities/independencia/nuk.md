@@ -1,5 +1,5 @@
 ---
 title: "Nuk"
 url: /independencia/nuk/
-shop: Babysachen
+shop: artículos para bebés
 ---

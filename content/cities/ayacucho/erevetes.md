@@ -1,5 +1,5 @@
 ---
 title: "Erevetes"
 url: /ayacucho/erevetes/
-shop: Allgemein
+shop: general
 ---

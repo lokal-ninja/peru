@@ -1,5 +1,5 @@
 ---
 title: "Coolbox"
 url: /ventanilla/coolbox/
-shop: Allgemein
+shop: general
 ---

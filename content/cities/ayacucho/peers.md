@@ -1,5 +1,5 @@
 ---
 title: "Peers"
 url: /ayacucho/peers/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fumador"
 url: /miraflores/fumador/
-shop: Tabak
+shop: tabaco
 ---

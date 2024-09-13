@@ -1,5 +1,5 @@
 ---
 title: "Italika"
 url: /casma/italika/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

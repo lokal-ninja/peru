@@ -1,5 +1,5 @@
 ---
 title: "Olé"
 url: /ayacucho/ole/
-shop: Lebensmittel
+shop: comodidad
 ---

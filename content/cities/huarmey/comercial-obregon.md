@@ -1,5 +1,5 @@
 ---
 title: "Comercial Obregon"
 url: /huarmey/comercial-obregon/
-shop: Lebensmittel
+shop: comodidad
 ---

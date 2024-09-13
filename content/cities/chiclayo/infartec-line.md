@@ -1,5 +1,5 @@
 ---
 title: "Infartec Line"
 url: /chiclayo/infartec-line/
-shop: Computer
+shop: ordenador
 ---

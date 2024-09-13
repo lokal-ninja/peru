@@ -1,5 +1,5 @@
 ---
 title: "Cofesur"
 url: /ayacucho/cofesur/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

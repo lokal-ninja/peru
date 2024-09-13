@@ -1,5 +1,5 @@
 ---
 title: "Oeshle"
 url: /barranca/oeshle/
-shop: Modehaus
+shop: tienda
 ---

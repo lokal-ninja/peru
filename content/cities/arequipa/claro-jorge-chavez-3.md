@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /arequipa/claro-jorge-chavez-3/
-shop: Handy
+shop: teléfono móvil
 ---

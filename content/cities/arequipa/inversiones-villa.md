@@ -1,5 +1,5 @@
 ---
 title: "Inversiones VIlla"
 url: /arequipa/inversiones-villa/
-shop: Leiher
+shop: prestamista
 ---

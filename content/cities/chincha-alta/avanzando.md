@@ -1,5 +1,5 @@
 ---
 title: "Avanzando"
 url: /chincha-alta/avanzando/
-shop: Allgemein
+shop: general
 ---

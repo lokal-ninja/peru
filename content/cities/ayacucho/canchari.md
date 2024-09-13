@@ -1,5 +1,5 @@
 ---
 title: "Canchari"
 url: /ayacucho/canchari/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

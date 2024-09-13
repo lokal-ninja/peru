@@ -1,5 +1,5 @@
 ---
 title: "Entel"
 url: /casma/entel/
-shop: Handy
+shop: teléfono móvil
 ---

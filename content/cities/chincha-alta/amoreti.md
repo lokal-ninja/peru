@@ -1,5 +1,5 @@
 ---
 title: "Amoreti"
 url: /chincha-alta/amoreti/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

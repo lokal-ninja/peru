@@ -1,5 +1,5 @@
 ---
 title: "Lubricentro Obregon"
 url: /chorrillos/lubricentro-obregon/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

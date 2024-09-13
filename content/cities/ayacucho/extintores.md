@@ -1,5 +1,5 @@
 ---
 title: "Extintores"
 url: /ayacucho/extintores/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

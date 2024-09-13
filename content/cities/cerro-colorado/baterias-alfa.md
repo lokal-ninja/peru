@@ -1,5 +1,5 @@
 ---
 title: "Baterías Alfa"
 url: /cerro-colorado/baterias-alfa/
-shop: Autoteile
+shop: piezas de automóviles
 ---

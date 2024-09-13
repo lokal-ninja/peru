@@ -1,5 +1,5 @@
 ---
 title: "Jornada"
 url: /ayacucho/jornada/
-shop: Allgemein
+shop: general
 ---

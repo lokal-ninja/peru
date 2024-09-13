@@ -1,5 +1,5 @@
 ---
 title: "Ibero Librerías"
 url: /santiago-de-surco/ibero-librerias/
-shop: Bücher
+shop: libros
 ---

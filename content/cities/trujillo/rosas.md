@@ -1,5 +1,5 @@
 ---
 title: "Rosas"
 url: /trujillo/rosas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yangali"
 url: /los-olivos/yangali/
-shop: Friseur
+shop: peluquería
 ---

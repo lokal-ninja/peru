@@ -1,5 +1,5 @@
 ---
 title: "Katia"
 url: /arequipa/katia/
-shop: Supermarkt
+shop: supermercado
 ---

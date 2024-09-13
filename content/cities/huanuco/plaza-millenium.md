@@ -1,5 +1,5 @@
 ---
 title: "Plaza Millenium"
 url: /huanuco/plaza-millenium/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

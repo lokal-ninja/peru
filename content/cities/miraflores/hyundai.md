@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
 url: /miraflores/hyundai/
-shop: Autoteile
+shop: piezas de automóviles
 ---

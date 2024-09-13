@@ -1,5 +1,5 @@
 ---
 title: "Travego"
 url: /cusco/travego/
-shop: Reisebüro
+shop: agencia de viajes
 ---

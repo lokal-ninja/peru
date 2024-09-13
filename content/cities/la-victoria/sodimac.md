@@ -1,5 +1,5 @@
 ---
 title: "Sodimac"
 url: /la-victoria/sodimac/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

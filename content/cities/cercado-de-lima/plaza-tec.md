@@ -1,5 +1,5 @@
 ---
 title: "Plaza Tec"
 url: /cercado-de-lima/plaza-tec/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oltursa"
 url: /paracas/oltursa/
-shop: Reisebüro
+shop: agencia de viajes
 ---

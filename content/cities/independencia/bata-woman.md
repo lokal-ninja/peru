@@ -1,5 +1,5 @@
 ---
 title: "Bata Woman"
 url: /independencia/bata-woman/
-shop: Schuhe
+shop: zapatos
 ---

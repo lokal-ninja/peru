@@ -1,5 +1,5 @@
 ---
 title: "Osorio"
 url: /cercado-de-lima/osorio/
-shop: Schuhe
+shop: zapatos
 ---

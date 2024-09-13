@@ -1,5 +1,5 @@
 ---
 title: "Calza Moda"
 url: /ayacucho/calza-moda/
-shop: Schuhe
+shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Argaantia Caffee"
 url: /san-isidro/argaantia-caffee/
-shop: Allgemein
+shop: general
 ---

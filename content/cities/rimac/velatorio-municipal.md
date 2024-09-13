@@ -1,5 +1,5 @@
 ---
 title: "Velatorio Municipal"
 url: /rimac/velatorio-municipal/
-shop: Bestattungen
+shop: directores de funerarias
 ---

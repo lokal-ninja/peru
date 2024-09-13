@@ -1,5 +1,5 @@
 ---
 title: "Lubricentro Oriente"
 url: /miraflores/lubricentro-oriente/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

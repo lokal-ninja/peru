@@ -1,5 +1,5 @@
 ---
 title: "Lumber Jack"
 url: /miraflores/lumber-jack/
-shop: Schuhe
+shop: zapatos
 ---

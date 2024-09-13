@@ -1,5 +1,5 @@
 ---
 title: "Tottus"
 url: /carabayllo/tottus/
-shop: Supermarkt
+shop: supermercado
 ---

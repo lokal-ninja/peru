@@ -1,5 +1,5 @@
 ---
 title: "Maybelline"
 url: /independencia/maybelline/
-shop: Kosmetik
+shop: cosméticos
 ---

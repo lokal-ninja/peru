@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /cayma/claro/
-shop: Handy
+shop: teléfono móvil
 ---

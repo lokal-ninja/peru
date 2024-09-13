@@ -1,5 +1,5 @@
 ---
 title: "Macko"
 url: /trujillo/macko/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

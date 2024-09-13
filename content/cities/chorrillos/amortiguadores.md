@@ -1,5 +1,5 @@
 ---
 title: "Amortiguadores"
 url: /chorrillos/amortiguadores/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

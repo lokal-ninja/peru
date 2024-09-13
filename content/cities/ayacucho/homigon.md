@@ -1,5 +1,5 @@
 ---
 title: "Homigon"
 url: /ayacucho/homigon/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

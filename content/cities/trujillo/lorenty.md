@@ -1,5 +1,5 @@
 ---
 title: "Lorenty"
 url: /trujillo/lorenty/
-shop: Optiker
+shop: óptico
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Solari Plaza"
 url: /tacna/solari-plaza/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

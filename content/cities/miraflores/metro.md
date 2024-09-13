@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /miraflores/metro/
-shop: Supermarkt
+shop: supermercado
 ---

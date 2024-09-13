@@ -1,5 +1,5 @@
 ---
 title: "Divemotor"
 url: /miraflores/divemotor/
-shop: Autohaus
+shop: coche
 ---

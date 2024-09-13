@@ -1,5 +1,5 @@
 ---
 title: "Rodwal"
 url: /trujillo/rodwal/
-shop: Allgemein
+shop: general
 ---

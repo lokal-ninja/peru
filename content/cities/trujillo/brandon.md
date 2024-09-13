@@ -1,5 +1,5 @@
 ---
 title: "Brandon"
 url: /trujillo/brandon/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

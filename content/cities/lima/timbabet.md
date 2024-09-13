@@ -1,5 +1,5 @@
 ---
 title: "TimbaBET"
 url: /lima/timbabet/
-shop: Wettbüro
+shop: corredor de apuestas
 ---

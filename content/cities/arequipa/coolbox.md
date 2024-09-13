@@ -1,5 +1,5 @@
 ---
 title: "Coolbox"
 url: /arequipa/coolbox/
-shop: Elektronik
+shop: electrónica
 ---

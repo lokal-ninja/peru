@@ -1,5 +1,5 @@
 ---
 title: "Casaideas"
 url: /independencia/casaideas/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

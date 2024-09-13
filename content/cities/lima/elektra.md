@@ -1,5 +1,5 @@
 ---
 title: "Elektra"
 url: /lima/elektra/
-shop: Warenhaus
+shop: grandes almacenes
 ---

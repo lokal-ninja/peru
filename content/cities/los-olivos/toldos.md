@@ -1,5 +1,5 @@
 ---
 title: "Toldos"
 url: /los-olivos/toldos/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Libreria Ruiz"
 url: /ayacucho/libreria-ruiz/
-shop: Bücher
+shop: libros
 ---

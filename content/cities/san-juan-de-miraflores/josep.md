@@ -1,5 +1,5 @@
 ---
 title: "Josep"
 url: /san-juan-de-miraflores/josep/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Falabella"
 url: /san-isidro/falabella/
-shop: Warenhaus
+shop: grandes almacenes
 ---

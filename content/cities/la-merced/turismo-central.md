@@ -1,5 +1,5 @@
 ---
 title: "Turismo Central"
 url: /la-merced/turismo-central/
-shop: Reisebüro
+shop: agencia de viajes
 ---

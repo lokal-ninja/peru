@@ -1,5 +1,5 @@
 ---
 title: "Cuzco Market"
 url: /miraflores/cuzco-market/
-shop: Andenken
+shop: regalo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bitel"
 url: /huaraz/bitel/
-shop: Handy
+shop: teléfono móvil
 ---

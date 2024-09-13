@@ -1,5 +1,5 @@
 ---
 title: "Lapnova"
 url: /chiclayo/lapnova/
-shop: Elektronik
+shop: electrónica
 ---

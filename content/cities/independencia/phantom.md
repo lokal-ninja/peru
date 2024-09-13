@@ -1,5 +1,5 @@
 ---
 title: "Phantom"
 url: /independencia/phantom/
-shop: Hifi
+shop: hifi
 ---

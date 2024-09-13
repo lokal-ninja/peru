@@ -1,5 +1,5 @@
 ---
 title: "Maripily Biker Taller"
 url: /chorrillos/maripily-biker-taller/
-shop: Fahrrad
+shop: bicicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /jesus-maria/bata/
-shop: Schuhe
+shop: zapatos
 ---

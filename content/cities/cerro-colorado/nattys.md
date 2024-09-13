@@ -1,5 +1,5 @@
 ---
 title: "Natty's"
 url: /cerro-colorado/nattys/
-shop: Garten-Center
+shop: centro de jardinería
 ---

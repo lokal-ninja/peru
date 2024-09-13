@@ -1,5 +1,5 @@
 ---
 title: "Tortas y Bocaditos"
 url: /ayacucho/tortas-y-bocaditos/
-shop: Konditorei
+shop: pastelería
 ---

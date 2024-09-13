@@ -1,5 +1,5 @@
 ---
 title: "Pacifico"
 url: /nuevo-chimbote/pacifico/
-shop: Videospiele
+shop: videojuegos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marleny's"
 url: /trujillo/marlenys/
-shop: Lebensmittel
+shop: comodidad
 ---

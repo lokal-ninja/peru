@@ -1,5 +1,5 @@
 ---
 title: "Quiber"
 url: /la-victoria/quiber/
-shop: Kleidung
+shop: ropa
 ---

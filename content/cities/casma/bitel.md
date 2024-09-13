@@ -1,5 +1,5 @@
 ---
 title: "Bitel"
 url: /casma/bitel/
-shop: Handy
+shop: teléfono móvil
 ---

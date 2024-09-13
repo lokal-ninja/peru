@@ -1,5 +1,5 @@
 ---
 title: "Papelería Emanuel"
 url: /brena/papeleria-emanuel/
-shop: Schreibwaren
+shop: material de oficina
 ---

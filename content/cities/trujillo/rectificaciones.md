@@ -1,5 +1,5 @@
 ---
 title: "Rectificaciones"
 url: /trujillo/rectificaciones/
-shop: Allgemein
+shop: general
 ---

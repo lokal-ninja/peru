@@ -1,5 +1,5 @@
 ---
 title: "Coolbox"
 url: /san-isidro/coolbox-avenida-los-conquistadores/
-shop: Elektronik
+shop: electrónica
 ---

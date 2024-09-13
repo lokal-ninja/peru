@@ -1,5 +1,5 @@
 ---
 title: "Parquet"
 url: /trujillo/parquet/
-shop: Allgemein
+shop: general
 ---

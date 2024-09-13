@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /jesus-maria/metro/
-shop: Supermarkt
+shop: supermercado
 ---

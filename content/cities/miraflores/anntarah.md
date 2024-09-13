@@ -1,5 +1,5 @@
 ---
 title: "Anntarah"
 url: /miraflores/anntarah/
-shop: Allgemein
+shop: general
 ---

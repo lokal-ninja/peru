@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Inmaculada Concepción"
 url: /concepcion/ferreteria-inmaculada-concepcion/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Matizzio"
 url: /la-victoria/matizzio/
-shop: Kleidung
+shop: ropa
 ---

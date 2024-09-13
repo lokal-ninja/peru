@@ -1,5 +1,5 @@
 ---
 title: "Suministros Generales"
 url: /ayacucho/suministros-generales/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ópticas Saldaña"
 url: /trujillo/opticas-saldana/
-shop: Optiker
+shop: óptico
 ---

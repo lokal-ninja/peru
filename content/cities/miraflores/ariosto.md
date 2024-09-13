@@ -1,5 +1,5 @@
 ---
 title: "Ariosto"
 url: /miraflores/ariosto/
-shop: Allgemein
+shop: general
 ---

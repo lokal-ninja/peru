@@ -1,5 +1,5 @@
 ---
 title: "Plastinico"
 url: /ayacucho/plastinico/
-shop: Allgemein
+shop: general
 ---

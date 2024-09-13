@@ -1,5 +1,5 @@
 ---
 title: "Bodega Yofani"
 url: /huancayo/bodega-yofani/
-shop: Lebensmittel
+shop: comodidad
 ---

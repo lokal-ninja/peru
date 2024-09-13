@@ -1,5 +1,5 @@
 ---
 title: "Promart"
 url: /lima/promart/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

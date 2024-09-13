@@ -1,5 +1,5 @@
 ---
 title: "Subaru"
 url: /surco/subaru/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

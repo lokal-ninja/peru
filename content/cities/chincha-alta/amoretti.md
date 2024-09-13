@@ -1,5 +1,5 @@
 ---
 title: "Amoretti"
 url: /chincha-alta/amoretti/
-shop: Wein
+shop: vino
 ---

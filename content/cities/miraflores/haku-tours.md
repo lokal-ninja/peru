@@ -1,5 +1,5 @@
 ---
 title: "Haku Tours"
 url: /miraflores/haku-tours/
-shop: Reisebüro
+shop: agencia de viajes
 ---

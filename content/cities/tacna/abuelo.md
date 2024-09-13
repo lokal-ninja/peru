@@ -1,5 +1,5 @@
 ---
 title: "ABUELO"
 url: /tacna/abuelo/
-shop: Dorfladen
+shop: tienda rural
 ---

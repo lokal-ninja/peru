@@ -1,5 +1,5 @@
 ---
 title: "Colores"
 url: /arequipa/colores/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Melatek"
 url: /ayacucho/melatek/
-shop: Allgemein
+shop: general
 ---

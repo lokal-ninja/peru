@@ -1,5 +1,5 @@
 ---
 title: "Comercial Alex"
 url: /trujillo/comercial-alex/
-shop: Schuhe
+shop: zapatos
 ---

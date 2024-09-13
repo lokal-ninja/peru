@@ -1,5 +1,5 @@
 ---
 title: "Latam Travel"
 url: /trujillo/latam-travel/
-shop: Reisebüro
+shop: agencia de viajes
 ---

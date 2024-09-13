@@ -1,5 +1,5 @@
 ---
 title: "Chepen"
 url: /lima/chepen/
-shop: Autoteile
+shop: piezas de automóviles
 ---

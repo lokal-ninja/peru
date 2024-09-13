@@ -1,5 +1,5 @@
 ---
 title: "Ñahui"
 url: /miraflores/nahui/
-shop: Optiker
+shop: óptico
 ---

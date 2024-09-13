@@ -1,5 +1,5 @@
 ---
 title: "Dital"
 url: /chorrillos/dital/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

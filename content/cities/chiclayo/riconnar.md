@@ -1,5 +1,5 @@
 ---
 title: "Riconnar"
 url: /chiclayo/riconnar/
-shop: Allgemein
+shop: general
 ---

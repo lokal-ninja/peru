@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Guizaldo Plaza"
 url: /brena/centro-comercial-guizaldo-plaza/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Duomo"
 url: /miraflores/duomo/
-shop: Allgemein
+shop: general
 ---

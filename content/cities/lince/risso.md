@@ -1,5 +1,5 @@
 ---
 title: "Risso"
 url: /lince/risso/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

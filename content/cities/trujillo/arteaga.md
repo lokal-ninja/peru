@@ -1,5 +1,5 @@
 ---
 title: "Arteaga"
 url: /trujillo/arteaga/
-shop: Holz
+shop: madera
 ---

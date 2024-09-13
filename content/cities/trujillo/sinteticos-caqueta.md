@@ -1,5 +1,5 @@
 ---
 title: "Sintéticos Caquetá"
 url: /trujillo/sinteticos-caqueta/
-shop: Allgemein
+shop: general
 ---

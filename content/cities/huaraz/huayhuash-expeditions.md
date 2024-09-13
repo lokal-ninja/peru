@@ -1,5 +1,5 @@
 ---
 title: "Huayhuash expeditions"
 url: /huaraz/huayhuash-expeditions/
-shop: Reisebüro
+shop: agencia de viajes
 ---

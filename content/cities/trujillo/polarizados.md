@@ -1,5 +1,5 @@
 ---
 title: "Polarizados"
 url: /trujillo/polarizados/
-shop: Elektronik
+shop: electrónica
 ---

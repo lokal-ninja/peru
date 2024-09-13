@@ -1,5 +1,5 @@
 ---
 title: "Lavandería Gabriel"
 url: /san-juan-de-lurigancho/lavanderia-gabriel/
-shop: Wäscherei
+shop: lavandería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LavaFast"
 url: /lima/lavafast/
-shop: Wäscherei
+shop: lavandería
 ---

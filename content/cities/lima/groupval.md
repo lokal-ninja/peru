@@ -1,5 +1,5 @@
 ---
 title: "GroupVal"
 url: /lima/groupval/
-shop: Autoteile
+shop: piezas de automóviles
 ---

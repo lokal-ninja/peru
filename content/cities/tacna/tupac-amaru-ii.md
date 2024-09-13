@@ -1,5 +1,5 @@
 ---
 title: "Tupac Amaru II"
 url: /tacna/tupac-amaru-ii/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

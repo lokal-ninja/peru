@@ -1,5 +1,5 @@
 ---
 title: "Plaza Santa Fe"
 url: /el-tambo/plaza-santa-fe/
-shop: Allgemein
+shop: general
 ---

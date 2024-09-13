@@ -1,5 +1,5 @@
 ---
 title: "Visso"
 url: /san-isidro/visso/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Matmax Concept Store"
 url: /lima/matmax-concept-store/
-shop: Kleidung
+shop: ropa
 ---

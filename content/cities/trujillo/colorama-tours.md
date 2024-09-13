@@ -1,5 +1,5 @@
 ---
 title: "Colorama Tours"
 url: /trujillo/colorama-tours/
-shop: Reisebüro
+shop: agencia de viajes
 ---

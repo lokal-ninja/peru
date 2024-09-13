@@ -1,5 +1,5 @@
 ---
 title: "Ripley"
 url: /independencia/ripley/
-shop: Warenhaus
+shop: grandes almacenes
 ---

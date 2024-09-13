@@ -1,5 +1,5 @@
 ---
 title: "Sodimac"
 url: /comas/sodimac/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

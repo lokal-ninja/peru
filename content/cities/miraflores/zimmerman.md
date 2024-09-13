@@ -1,5 +1,5 @@
 ---
 title: "Zimmerman"
 url: /miraflores/zimmerman/
-shop: Feinkost
+shop: charcutería
 ---

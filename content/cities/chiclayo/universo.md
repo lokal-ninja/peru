@@ -1,5 +1,5 @@
 ---
 title: "Universo"
 url: /chiclayo/universo/
-shop: Allgemein
+shop: general
 ---

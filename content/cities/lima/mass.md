@@ -1,5 +1,5 @@
 ---
 title: "Mass"
 url: /lima/mass/
-shop: Lebensmittel
+shop: comodidad
 ---

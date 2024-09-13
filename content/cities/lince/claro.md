@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /lince/claro/
-shop: Handy
+shop: teléfono móvil
 ---

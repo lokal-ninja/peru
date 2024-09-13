@@ -1,5 +1,5 @@
 ---
 title: "Agrosavet"
 url: /casma/agrosavet/
-shop: Landwirtschaftlich
+shop: agraria
 ---

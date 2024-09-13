@@ -1,5 +1,5 @@
 ---
 title: "Nakatomi"
 url: /chiclayo/nakatomi/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mariachi"
 url: /huancayo/mariachi/
-shop: Allgemein
+shop: general
 ---

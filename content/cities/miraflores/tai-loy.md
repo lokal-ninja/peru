@@ -1,5 +1,5 @@
 ---
 title: "Tai-Loy"
 url: /miraflores/tai-loy/
-shop: Schreibwaren
+shop: material de oficina
 ---

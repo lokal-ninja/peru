@@ -1,5 +1,5 @@
 ---
 title: "Sodimac"
 url: /bellavista/sodimac/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

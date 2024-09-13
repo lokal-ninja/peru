@@ -1,5 +1,5 @@
 ---
 title: "Sony"
 url: /santiago-de-surco/sony/
-shop: Elektronik
+shop: electrónica
 ---

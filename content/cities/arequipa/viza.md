@@ -1,5 +1,5 @@
 ---
 title: "Viza"
 url: /arequipa/viza/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

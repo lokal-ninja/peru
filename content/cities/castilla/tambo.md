@@ -1,5 +1,5 @@
 ---
 title: "Tambo +"
 url: /castilla/tambo/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Repuestos de Motos"
 url: /huancayo/repuestos-de-motos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

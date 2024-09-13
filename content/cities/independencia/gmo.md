@@ -1,5 +1,5 @@
 ---
 title: "GMO"
 url: /independencia/gmo/
-shop: Optiker
+shop: óptico
 ---

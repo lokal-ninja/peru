@@ -1,5 +1,5 @@
 ---
 title: "Adagio"
 url: /arequipa/adagio/
-shop: Musik
+shop: música
 ---

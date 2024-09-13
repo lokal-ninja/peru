@@ -1,5 +1,5 @@
 ---
 title: "LcPeru"
 url: /miraflores/lcperu/
-shop: Reisebüro
+shop: agencia de viajes
 ---

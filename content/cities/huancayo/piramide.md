@@ -1,5 +1,5 @@
 ---
 title: "Piramide"
 url: /huancayo/piramide/
-shop: Allgemein
+shop: general
 ---

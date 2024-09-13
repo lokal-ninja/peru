@@ -1,5 +1,5 @@
 ---
 title: "Articola"
 url: /trujillo/articola/
-shop: Textil
+shop: tela
 ---

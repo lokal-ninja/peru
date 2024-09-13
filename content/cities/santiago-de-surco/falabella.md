@@ -1,5 +1,5 @@
 ---
 title: "Falabella"
 url: /santiago-de-surco/falabella/
-shop: Warenhaus
+shop: grandes almacenes
 ---

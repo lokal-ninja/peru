@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial El Hueco"
 url: /barrios-altos/centro-comercial-el-hueco/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

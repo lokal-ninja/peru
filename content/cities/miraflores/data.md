@@ -1,5 +1,5 @@
 ---
 title: "Data"
 url: /miraflores/data/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

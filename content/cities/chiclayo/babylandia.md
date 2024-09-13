@@ -1,5 +1,5 @@
 ---
 title: "Babylandia"
 url: /chiclayo/babylandia/
-shop: Babysachen
+shop: artículos para bebés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Red Fin"
 url: /chorrillos/red-fin/
-shop: Allgemein
+shop: general
 ---

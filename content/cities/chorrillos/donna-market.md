@@ -1,5 +1,5 @@
 ---
 title: "Donna Market"
 url: /chorrillos/donna-market/
-shop: Lebensmittel
+shop: comodidad
 ---

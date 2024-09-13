@@ -1,5 +1,5 @@
 ---
 title: "Mytriperu"
 url: /balneario-de-huacachina/mytriperu/
-shop: Reisebüro
+shop: agencia de viajes
 ---

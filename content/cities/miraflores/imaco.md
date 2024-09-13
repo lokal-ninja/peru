@@ -1,5 +1,5 @@
 ---
 title: "imaco"
 url: /miraflores/imaco/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

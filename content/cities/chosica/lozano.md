@@ -1,5 +1,5 @@
 ---
 title: "Lozano"
 url: /chosica/lozano/
-shop: Allgemein
+shop: general
 ---

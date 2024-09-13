@@ -1,5 +1,5 @@
 ---
 title: "Rosatel"
 url: /arequipa/rosatel/
-shop: Andenken
+shop: regalo
 ---

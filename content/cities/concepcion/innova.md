@@ -1,5 +1,5 @@
 ---
 title: "Innova"
 url: /concepcion/innova/
-shop: Schreibwaren
+shop: material de oficina
 ---

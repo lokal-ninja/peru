@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /san-borja/bata/
-shop: Schuhe
+shop: zapatos
 ---

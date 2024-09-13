@@ -1,5 +1,5 @@
 ---
 title: "Dafeli"
 url: /ayacucho/dafeli/
-shop: Lebensmittel
+shop: comodidad
 ---

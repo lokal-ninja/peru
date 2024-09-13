@@ -1,5 +1,5 @@
 ---
 title: "Komonoya"
 url: /villa-el-salvador/komonoya/
-shop: Kramladen
+shop: tienda de variedades
 ---

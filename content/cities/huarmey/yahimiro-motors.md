@@ -1,5 +1,5 @@
 ---
 title: "Yahimiro Motors"
 url: /huarmey/yahimiro-motors/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

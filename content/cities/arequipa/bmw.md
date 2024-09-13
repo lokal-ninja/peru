@@ -1,5 +1,5 @@
 ---
 title: "BMW"
 url: /arequipa/bmw/
-shop: Autohaus
+shop: coche
 ---

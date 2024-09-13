@@ -1,5 +1,5 @@
 ---
 title: "Apecosur"
 url: /lima/apecosur/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

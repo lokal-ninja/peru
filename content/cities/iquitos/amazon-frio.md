@@ -1,5 +1,5 @@
 ---
 title: "Amazon Frío"
 url: /iquitos/amazon-frio/
-shop: Tiefkühl
+shop: alimentos congelados
 ---

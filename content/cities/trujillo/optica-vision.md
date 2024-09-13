@@ -1,5 +1,5 @@
 ---
 title: "Optica Vision"
 url: /trujillo/optica-vision/
-shop: Optiker
+shop: óptico
 ---

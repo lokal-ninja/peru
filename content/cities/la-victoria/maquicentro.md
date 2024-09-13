@@ -1,5 +1,5 @@
 ---
 title: "Maquicentro"
 url: /la-victoria/maquicentro/
-shop: Allgemein
+shop: general
 ---

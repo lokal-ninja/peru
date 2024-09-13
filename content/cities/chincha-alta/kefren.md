@@ -1,5 +1,5 @@
 ---
 title: "Kefren"
 url: /chincha-alta/kefren/
-shop: Allgemein
+shop: general
 ---

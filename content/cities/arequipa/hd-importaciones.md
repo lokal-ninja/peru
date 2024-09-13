@@ -1,5 +1,5 @@
 ---
 title: "HD Importaciones"
 url: /arequipa/hd-importaciones/
-shop: Allgemein
+shop: general
 ---

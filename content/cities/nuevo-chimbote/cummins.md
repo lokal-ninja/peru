@@ -1,5 +1,5 @@
 ---
 title: "Cummins"
 url: /nuevo-chimbote/cummins/
-shop: Autoteile
+shop: piezas de automóviles
 ---

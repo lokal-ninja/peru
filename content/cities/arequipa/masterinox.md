@@ -1,5 +1,5 @@
 ---
 title: "MasterInox"
 url: /arequipa/masterinox/
-shop: Allgemein
+shop: general
 ---

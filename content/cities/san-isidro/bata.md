@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /san-isidro/bata/
-shop: Schuhe
+shop: zapatos
 ---

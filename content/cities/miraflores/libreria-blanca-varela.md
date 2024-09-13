@@ -1,5 +1,5 @@
 ---
 title: "Librería Blanca Varela"
 url: /miraflores/libreria-blanca-varela/
-shop: Bücher
+shop: libros
 ---

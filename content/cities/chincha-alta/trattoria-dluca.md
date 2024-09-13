@@ -1,5 +1,5 @@
 ---
 title: "Trattoria D'Luca"
 url: /chincha-alta/trattoria-dluca/
-shop: Lebensmittel
+shop: comodidad
 ---

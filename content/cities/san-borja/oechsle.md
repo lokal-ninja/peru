@@ -1,5 +1,5 @@
 ---
 title: "Oechsle"
 url: /san-borja/oechsle/
-shop: Warenhaus
+shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Disum"
 url: /ayacucho/disum/
-shop: Allgemein
+shop: general
 ---

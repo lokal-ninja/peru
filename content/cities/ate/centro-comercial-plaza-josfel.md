@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Plaza Josfel"
 url: /ate/centro-comercial-plaza-josfel/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

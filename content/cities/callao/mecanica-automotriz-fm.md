@@ -1,5 +1,5 @@
 ---
 title: "Mecánica Automotriz FM"
 url: /callao/mecanica-automotriz-fm/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

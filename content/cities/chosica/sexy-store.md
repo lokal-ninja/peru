@@ -1,5 +1,5 @@
 ---
 title: "Sexy Store"
 url: /chosica/sexy-store/
-shop: Allgemein
+shop: general
 ---

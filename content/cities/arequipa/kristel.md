@@ -1,5 +1,5 @@
 ---
 title: "Kristel"
 url: /arequipa/kristel/
-shop: Basteln
+shop: artesanía
 ---

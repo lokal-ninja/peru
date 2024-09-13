@@ -1,5 +1,5 @@
 ---
 title: "Representaciones Apholy"
 url: /huarmey/representaciones-apholy/
-shop: Allgemein
+shop: general
 ---

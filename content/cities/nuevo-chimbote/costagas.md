@@ -1,5 +1,5 @@
 ---
 title: "Costagas"
 url: /nuevo-chimbote/costagas/
-shop: Gasflaschen
+shop: gas
 ---

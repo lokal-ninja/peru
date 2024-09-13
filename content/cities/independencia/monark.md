@@ -1,5 +1,5 @@
 ---
 title: "monark"
 url: /independencia/monark/
-shop: Sport
+shop: deportes
 ---

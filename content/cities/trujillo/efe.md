@@ -1,5 +1,5 @@
 ---
 title: "EFE"
 url: /trujillo/efe/
-shop: Warenhaus
+shop: grandes almacenes
 ---

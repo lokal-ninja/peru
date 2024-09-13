@@ -1,5 +1,5 @@
 ---
 title: "Toyota MW Automotriz"
 url: /ica/toyota-mw-automotriz/
-shop: Autohaus
+shop: coche
 ---

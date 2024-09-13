@@ -1,5 +1,5 @@
 ---
 title: "Aguas Marinas"
 url: /barrios-altos/aguas-marinas/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

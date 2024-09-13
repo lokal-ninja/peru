@@ -1,5 +1,5 @@
 ---
 title: "Dormiflex"
 url: /chiclayo/dormiflex/
-shop: Betten
+shop: cama
 ---

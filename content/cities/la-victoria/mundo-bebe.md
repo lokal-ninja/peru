@@ -1,5 +1,5 @@
 ---
 title: "Mundo Bebe"
 url: /la-victoria/mundo-bebe/
-shop: Babysachen
+shop: artículos para bebés
 ---

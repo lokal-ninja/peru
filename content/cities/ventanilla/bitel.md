@@ -1,5 +1,5 @@
 ---
 title: "Bitel"
 url: /ventanilla/bitel/
-shop: Handy
+shop: teléfono móvil
 ---

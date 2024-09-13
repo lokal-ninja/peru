@@ -1,5 +1,5 @@
 ---
 title: "Exolive"
 url: /ayacucho/exolive/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

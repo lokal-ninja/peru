@@ -1,5 +1,5 @@
 ---
 title: "Grantour peru"
 url: /miraflores/grantour-peru/
-shop: Reisebüro
+shop: agencia de viajes
 ---

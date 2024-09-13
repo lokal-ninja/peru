@@ -1,5 +1,5 @@
 ---
 title: "Tambo+"
 url: /lima/tambo/
-shop: Lebensmittel
+shop: comodidad
 ---

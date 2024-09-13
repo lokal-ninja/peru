@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /miraflores/bata/
-shop: Schuhe
+shop: zapatos
 ---

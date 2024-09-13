@@ -1,5 +1,5 @@
 ---
 title: "Bodega Lima"
 url: /villa-el-salvador/bodega-lima/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sodimac"
 url: /cercado-de-lima/sodimac/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

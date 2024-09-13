@@ -1,5 +1,5 @@
 ---
 title: "Boomerang"
 url: /lima/boomerang/
-shop: Autoteile
+shop: piezas de automóviles
 ---

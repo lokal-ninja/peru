@@ -1,5 +1,5 @@
 ---
 title: "Manguiniples Ind."
 url: /callao/manguiniples-ind/
-shop: Autoteile
+shop: piezas de automóviles
 ---

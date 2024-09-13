@@ -1,5 +1,5 @@
 ---
 title: "Chingolito"
 url: /arequipa/chingolito/
-shop: Babysachen
+shop: artículos para bebés
 ---

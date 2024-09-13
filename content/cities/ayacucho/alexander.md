@@ -1,5 +1,5 @@
 ---
 title: "Alexander"
 url: /ayacucho/alexander/
-shop: Autoteile
+shop: piezas de automóviles
 ---

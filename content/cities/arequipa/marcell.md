@@ -1,5 +1,5 @@
 ---
 title: "Marcell"
 url: /arequipa/marcell/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

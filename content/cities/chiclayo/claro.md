@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /chiclayo/claro/
-shop: Handy
+shop: teléfono móvil
 ---

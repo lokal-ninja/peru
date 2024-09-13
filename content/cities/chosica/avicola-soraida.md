@@ -1,5 +1,5 @@
 ---
 title: "Avicola Soraida"
 url: /chosica/avicola-soraida/
-shop: Allgemein
+shop: general
 ---

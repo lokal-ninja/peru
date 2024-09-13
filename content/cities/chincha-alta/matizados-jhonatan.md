@@ -1,5 +1,5 @@
 ---
 title: "Matizados Jhonatan"
 url: /chincha-alta/matizados-jhonatan/
-shop: Allgemein
+shop: general
 ---

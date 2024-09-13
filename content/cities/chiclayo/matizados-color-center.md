@@ -1,5 +1,5 @@
 ---
 title: "Matizados Color Center"
 url: /chiclayo/matizados-color-center/
-shop: Farben
+shop: pintura
 ---

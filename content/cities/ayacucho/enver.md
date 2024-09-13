@@ -1,5 +1,5 @@
 ---
 title: "Enver"
 url: /ayacucho/enver/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

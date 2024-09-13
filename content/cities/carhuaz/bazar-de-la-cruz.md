@@ -1,5 +1,5 @@
 ---
 title: "Bazar De la Cruz"
 url: /carhuaz/bazar-de-la-cruz/
-shop: Textil
+shop: tela
 ---

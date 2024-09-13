@@ -1,5 +1,5 @@
 ---
 title: "WKR"
 url: /arequipa/wkr/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

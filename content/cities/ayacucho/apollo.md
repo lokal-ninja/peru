@@ -1,5 +1,5 @@
 ---
 title: "Apollo"
 url: /ayacucho/apollo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

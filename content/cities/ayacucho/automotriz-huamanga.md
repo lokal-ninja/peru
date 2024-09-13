@@ -1,5 +1,5 @@
 ---
 title: "Automotriz Huamanga"
 url: /ayacucho/automotriz-huamanga/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

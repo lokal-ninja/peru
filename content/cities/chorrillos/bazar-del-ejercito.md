@@ -1,5 +1,5 @@
 ---
 title: "Bazar del ejército"
 url: /chorrillos/bazar-del-ejercito/
-shop: Lebensmittel
+shop: comodidad
 ---

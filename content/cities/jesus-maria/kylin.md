@@ -1,5 +1,5 @@
 ---
 title: "Kylin"
 url: /jesus-maria/kylin/
-shop: Autohaus
+shop: coche
 ---

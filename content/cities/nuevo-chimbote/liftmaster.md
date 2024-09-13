@@ -1,5 +1,5 @@
 ---
 title: "LiftMaster"
 url: /nuevo-chimbote/liftmaster/
-shop: Allgemein
+shop: general
 ---

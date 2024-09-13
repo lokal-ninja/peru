@@ -1,5 +1,5 @@
 ---
 title: "Saga Falabella"
 url: /cercado-de-lima/saga-falabella/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

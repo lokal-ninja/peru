@@ -1,5 +1,5 @@
 ---
 title: "Fitness Y Accesorios"
 url: /huanuco/fitness-y-accesorios/
-shop: Sport
+shop: deportes
 ---

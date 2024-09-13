@@ -1,5 +1,5 @@
 ---
 title: "Manquiperu"
 url: /chorrillos/manquiperu/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Baterias"
 url: /trujillo/baterias/
-shop: Autoteile
+shop: piezas de automóviles
 ---

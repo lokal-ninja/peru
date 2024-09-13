@@ -1,5 +1,5 @@
 ---
 title: "Maldonado"
 url: /huaquillas/maldonado/
-shop: Lebensmittel
+shop: comodidad
 ---

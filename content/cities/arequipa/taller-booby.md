@@ -1,5 +1,5 @@
 ---
 title: "Taller Booby"
 url: /arequipa/taller-booby/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

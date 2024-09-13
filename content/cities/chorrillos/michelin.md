@@ -1,5 +1,5 @@
 ---
 title: "Michelin"
 url: /chorrillos/michelin/
-shop: Reifen
+shop: neumáticos
 ---

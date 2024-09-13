@@ -1,5 +1,5 @@
 ---
 title: "Lizz"
 url: /miraflores/lizz/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

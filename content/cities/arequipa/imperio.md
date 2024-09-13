@@ -1,5 +1,5 @@
 ---
 title: "Imperio"
 url: /arequipa/imperio/
-shop: Kosmetik
+shop: cosméticos
 ---

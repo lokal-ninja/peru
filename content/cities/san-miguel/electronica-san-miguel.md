@@ -1,5 +1,5 @@
 ---
 title: "Electronica San Miguel"
 url: /san-miguel/electronica-san-miguel/
-shop: Elektronik
+shop: electrónica
 ---

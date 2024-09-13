@@ -1,5 +1,5 @@
 ---
 title: "Lubricantes Barzola"
 url: /lima/lubricantes-barzola/
-shop: Autoteile
+shop: piezas de automóviles
 ---

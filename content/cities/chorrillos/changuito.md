@@ -1,5 +1,5 @@
 ---
 title: "Changuito"
 url: /chorrillos/changuito/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

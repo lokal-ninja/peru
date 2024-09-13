@@ -1,5 +1,5 @@
 ---
 title: "Brilaz"
 url: /jesus-maria/brilaz/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Libreria Bazar"
 url: /trujillo/libreria-bazar-san-luis/
-shop: Allgemein
+shop: general
 ---

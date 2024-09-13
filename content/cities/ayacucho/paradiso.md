@@ -1,5 +1,5 @@
 ---
 title: "Paradiso"
 url: /ayacucho/paradiso/
-shop: Betten
+shop: cama
 ---

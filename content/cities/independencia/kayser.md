@@ -1,5 +1,5 @@
 ---
 title: "Kayser"
 url: /independencia/kayser/
-shop: Kleidung
+shop: ropa
 ---

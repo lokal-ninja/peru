@@ -1,5 +1,5 @@
 ---
 title: "Sumar Motors"
 url: /ayacucho/sumar-motors/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Perutambo Bio Market"
 url: /huaraz/perutambo-bio-market/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lamba"
 url: /cercado-de-lima/lamba/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

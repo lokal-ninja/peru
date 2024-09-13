@@ -1,5 +1,5 @@
 ---
 title: "Real Plaza Arequipa"
 url: /cayma/real-plaza-arequipa/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

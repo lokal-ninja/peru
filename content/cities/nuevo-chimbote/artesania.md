@@ -1,5 +1,5 @@
 ---
 title: "Artesania"
 url: /nuevo-chimbote/artesania/
-shop: Allgemein
+shop: general
 ---

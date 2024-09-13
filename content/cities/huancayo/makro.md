@@ -1,5 +1,5 @@
 ---
 title: "Makro"
 url: /huancayo/makro/
-shop: Großhandel
+shop: mayorista
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Molinorte"
 url: /trujillo/molinorte/
-shop: Allgemein
+shop: general
 ---

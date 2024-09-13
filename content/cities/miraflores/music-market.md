@@ -1,5 +1,5 @@
 ---
 title: "Music Market"
 url: /miraflores/music-market/
-shop: Instrumente
+shop: instrumento musical
 ---

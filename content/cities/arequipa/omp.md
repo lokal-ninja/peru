@@ -1,5 +1,5 @@
 ---
 title: "OMP"
 url: /arequipa/omp/
-shop: Allgemein
+shop: general
 ---

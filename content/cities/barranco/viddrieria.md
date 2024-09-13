@@ -1,5 +1,5 @@
 ---
 title: "Viddrieria"
 url: /barranco/viddrieria/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Plaza Vea Hiper"
 url: /satelite/plaza-vea-hiper/
-shop: Supermarkt
+shop: supermercado
 ---

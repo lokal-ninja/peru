@@ -1,5 +1,5 @@
 ---
 title: "Motocorp"
 url: /chincha-alta/motocorp/
-shop: Autoteile
+shop: piezas de automóviles
 ---

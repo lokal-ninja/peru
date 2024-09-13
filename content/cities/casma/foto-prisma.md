@@ -1,5 +1,5 @@
 ---
 title: "Foto Prisma"
 url: /casma/foto-prisma/
-shop: Foto
+shop: foto
 ---

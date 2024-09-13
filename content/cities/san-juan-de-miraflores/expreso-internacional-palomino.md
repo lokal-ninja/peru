@@ -1,5 +1,5 @@
 ---
 title: "Expreso Internacional Palomino"
 url: /san-juan-de-miraflores/expreso-internacional-palomino/
-shop: Reisebüro
+shop: agencia de viajes
 ---

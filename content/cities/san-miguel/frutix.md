@@ -1,5 +1,5 @@
 ---
 title: "Frutix"
 url: /san-miguel/frutix/
-shop: Getränke
+shop: bebidas
 ---

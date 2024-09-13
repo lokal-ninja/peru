@@ -1,5 +1,5 @@
 ---
 title: "Taller Mecánico"
 url: /ayacucho/taller-mecanico/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AliStore"
 url: /san-martin-de-porres/alistore/
-shop: Warenhaus
+shop: grandes almacenes
 ---

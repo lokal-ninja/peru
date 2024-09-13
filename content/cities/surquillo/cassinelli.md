@@ -1,5 +1,5 @@
 ---
 title: "Cassinelli"
 url: /surquillo/cassinelli/
-shop: Allgemein
+shop: general
 ---

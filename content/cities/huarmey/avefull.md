@@ -1,5 +1,5 @@
 ---
 title: "Avefull"
 url: /huarmey/avefull/
-shop: Lebensmittel
+shop: comodidad
 ---

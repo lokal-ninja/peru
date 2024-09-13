@@ -1,5 +1,5 @@
 ---
 title: "DOÑITA"
 url: /tacna/donita/
-shop: Dorfladen
+shop: tienda rural
 ---

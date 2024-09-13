@@ -1,5 +1,5 @@
 ---
 title: "Chiquez"
 url: /trujillo/chiquez/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

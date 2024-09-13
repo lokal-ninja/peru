@@ -1,5 +1,5 @@
 ---
 title: "Tottus"
 url: /surquillo/tottus/
-shop: Supermarkt
+shop: supermercado
 ---

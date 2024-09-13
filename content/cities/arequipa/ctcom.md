@@ -1,5 +1,5 @@
 ---
 title: "CTCOM"
 url: /arequipa/ctcom/
-shop: Elektronik
+shop: electrónica
 ---

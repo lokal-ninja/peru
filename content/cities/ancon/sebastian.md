@@ -1,5 +1,5 @@
 ---
 title: "Sebastian"
 url: /ancon/sebastian/
-shop: Lebensmittel
+shop: comodidad
 ---

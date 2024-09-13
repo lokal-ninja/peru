@@ -1,5 +1,5 @@
 ---
 title: "Multiservicios"
 url: /cotahuasi/multiservicios/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

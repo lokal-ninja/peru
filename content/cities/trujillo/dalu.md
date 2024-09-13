@@ -1,5 +1,5 @@
 ---
 title: "Dalu"
 url: /trujillo/dalu/
-shop: Konditorei
+shop: pastelería
 ---

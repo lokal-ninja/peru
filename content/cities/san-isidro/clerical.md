@@ -1,5 +1,5 @@
 ---
 title: "Clerical"
 url: /san-isidro/clerical/
-shop: Allgemein
+shop: general
 ---

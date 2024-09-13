@@ -1,5 +1,5 @@
 ---
 title: "Bodega Consuelo"
 url: /lurin/bodega-consuelo/
-shop: Lebensmittel
+shop: comodidad
 ---

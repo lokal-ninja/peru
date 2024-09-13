@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /wanchaq/claro/
-shop: Handy
+shop: teléfono móvil
 ---

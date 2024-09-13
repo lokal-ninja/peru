@@ -1,5 +1,5 @@
 ---
 title: "Perú Desert"
 url: /nasca/peru-desert/
-shop: Reisebüro
+shop: agencia de viajes
 ---

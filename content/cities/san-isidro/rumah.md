@@ -1,5 +1,5 @@
 ---
 title: "RuMah"
 url: /san-isidro/rumah/
-shop: Allgemein
+shop: general
 ---

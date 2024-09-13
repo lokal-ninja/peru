@@ -1,5 +1,5 @@
 ---
 title: "Kia Motors"
 url: /nuevo-chimbote/kia-motors/
-shop: Autohaus
+shop: coche
 ---

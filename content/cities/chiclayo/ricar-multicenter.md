@@ -1,5 +1,5 @@
 ---
 title: "Ricar Multicenter"
 url: /chiclayo/ricar-multicenter/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

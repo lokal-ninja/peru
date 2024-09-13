@@ -1,5 +1,5 @@
 ---
 title: "Peru Hop"
 url: /miraflores/peru-hop/
-shop: Reisebüro
+shop: agencia de viajes
 ---

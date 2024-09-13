@@ -1,5 +1,5 @@
 ---
 title: "Rojas"
 url: /la-tinguina/rojas/
-shop: Lebensmittel
+shop: comodidad
 ---

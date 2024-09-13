@@ -1,5 +1,5 @@
 ---
 title: "Zaga Repuestos"
 url: /trujillo/zaga-repuestos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

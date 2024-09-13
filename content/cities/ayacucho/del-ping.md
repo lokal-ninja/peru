@@ -1,5 +1,5 @@
 ---
 title: "Del Ping"
 url: /ayacucho/del-ping/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Agromen Group"
 url: /chao/agromen-group/
-shop: Baustoffe
+shop: comercio
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /surquillo/bata/
-shop: Schuhe
+shop: zapatos
 ---

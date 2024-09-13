@@ -1,5 +1,5 @@
 ---
 title: "De Pasadita"
 url: /chiclayo/de-pasadita/
-shop: Allgemein
+shop: general
 ---

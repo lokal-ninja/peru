@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Breña"
 url: /brena/centro-comercial-brena/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

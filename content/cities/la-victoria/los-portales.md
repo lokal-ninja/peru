@@ -1,5 +1,5 @@
 ---
 title: "Los Portales"
 url: /la-victoria/los-portales/
-shop: Lebensmittel
+shop: comodidad
 ---

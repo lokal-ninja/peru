@@ -1,5 +1,5 @@
 ---
 title: "Transportes Huanca"
 url: /pampas/transportes-huanca/
-shop: Reisebüro
+shop: agencia de viajes
 ---

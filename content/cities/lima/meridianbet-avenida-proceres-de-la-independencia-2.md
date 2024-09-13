@@ -1,5 +1,5 @@
 ---
 title: "Meridianbet"
 url: /lima/meridianbet-avenida-proceres-de-la-independencia-2/
-shop: Wettbüro
+shop: corredor de apuestas
 ---

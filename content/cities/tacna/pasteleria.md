@@ -1,5 +1,5 @@
 ---
 title: "PASTELERIA"
 url: /tacna/pasteleria/
-shop: Konditorei
+shop: pastelería
 ---

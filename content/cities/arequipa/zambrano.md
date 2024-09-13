@@ -1,5 +1,5 @@
 ---
 title: "Zambrano"
 url: /arequipa/zambrano/
-shop: Optiker
+shop: óptico
 ---

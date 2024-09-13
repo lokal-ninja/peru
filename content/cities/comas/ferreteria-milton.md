@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Milton"
 url: /comas/ferreteria-milton/
-shop: Autoteile
+shop: piezas de automóviles
 ---

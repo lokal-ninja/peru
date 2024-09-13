@@ -1,5 +1,5 @@
 ---
 title: "Flor"
 url: /lince/flor/
-shop: Friseur
+shop: peluquería
 ---

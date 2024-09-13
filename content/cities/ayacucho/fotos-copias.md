@@ -1,5 +1,5 @@
 ---
 title: "Fotos Copias"
 url: /ayacucho/fotos-copias/
-shop: Kopieren
+shop: copyshop
 ---

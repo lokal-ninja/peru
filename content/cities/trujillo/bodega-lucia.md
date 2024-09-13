@@ -1,5 +1,5 @@
 ---
 title: "Bodega Lucia"
 url: /trujillo/bodega-lucia/
-shop: Lebensmittel
+shop: comodidad
 ---

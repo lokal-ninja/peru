@@ -1,5 +1,5 @@
 ---
 title: "Iparabrisas"
 url: /chiclayo/iparabrisas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

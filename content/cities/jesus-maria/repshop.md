@@ -1,5 +1,5 @@
 ---
 title: "Repshop"
 url: /jesus-maria/repshop/
-shop: Lebensmittel
+shop: comodidad
 ---

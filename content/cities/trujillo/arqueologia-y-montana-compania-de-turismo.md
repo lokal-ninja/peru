@@ -1,5 +1,5 @@
 ---
 title: "ARQUEOLOGÍA Y MONTAÑA - COMPAÑÍA DE TURISMO"
 url: /trujillo/arqueologia-y-montana-compania-de-turismo/
-shop: Reisebüro
+shop: agencia de viajes
 ---

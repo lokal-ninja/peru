@@ -1,5 +1,5 @@
 ---
 title: "DecoArt"
 url: /lima/decoart/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

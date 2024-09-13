@@ -1,5 +1,5 @@
 ---
 title: "Galería de Ferreteros"
 url: /cercado-de-lima/galeria-de-ferreteros/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Casalinda"
 url: /ayacucho/casalinda/
-shop: Raumausstattung
+shop: decoración interior
 ---

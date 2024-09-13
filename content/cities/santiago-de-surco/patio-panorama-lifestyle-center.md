@@ -1,5 +1,5 @@
 ---
 title: "Patio Panorama Lifestyle Center"
 url: /santiago-de-surco/patio-panorama-lifestyle-center/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

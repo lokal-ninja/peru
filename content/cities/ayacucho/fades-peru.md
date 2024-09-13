@@ -1,5 +1,5 @@
 ---
 title: "Fades Peru"
 url: /ayacucho/fades-peru/
-shop: Allgemein
+shop: general
 ---

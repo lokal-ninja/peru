@@ -1,5 +1,5 @@
 ---
 title: "Somos Fabricantes"
 url: /el-retablo/somos-fabricantes/
-shop: Möbel
+shop: muebles
 ---

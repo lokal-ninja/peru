@@ -1,5 +1,5 @@
 ---
 title: "Kaypi Artesanias"
 url: /lima/kaypi-artesanias/
-shop: Andenken
+shop: regalo
 ---

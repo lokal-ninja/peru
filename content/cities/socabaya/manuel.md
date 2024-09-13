@@ -1,5 +1,5 @@
 ---
 title: "Manuel"
 url: /socabaya/manuel/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

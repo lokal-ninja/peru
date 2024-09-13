@@ -1,5 +1,5 @@
 ---
 title: "Matizados Juan"
 url: /chincha-alta/matizados-juan/
-shop: Farben
+shop: pintura
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vargas"
 url: /pucallpa/vargas/
-shop: Eisenwaren
+shop: hardware
 ---

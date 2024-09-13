@@ -1,5 +1,5 @@
 ---
 title: "Binker"
 url: /ayacucho/binker/
-shop: Allgemein
+shop: general
 ---

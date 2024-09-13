@@ -1,5 +1,5 @@
 ---
 title: "Armonia"
 url: /ayacucho/armonia/
-shop: Allgemein
+shop: general
 ---

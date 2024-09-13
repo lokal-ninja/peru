@@ -1,5 +1,5 @@
 ---
 title: "Comercial Cami"
 url: /cercado-de-lima/comercial-cami/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Servicio Tecnico Samir"
 url: /lima/servicio-tecnico-samir/
-shop: Elektronik
+shop: electrónica
 ---

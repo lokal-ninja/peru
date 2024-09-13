@@ -1,5 +1,5 @@
 ---
 title: "Kosto"
 url: /arequipa/kosto/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

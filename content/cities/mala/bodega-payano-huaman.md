@@ -1,5 +1,5 @@
 ---
 title: "Bodega Payano Huaman"
 url: /mala/bodega-payano-huaman/
-shop: Lebensmittel
+shop: comodidad
 ---
