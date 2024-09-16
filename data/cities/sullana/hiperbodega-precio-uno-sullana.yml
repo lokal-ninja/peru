@@ -1,11 +1,11 @@
 id: 715832947
-type: way
+type: node
 latitude: -4.89759
 longitude: -80.68088
 postcode: ""
 city: Sullana
-street: "Calle Jorge Chavez"
-housenumber: 131
+street: Calle Jorge Chavez
+housenumber: "131"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.hiperbodegapreciouno.com.pe/"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.hiperbodegapreciouno.com.pe/

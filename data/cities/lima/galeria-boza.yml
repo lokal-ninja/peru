@@ -1,11 +1,11 @@
 id: 406633070
-type: way
+type: node
 latitude: -12.05042
 longitude: -77.03435
 postcode: "01"
 city: Lima
-street: "Jirón de la Unión"
-housenumber: 853
+street: Jirón de la Unión
+housenumber: "853"
 phone: ""
 opening_hours: ""
 website: ""

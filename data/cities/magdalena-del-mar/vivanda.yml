@@ -1,11 +1,11 @@
 id: 436313864
-type: way
+type: node
 latitude: -12.09295
 longitude: -77.05794
 postcode: "15076"
 city: Magdalena del Mar
-street: "Avenida Javier Prado Oeste"
-housenumber: 999
+street: Avenida Javier Prado Oeste
+housenumber: "999"
 phone: ""
 opening_hours: ""
 website: ""

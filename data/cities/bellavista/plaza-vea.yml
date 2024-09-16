@@ -1,11 +1,11 @@
 id: 298244352
-type: way
+type: node
 latitude: -12.0595
 longitude: -77.13109
 postcode: "07001"
 city: Bellavista
-street: "Avenida Saenz Peña"
-housenumber: 1330
+street: Avenida Saenz Peña
+housenumber: "1330"
 phone: ""
 opening_hours: ""
 website: ""

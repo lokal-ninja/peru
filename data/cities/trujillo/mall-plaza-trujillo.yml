@@ -1,11 +1,11 @@
 id: 103019624
-type: way
+type: node
 latitude: -8.10611
 longitude: -79.04751
 postcode: ""
 city: Trujillo
-street: "America Oeste"
-housenumber: 
+street: America Oeste
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 10:00-22:00"
-website: "https://www.mallplaza.com.pe/trujillo"
+opening_hours: Mo-Su 10:00-22:00
+website: https://www.mallplaza.com.pe/trujillo

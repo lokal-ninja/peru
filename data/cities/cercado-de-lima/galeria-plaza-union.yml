@@ -1,11 +1,11 @@
 id: 435713426
-type: way
+type: node
 latitude: -12.04393
 longitude: -77.04264
 postcode: "15001"
 city: Cercado de Lima
-street: "Plaza Ramon Castilla"
-housenumber: 87
+street: Plaza Ramon Castilla
+housenumber: "87"
 phone: ""
 opening_hours: ""
 website: ""

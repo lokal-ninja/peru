@@ -1,11 +1,11 @@
 id: 285838754
-type: way
+type: node
 latitude: -16.39014
 longitude: -71.54685
 postcode: ""
 city: Cayma
-street: "Ejercito"
-housenumber: 
+street: Ejercito
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 9:00-22:00"
-website: "https://www.mallplaza.com.pe/arequipa"
+opening_hours: Mo-Su 9:00-22:00
+website: https://www.mallplaza.com.pe/arequipa

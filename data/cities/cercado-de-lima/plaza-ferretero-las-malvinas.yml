@@ -1,11 +1,11 @@
 id: 441016538
-type: way
+type: node
 latitude: -12.04526
 longitude: -77.04471
 postcode: ""
 city: Cercado de Lima
-street: "Avenida Guillermo Dansey"
-housenumber: 401
+street: Avenida Guillermo Dansey
+housenumber: "401"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su 07:00-13:00"
-website: "http://www.plazaferretero.com.pe/"
+opening_hours: Mo-Sa 07:00-20:00; Su 07:00-13:00
+website: http://www.plazaferretero.com.pe/

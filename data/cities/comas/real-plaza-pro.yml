@@ -1,11 +1,11 @@
 id: 285826118
-type: way
+type: node
 latitude: -11.93947
 longitude: -77.07034
-postcode: "Lima 31"
+postcode: Lima 31
 city: Comas
-street: "Alfredo Mendiola"
-housenumber: 7042
+street: Alfredo Mendiola
+housenumber: "7042"
 phone: ""
-opening_hours: "Mo-Su 10:00-22:00"
-website: "http://www.realplaza.pe"
+opening_hours: Mo-Su 10:00-22:00
+website: http://www.realplaza.pe

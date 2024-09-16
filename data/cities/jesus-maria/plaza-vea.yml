@@ -1,11 +1,11 @@
 id: 413030059
-type: way
+type: node
 latitude: -12.07514
 longitude: -77.05353
 postcode: ""
 city: Jesús María
-street: "Avenida Brasil"
-housenumber: 1599
+street: Avenida Brasil
+housenumber: "1599"
 phone: ""
 opening_hours: ""
-website: "http://vea.plazavea.com.pe"
+website: http://vea.plazavea.com.pe

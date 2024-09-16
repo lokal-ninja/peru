@@ -1,11 +1,11 @@
 id: 844872890
-type: way
+type: node
 latitude: -16.08998
 longitude: -69.64378
 postcode: ""
 city: Ilave
-street: "Jirón Miguel Grau"
-housenumber: 150
+street: Jirón Miguel Grau
+housenumber: "150"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

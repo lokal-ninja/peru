@@ -1,11 +1,11 @@
 id: 289666138
-type: way
+type: node
 latitude: -12.09043
 longitude: -77.00514
 postcode: ""
 city: San Borja
-street: "Javier Prado Este"
-housenumber: 2050
+street: Javier Prado Este
+housenumber: "2050"
 phone: ""
-opening_hours: "Mo-Su 10:00-22:00"
-website: "http://larambla.pe/"
+opening_hours: Mo-Su 10:00-22:00
+website: http://larambla.pe/

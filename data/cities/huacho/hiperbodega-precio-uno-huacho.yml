@@ -1,11 +1,11 @@
 id: 715833423
-type: way
+type: node
 latitude: -11.10663
 longitude: -77.59529
 postcode: ""
 city: Huacho
-street: "Antigua Panamericana Norte"
-housenumber: 1320
+street: Antigua Panamericana Norte
+housenumber: "1320"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.hiperbodegapreciouno.com.pe/"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.hiperbodegapreciouno.com.pe/

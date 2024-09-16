@@ -1,11 +1,11 @@
 id: 1192716593
-type: way
+type: node
 latitude: -8.11261
 longitude: -79.01853
 postcode: "13006"
 city: Trujillo
-street: "Calle Albarracin"
-housenumber: 245
+street: Calle Albarracin
+housenumber: "245"
 phone: "+51964785224"
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "https://fremarsac.com/tienda"
+opening_hours: Mo-Sa 08:00-19:00
+website: https://fremarsac.com/tienda

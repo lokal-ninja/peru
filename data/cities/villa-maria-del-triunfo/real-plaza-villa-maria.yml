@@ -1,11 +1,11 @@
 id: 403498188
-type: way
+type: node
 latitude: -12.18034
 longitude: -76.94303
 postcode: ""
 city: Villa María del Triunfo
-street: "Avenida Pachacutec"
-housenumber: 
-phone: "+511 6118200"
-opening_hours: "Mo-Su 10:00-22:00"
-website: "https://realplaza.pe/villa-maria/"
+street: Avenida Pachacutec
+housenumber: ""
+phone: +511 6118200
+opening_hours: Mo-Su 10:00-22:00
+website: https://realplaza.pe/villa-maria/

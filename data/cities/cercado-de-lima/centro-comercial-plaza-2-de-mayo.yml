@@ -1,11 +1,11 @@
 id: 621788637
-type: way
+type: node
 latitude: -12.04547
 longitude: -77.04197
 postcode: ""
 city: Cercado de Lima
-street: "Pasaje Coronel Enrique Montes"
-housenumber: 104
+street: Pasaje Coronel Enrique Montes
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

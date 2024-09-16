@@ -1,11 +1,11 @@
 id: 412300809
-type: way
+type: node
 latitude: -12.05802
 longitude: -77.03081
 postcode: ""
 city: Cercado de Lima
-street: "Jirón Montevideo"
-housenumber: 590
+street: Jirón Montevideo
+housenumber: "590"
 phone: ""
 opening_hours: ""
 website: ""

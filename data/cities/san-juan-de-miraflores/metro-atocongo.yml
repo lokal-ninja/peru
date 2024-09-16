@@ -1,11 +1,11 @@
 id: 437316547
-type: way
+type: node
 latitude: -12.14964
 longitude: -76.98091
 postcode: ""
 city: San Juan de Miraflores
-street: "Avenida Los Héroes"
-housenumber: 100
+street: Avenida Los Héroes
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Su 08:30-22:30"
-website: "https://www.metro.pe/"
+opening_hours: Mo-Su 08:30-22:30
+website: https://www.metro.pe/

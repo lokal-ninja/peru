@@ -1,11 +1,11 @@
 id: 439100118
-type: way
+type: node
 latitude: -12.10713
 longitude: -76.97426
 postcode: "15023"
 city: Santiago de Surco
-street: "Avenida El Polo"
-housenumber: 271
-phone: "+51 1 2992743"
+street: Avenida El Polo
+housenumber: "271"
+phone: +51 1 2992743
 opening_hours: ""
 website: ""

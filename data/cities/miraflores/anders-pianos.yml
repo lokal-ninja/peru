@@ -1,11 +1,11 @@
 id: 436795244
-type: way
+type: node
 latitude: -12.12173
 longitude: -77.0184
 postcode: "15047"
 city: Miraflores
-street: "Avenida Roosevelt"
-housenumber: 5824
+street: Avenida Roosevelt
+housenumber: "5824"
 phone: ""
 opening_hours: ""
 website: ""

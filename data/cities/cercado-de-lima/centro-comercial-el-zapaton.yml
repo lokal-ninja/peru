@@ -1,11 +1,11 @@
 id: 442240099
-type: way
+type: node
 latitude: -12.05674
 longitude: -77.02863
 postcode: ""
 city: Cercado de Lima
-street: "Jirón Ayacucho"
-housenumber: 1069
+street: Jirón Ayacucho
+housenumber: "1069"
 phone: ""
 opening_hours: ""
-website: "http://elzapaton.com/"
+website: http://elzapaton.com/

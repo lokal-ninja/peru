@@ -1,11 +1,11 @@
 id: 181368868
-type: way
+type: node
 latitude: -12.00576
 longitude: -77.07202
 postcode: ""
 city: San Martín de Porres
-street: "Avenida Angélica Gamarra"
-housenumber: 850
+street: Avenida Angélica Gamarra
+housenumber: "850"
 phone: ""
-opening_hours: "Mo-Su 5:00-22:00"
+opening_hours: Mo-Su 5:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 436751982
-type: way
+type: node
 latitude: -12.1506
 longitude: -77.01997
 postcode: ""
 city: Barranco
-street: "Avenida Francisco Bolognesi"
-housenumber: 156
+street: Avenida Francisco Bolognesi
+housenumber: "156"
 phone: ""
 opening_hours: ""
 website: ""

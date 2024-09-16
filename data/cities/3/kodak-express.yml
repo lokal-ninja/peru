@@ -1,11 +1,11 @@
 id: 438024384
-type: way
+type: node
 latitude: -12.00669
 longitude: -77.00706
 postcode: ""
-city: 3
-street: "Avenida Jardines Oeste"
-housenumber: 
+city: "3"
+street: Avenida Jardines Oeste
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

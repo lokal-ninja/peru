@@ -1,11 +1,11 @@
 id: 408467429
-type: way
+type: node
 latitude: -12.08903
 longitude: -77.02038
 postcode: ""
 city: La Victoria
-street: "Calle Carlos Villarán"
-housenumber: 500
+street: Calle Carlos Villarán
+housenumber: "500"
 phone: ""
-opening_hours: "Mo-Su 06:00-21:00"
+opening_hours: Mo-Su 06:00-21:00
 website: ""

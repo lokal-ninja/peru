@@ -1,11 +1,11 @@
 id: 435853902
-type: way
+type: node
 latitude: -12.06222
 longitude: -77.04037
 postcode: ""
 city: Cercado de Lima
-street: "Avenida Guzman Blanco"
-housenumber: 290
+street: Avenida Guzman Blanco
+housenumber: "290"
 phone: ""
 opening_hours: ""
 website: ""

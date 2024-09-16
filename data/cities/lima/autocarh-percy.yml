@@ -1,11 +1,11 @@
 id: 754721994
-type: way
+type: node
 latitude: -12.04084
 longitude: -76.93497
 postcode: "15498"
 city: Lima
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00"
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

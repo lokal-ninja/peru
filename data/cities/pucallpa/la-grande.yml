@@ -1,11 +1,11 @@
 id: 931601357
-type: way
+type: node
 latitude: -8.3827
 longitude: -74.55579
 postcode: "25004"
 city: Pucallpa
-street: "Alfredo Eglinton"
-housenumber: 370
-phone: "+51 991 188 339"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.tiendaslagrande.com/"
+street: Alfredo Eglinton
+housenumber: "370"
+phone: +51 991 188 339
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.tiendaslagrande.com/

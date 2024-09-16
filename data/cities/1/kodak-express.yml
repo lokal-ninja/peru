@@ -3,9 +3,9 @@ type: node
 latitude: -12.01285
 longitude: -77.00852
 postcode: ""
-city: 1
-street: "Los Tusilagos Oeste"
-housenumber: 
+city: "1"
+street: Los Tusilagos Oeste
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

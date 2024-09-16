@@ -1,11 +1,11 @@
 id: 401472083
-type: way
+type: node
 latitude: -12.08032
 longitude: -76.98625
 postcode: "15022"
 city: Ate
-street: "Avenida Circunvalación"
-housenumber: 2769
+street: Avenida Circunvalación
+housenumber: "2769"
 phone: ""
 opening_hours: ""
 website: ""

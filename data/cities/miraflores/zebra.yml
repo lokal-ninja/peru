@@ -1,11 +1,11 @@
 id: 538106049
-type: way
+type: node
 latitude: -16.39762
 longitude: -71.51861
 postcode: ""
 city: Miraflores
-street: "Avenida Unión"
-housenumber: 721
+street: Avenida Unión
+housenumber: "721"
 phone: ""
 opening_hours: ""
 website: ""

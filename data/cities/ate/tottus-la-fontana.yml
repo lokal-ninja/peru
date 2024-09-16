@@ -1,11 +1,11 @@
 id: 357299857
-type: way
+type: node
 latitude: -12.07216
 longitude: -76.95122
 postcode: ""
 city: Ate
-street: "Avenida La Fontana"
-housenumber: 780
+street: Avenida La Fontana
+housenumber: "780"
 phone: ""
 opening_hours: ""
-website: "http://tottus.pe"
+website: http://tottus.pe

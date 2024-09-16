@@ -1,11 +1,11 @@
 id: 862072533
-type: way
+type: node
 latitude: -13.52045
 longitude: -71.9802
 postcode: ""
 city: Cusco
-street: "Calle Nueva Cruz Verde"
-housenumber: 129
+street: Calle Nueva Cruz Verde
+housenumber: "129"
 phone: ""
 opening_hours: ""
 website: ""

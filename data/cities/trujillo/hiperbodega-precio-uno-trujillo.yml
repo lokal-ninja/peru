@@ -1,11 +1,11 @@
 id: 715826252
-type: way
+type: node
 latitude: -8.08613
 longitude: -79.04377
 postcode: ""
 city: Trujillo
-street: "Avenida Nicolás de Piérola"
-housenumber: 1971
+street: Avenida Nicolás de Piérola
+housenumber: "1971"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.hiperbodegapreciouno.com.pe/"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.hiperbodegapreciouno.com.pe/

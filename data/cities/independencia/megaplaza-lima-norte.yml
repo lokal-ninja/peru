@@ -1,11 +1,11 @@
 id: 68674783
-type: way
+type: node
 latitude: -11.99319
 longitude: -77.06332
 postcode: ""
 city: Independencia
-street: "Alfredo Mendiola"
-housenumber: 3698
+street: Alfredo Mendiola
+housenumber: "3698"
 phone: ""
-opening_hours: "Mo-Su 10:00-22:00"
-website: "https://www.megaplaza.com.pe"
+opening_hours: Mo-Su 10:00-22:00
+website: https://www.megaplaza.com.pe

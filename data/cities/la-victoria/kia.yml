@@ -1,11 +1,11 @@
 id: 405563543
-type: way
+type: node
 latitude: -12.08968
 longitude: -77.01857
 postcode: "15034"
 city: La Victoria
-street: "Nicolas Arriola"
-housenumber: 131
+street: Nicolas Arriola
+housenumber: "131"
 phone: ""
 opening_hours: ""
 website: ""

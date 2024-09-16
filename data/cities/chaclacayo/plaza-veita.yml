@@ -1,11 +1,11 @@
 id: 562058024
-type: way
+type: node
 latitude: -11.98545
 longitude: -76.81072
 postcode: "08"
 city: Chaclacayo
-street: "Pasaje h"
-housenumber: 
+street: Pasaje h
+housenumber: ""
 phone: ""
-opening_hours: "08:00-20:00"
+opening_hours: 08:00-20:00
 website: ""

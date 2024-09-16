@@ -1,11 +1,11 @@
 id: 436425866
-type: way
+type: node
 latitude: -12.12021
 longitude: -77.02672
 postcode: "15074"
 city: Miraflores
-street: "Avenida La Paz"
-housenumber: 267
+street: Avenida La Paz
+housenumber: "267"
 phone: ""
 opening_hours: ""
 website: ""

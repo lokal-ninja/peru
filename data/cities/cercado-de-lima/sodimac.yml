@@ -1,11 +1,11 @@
 id: 201786029
-type: way
+type: node
 latitude: -12.04826
 longitude: -77.03903
-postcode: "Lima 15001"
+postcode: Lima 15001
 city: Cercado de Lima
-street: "Avenida Tacna"
-housenumber: 
+street: Avenida Tacna
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

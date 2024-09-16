@@ -1,11 +1,11 @@
 id: 289487250
-type: way
+type: node
 latitude: -12.08653
 longitude: -77.03513
 postcode: ""
 city: Lince
-street: "Avenida Arequipa"
-housenumber: 2250
+street: Avenida Arequipa
+housenumber: "2250"
 phone: ""
 opening_hours: ""
 website: ""

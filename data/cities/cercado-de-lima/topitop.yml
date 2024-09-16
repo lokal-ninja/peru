@@ -1,11 +1,11 @@
 id: 406633087
-type: way
+type: node
 latitude: -12.04955
 longitude: -77.03314
 postcode: "15001"
 city: Cercado de Lima
-street: "Jirón de la Unión"
-housenumber: 130
+street: Jirón de la Unión
+housenumber: "130"
 phone: ""
 opening_hours: ""
 website: ""

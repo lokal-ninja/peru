@@ -1,11 +1,11 @@
 id: 438893134
-type: way
+type: node
 latitude: -11.99937
 longitude: -77.00007
 postcode: ""
-city: 3
-street: "Avenida Santa Rosa de Lima"
-housenumber: 
+city: "3"
+street: Avenida Santa Rosa de Lima
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

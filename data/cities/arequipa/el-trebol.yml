@@ -1,11 +1,11 @@
 id: 534262062
-type: way
+type: node
 latitude: -16.40398
 longitude: -71.53176
 postcode: ""
 city: Arequipa
-street: "Jorge Chávez"
-housenumber: 300
+street: Jorge Chávez
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 435345451
-type: way
+type: node
 latitude: -12.10317
 longitude: -77.03698
 postcode: ""
 city: San Isidro
-street: "Avenida Los Conquistadores"
-housenumber: 710
+street: Avenida Los Conquistadores
+housenumber: "710"
 phone: ""
 opening_hours: ""
 website: ""

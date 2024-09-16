@@ -1,11 +1,11 @@
 id: 436743302
-type: way
+type: node
 latitude: -12.08382
 longitude: -77.03265
 postcode: ""
 city: Lince
-street: "Avenida Ignacio Merino"
-housenumber: 1944
-phone: "+511 4710193"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.mayorsa.com.pe/"
+street: Avenida Ignacio Merino
+housenumber: "1944"
+phone: +511 4710193
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.mayorsa.com.pe/

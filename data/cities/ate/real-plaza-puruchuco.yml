@@ -1,11 +1,11 @@
 id: 436303337
-type: way
+type: node
 latitude: -12.0389
 longitude: -76.93197
 postcode: ""
 city: Ate
-street: "Avenida Nicolás de Ayllón"
-housenumber: 4770
+street: Avenida Nicolás de Ayllón
+housenumber: "4770"
 phone: ""
-opening_hours: "Mo-Su 10:00-22:00"
-website: "https://realplaza.pe/puruchuco/"
+opening_hours: Mo-Su 10:00-22:00
+website: https://realplaza.pe/puruchuco/

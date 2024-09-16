@@ -1,11 +1,11 @@
 id: 709298819
-type: way
+type: node
 latitude: -14.08181
 longitude: -75.72292
 postcode: ""
 city: Ica
-street: "Avenida Nicolás de Rivera el Viejo"
-housenumber: 1117
+street: Avenida Nicolás de Rivera el Viejo
+housenumber: "1117"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.makro.com.pe/"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.makro.com.pe/

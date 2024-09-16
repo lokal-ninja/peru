@@ -1,11 +1,11 @@
 id: 201624522
-type: way
+type: node
 latitude: -12.14782
 longitude: -76.98199
 postcode: ""
 city: Santiago de Surco
-street: "Avenida Panamericana Sur"
-housenumber: 
+street: Avenida Panamericana Sur
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 9:00-22:00"
-website: "https://openplaza.com.pe/opplapepr/tiendas/open-plaza-atocongo/intro.html"
+opening_hours: Mo-Su 9:00-22:00
+website: https://openplaza.com.pe/opplapepr/tiendas/open-plaza-atocongo/intro.html

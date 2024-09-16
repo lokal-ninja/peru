@@ -1,11 +1,11 @@
 id: 436795389
-type: way
+type: node
 latitude: -12.07458
 longitude: -77.0984
 postcode: ""
 city: San Miguel
-street: "Avenida La Marina"
-housenumber: 3240
-phone: "+51 1 6168600"
+street: Avenida La Marina
+housenumber: "3240"
+phone: +51 1 6168600
 opening_hours: ""
-website: "https://www.grupopana.com.pe/"
+website: https://www.grupopana.com.pe/

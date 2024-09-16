@@ -1,11 +1,11 @@
 id: 360078833
-type: way
+type: node
 latitude: -12.11917
 longitude: -76.97799
 postcode: "33"
 city: Surco
-street: "Morro Solar"
-housenumber: 812
-phone: "+51 1 6303025"
+street: Morro Solar
+housenumber: "812"
+phone: +51 1 6303025
 opening_hours: ""
 website: ""

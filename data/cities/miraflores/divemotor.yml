@@ -1,11 +1,11 @@
 id: 454738600
-type: way
+type: node
 latitude: -12.11974
 longitude: -77.03629
 postcode: "15074"
 city: Miraflores
-street: "Calle Berlín"
-housenumber: 664
-phone: "+511 7122000"
+street: Calle Berlín
+housenumber: "664"
+phone: +511 7122000
 opening_hours: ""
-website: "https://www.divemotor.com/"
+website: https://www.divemotor.com/

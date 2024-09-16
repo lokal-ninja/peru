@@ -1,11 +1,11 @@
 id: 814657541
-type: way
+type: node
 latitude: -5.18627
 longitude: -80.64408
 postcode: "20001"
 city: Piura
-street: "Avenida Sánchez Cerro"
-housenumber: 240
-phone: "+51 976974593"
-opening_hours: "Mo-Fr 07:30-15:30; Sa 08:30-13:00"
-website: "https://interamericananorte.com"
+street: Avenida Sánchez Cerro
+housenumber: "240"
+phone: +51 976974593
+opening_hours: Mo-Fr 07:30-15:30; Sa 08:30-13:00
+website: https://interamericananorte.com

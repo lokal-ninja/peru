@@ -1,11 +1,11 @@
 id: 273402347
-type: way
+type: node
 latitude: -13.5218
 longitude: -71.9507
 postcode: ""
 city: Cusco
-street: "Avenida Collasuyo"
-housenumber: 2964
-phone: "+51 1 6118200"
+street: Avenida Collasuyo
+housenumber: "2964"
+phone: +51 1 6118200
 opening_hours: ""
-website: "https://realplaza.pe/cusco/"
+website: https://realplaza.pe/cusco/

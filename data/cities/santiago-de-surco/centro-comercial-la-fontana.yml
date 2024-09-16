@@ -1,11 +1,11 @@
 id: 160443506
-type: way
+type: node
 latitude: -12.07649
 longitude: -76.96393
 postcode: ""
 city: Santiago de Surco
-street: "Avenida Javier Prado Este"
-housenumber: 5268
+street: Avenida Javier Prado Este
+housenumber: "5268"
 phone: ""
 opening_hours: ""
 website: ""

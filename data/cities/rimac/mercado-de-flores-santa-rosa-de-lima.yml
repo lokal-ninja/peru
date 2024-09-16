@@ -1,11 +1,11 @@
 id: 400443759
-type: way
+type: node
 latitude: -12.03961
 longitude: -77.03612
 postcode: ""
 city: Rímac
-street: "Via de Evitamiento"
-housenumber: 2.5
+street: Via de Evitamiento
+housenumber: "2.5"
 phone: ""
 opening_hours: ""
 website: ""

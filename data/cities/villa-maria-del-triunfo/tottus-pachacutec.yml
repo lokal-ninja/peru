@@ -1,11 +1,11 @@
 id: 371799478
-type: way
+type: node
 latitude: -12.20489
 longitude: -76.92823
 postcode: ""
 city: Villa María del Triunfo
-street: "Avenida Pachacutec"
-housenumber: 6321
+street: Avenida Pachacutec
+housenumber: "6321"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.tottus.com.pe/tottus/"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.tottus.com.pe/tottus/

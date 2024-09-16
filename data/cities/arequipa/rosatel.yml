@@ -4,8 +4,8 @@ latitude: -16.40244
 longitude: -71.55108
 postcode: ""
 city: Arequipa
-street: "Avenida Victor Andres Belaunde"
-housenumber: 12
+street: Avenida Victor Andres Belaunde
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://rosatel.com"
+website: https://rosatel.com

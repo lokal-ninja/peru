@@ -1,11 +1,11 @@
 id: 405345065
-type: way
+type: node
 latitude: -16.39155
 longitude: -71.54719
 postcode: ""
 city: Cayma
-street: "Los Arces"
-housenumber: 207
+street: Los Arces
+housenumber: "207"
 phone: ""
 opening_hours: ""
 website: ""

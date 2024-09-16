@@ -1,11 +1,11 @@
 id: 435703520
-type: way
+type: node
 latitude: -12.12144
 longitude: -77.03336
 postcode: ""
 city: Miraflores
-street: "Calle José Gálvez"
-housenumber: 
+street: Calle José Gálvez
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 12:00-22:30; Sa-Su 10:00-20:00"
+opening_hours: Mo-Fr 12:00-22:30; Sa-Su 10:00-20:00
 website: ""

@@ -4,8 +4,9 @@ latitude: -12.02172
 longitude: -77.10848
 postcode: "07031"
 city: Lima
-street: "Avenida Elmer Faucett"
-housenumber: 
-phone: "+58 501 3783527"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-14:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25, Dec 31 off"
+street: Avenida Elmer Faucett
+housenumber: ""
+phone: +58 501 3783527
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-14:00; Jan 01,Apr 19,May 01,Jun 24,Jul
+    05,Jul 24,Oct 12,Dec 24,Dec 25, Dec 31 off
 website: ""

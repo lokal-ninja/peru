@@ -1,11 +1,11 @@
 id: 415607425
-type: way
+type: node
 latitude: -12.14971
 longitude: -77.00951
 postcode: ""
 city: Santiago de Surco
-street: "Avenida Jorge Chávez"
-housenumber: 1218
-phone: "+511 6149300"
-opening_hours: "Mo-Fr 07:30-22:00; Su 08:30-22:00; PH 08:30-22:00"
+street: Avenida Jorge Chávez
+housenumber: "1218"
+phone: +511 6149300
+opening_hours: Mo-Fr 07:30-22:00; Su 08:30-22:00; PH 08:30-22:00
 website: ""

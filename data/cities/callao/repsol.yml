@@ -1,11 +1,11 @@
 id: 434952660
-type: way
+type: node
 latitude: -12.05919
 longitude: -77.12732
 postcode: "07001"
 city: Callao
-street: "Avenida Óscar Raimundo Benavides"
-housenumber: 1580
+street: Avenida Óscar Raimundo Benavides
+housenumber: "1580"
 phone: ""
 opening_hours: ""
 website: ""

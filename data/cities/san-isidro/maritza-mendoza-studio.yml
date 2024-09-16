@@ -1,11 +1,11 @@
 id: 627268729
-type: way
+type: node
 latitude: -12.10204
 longitude: -77.03088
 postcode: "15046"
 city: San Isidro
-street: "Avenida Petit Thouars"
-housenumber: 3998
+street: Avenida Petit Thouars
+housenumber: "3998"
 phone: "+51960376949"
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

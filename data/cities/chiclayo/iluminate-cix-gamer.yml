@@ -1,11 +1,11 @@
 id: 840987572
-type: way
+type: node
 latitude: -6.76942
 longitude: -79.8459
 postcode: "14009"
 city: Chiclayo
-street: "Avenida José Eufemio Lora y Lora"
-housenumber: 393
+street: Avenida José Eufemio Lora y Lora
+housenumber: "393"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

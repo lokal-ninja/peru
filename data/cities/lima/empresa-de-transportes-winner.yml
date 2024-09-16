@@ -1,11 +1,11 @@
 id: 435836500
-type: way
+type: node
 latitude: -11.90883
 longitude: -77.04399
 postcode: "1533"
 city: Lima
-street: "Avenida Universitaria"
-housenumber: 9840
+street: Avenida Universitaria
+housenumber: "9840"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00"
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

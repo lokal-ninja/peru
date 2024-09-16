@@ -4,8 +4,8 @@ latitude: -12.04547
 longitude: -77.04372
 postcode: "15082"
 city: Lima
-street: "Zamora"
-housenumber: 195
-phone: "+51 949051994"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
-website: "https://yohel.com.pe/"
+street: Zamora
+housenumber: "195"
+phone: +51 949051994
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00
+website: https://yohel.com.pe/

@@ -1,11 +1,11 @@
 id: 415607423
-type: way
+type: node
 latitude: -12.14123
 longitude: -77.01759
 postcode: "15049"
 city: Barranco
-street: "Progresso"
-housenumber: 
+street: Progresso
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

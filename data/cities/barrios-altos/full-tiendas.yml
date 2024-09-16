@@ -1,11 +1,11 @@
 id: 401019875
-type: way
+type: node
 latitude: -12.05329
 longitude: -77.02728
 postcode: ""
 city: Barrios Altos
-street: "Jirón Mesa Redonda"
-housenumber: 952
-phone: "+511 4285037"
+street: Jirón Mesa Redonda
+housenumber: "952"
+phone: +511 4285037
 opening_hours: ""
-website: "http://fulltiendas.com/"
+website: http://fulltiendas.com/

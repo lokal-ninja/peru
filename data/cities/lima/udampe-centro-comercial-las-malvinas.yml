@@ -1,11 +1,11 @@
 id: 441049923
-type: way
+type: node
 latitude: -12.04449
 longitude: -77.05045
 postcode: ""
 city: Lima
-street: "Avenida Guillermo Dansey"
-housenumber: 828
+street: Avenida Guillermo Dansey
+housenumber: "828"
 phone: ""
 opening_hours: ""
 website: ""

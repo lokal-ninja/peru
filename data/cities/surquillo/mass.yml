@@ -1,11 +1,11 @@
 id: 438871907
-type: way
+type: node
 latitude: -12.1211
 longitude: -77.0044
 postcode: ""
 city: Surquillo
-street: "Avenida Manuel Villarán"
-housenumber: 701
+street: Avenida Manuel Villarán
+housenumber: "701"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

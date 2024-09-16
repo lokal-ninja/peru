@@ -1,11 +1,11 @@
 id: 435189312
-type: way
+type: node
 latitude: -12.11686
 longitude: -77.04204
 postcode: "15074"
 city: Miraflores
-street: "Avenida Santa Cruz"
-housenumber: 
-phone: "+511 2031800"
+street: Avenida Santa Cruz
+housenumber: ""
+phone: +511 2031800
 opening_hours: ""
-website: "http://pe.marcoaldany.com"
+website: http://pe.marcoaldany.com

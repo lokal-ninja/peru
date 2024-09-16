@@ -1,11 +1,11 @@
 id: 524110454
-type: way
+type: node
 latitude: -8.11242
 longitude: -79.02339
 postcode: ""
 city: Trujillo
-street: "Avenida España"
-housenumber: 2050
+street: Avenida España
+housenumber: "2050"
 phone: ""
 opening_hours: ""
 website: ""

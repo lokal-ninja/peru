@@ -1,11 +1,11 @@
 id: 289555109
-type: way
+type: node
 latitude: -12.09193
 longitude: -77.04211
 postcode: ""
 city: San Isidro
-street: "Avenida Dos de Mayo"
-housenumber: 1099
+street: Avenida Dos de Mayo
+housenumber: "1099"
 phone: ""
 opening_hours: ""
 website: ""

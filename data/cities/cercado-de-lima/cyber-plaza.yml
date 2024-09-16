@@ -1,11 +1,11 @@
 id: 410082452
-type: way
+type: node
 latitude: -12.05673
 longitude: -77.0393
 postcode: ""
 city: Cercado de Lima
-street: "Avenida Garcilazo de la Vega"
-housenumber: 1348
-phone: "+51 1 202 5555"
+street: Avenida Garcilazo de la Vega
+housenumber: "1348"
+phone: +51 1 202 5555
 opening_hours: ""
-website: "https://www.cyberplaza.com.pe/"
+website: https://www.cyberplaza.com.pe/

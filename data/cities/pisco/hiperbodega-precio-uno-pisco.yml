@@ -1,11 +1,11 @@
 id: 514033662
-type: way
+type: node
 latitude: -13.71588
 longitude: -76.20441
 postcode: ""
 city: Pisco
-street: "Calle Comercio"
-housenumber: 700
+street: Calle Comercio
+housenumber: "700"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.hiperbodegapreciouno.com.pe/"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.hiperbodegapreciouno.com.pe/

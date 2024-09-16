@@ -1,11 +1,11 @@
 id: 438904983
-type: way
+type: node
 latitude: -12.10688
 longitude: -77.01628
 postcode: "15036"
 city: Surquillo
-street: "Avenida de Tomás Marsano"
-housenumber: 375
+street: Avenida de Tomás Marsano
+housenumber: "375"
 phone: ""
 opening_hours: ""
 website: ""

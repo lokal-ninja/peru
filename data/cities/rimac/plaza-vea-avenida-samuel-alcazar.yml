@@ -1,11 +1,11 @@
 id: 375884178
-type: way
+type: node
 latitude: -12.02875
 longitude: -77.03112
 postcode: "15025"
 city: Rímac
-street: "Avenida Samuel Alcázar"
-housenumber: 620
+street: Avenida Samuel Alcázar
+housenumber: "620"
 phone: ""
 opening_hours: ""
 website: ""

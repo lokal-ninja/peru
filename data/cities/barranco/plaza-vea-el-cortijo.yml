@@ -1,11 +1,11 @@
 id: 376130104
-type: way
+type: node
 latitude: -12.13395
 longitude: -77.01849
 postcode: "15047"
 city: Barranco
-street: "Avenida República de Panamá"
-housenumber: 515
+street: Avenida República de Panamá
+housenumber: "515"
 phone: ""
-opening_hours: "Mo-Su 09:00-22:00"
-website: "http://m.plazavea.com.pe/nuestras-tiendas"
+opening_hours: Mo-Su 09:00-22:00
+website: http://m.plazavea.com.pe/nuestras-tiendas

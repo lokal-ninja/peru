@@ -1,11 +1,11 @@
 id: 980966702
-type: way
+type: node
 latitude: -12.10188
 longitude: -76.95
 postcode: ""
 city: Lima
-street: "Jirón Las Cascadas"
-housenumber: 152
+street: Jirón Las Cascadas
+housenumber: "152"
 phone: ""
 opening_hours: ""
 website: ""

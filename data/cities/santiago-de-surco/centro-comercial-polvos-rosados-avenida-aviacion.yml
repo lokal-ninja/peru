@@ -1,11 +1,11 @@
 id: 438861179
-type: way
+type: node
 latitude: -12.12728
 longitude: -77.00017
 postcode: ""
 city: Santiago de Surco
-street: "Avenida Aviación"
-housenumber: 5087
+street: Avenida Aviación
+housenumber: "5087"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 435194489
-type: way
+type: node
 latitude: -12.11145
 longitude: -77.0477
 postcode: ""
 city: Miraflores
-street: "Avenida Mariscal La Mar"
-housenumber: 1065
+street: Avenida Mariscal La Mar
+housenumber: "1065"
 phone: ""
 opening_hours: ""
 website: ""

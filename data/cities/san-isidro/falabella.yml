@@ -1,11 +1,11 @@
 id: 394733181
-type: way
+type: node
 latitude: -12.09441
 longitude: -77.02506
 postcode: "15046"
 city: San Isidro
-street: "Avenida Paseo de la República"
-housenumber: 3220
-phone: "+51 1 5123333"
-opening_hours: "Su-Th 11:00-21:30; Fr-Sa 11:00-22:00"
-website: "https://www.falabella.com.pe/falabella-pe/"
+street: Avenida Paseo de la República
+housenumber: "3220"
+phone: +51 1 5123333
+opening_hours: Su-Th 11:00-21:30; Fr-Sa 11:00-22:00
+website: https://www.falabella.com.pe/falabella-pe/

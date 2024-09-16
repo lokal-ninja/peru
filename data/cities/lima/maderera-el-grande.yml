@@ -1,11 +1,11 @@
 id: 439397576
-type: way
+type: node
 latitude: -12.06184
 longitude: -77.00449
 postcode: ""
 city: Lima
-street: "Avenida Nicolas Ayllon"
-housenumber: 641
+street: Avenida Nicolas Ayllon
+housenumber: "641"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 437682198
-type: way
+type: node
 latitude: -11.97889
 longitude: -77.011
 postcode: ""
 city: San Juan de Lurigancho
-street: "Avenida Canto Grande"
-housenumber: 288
+street: Avenida Canto Grande
+housenumber: "288"
 phone: ""
-opening_hours: "Mo-Su 10:00-22:00"
-website: "https://www.pentamall.com/"
+opening_hours: Mo-Su 10:00-22:00
+website: https://www.pentamall.com/

@@ -1,11 +1,11 @@
 id: 969946073
-type: way
+type: node
 latitude: -16.39716
 longitude: -71.53561
 postcode: "04001"
 city: Arequipa
-street: "Calle San Francisco"
-housenumber: 
+street: Calle San Francisco
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -3,9 +3,9 @@ type: node
 latitude: -12.06313
 longitude: -77.06699
 postcode: ""
-city: 1
-street: "Avenida La Alborada"
-housenumber: 
+city: "1"
+street: Avenida La Alborada
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

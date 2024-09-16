@@ -1,11 +1,11 @@
 id: 436425860
-type: way
+type: node
 latitude: -12.12029
 longitude: -77.02672
 postcode: "15074"
 city: Lima
-street: "Avenida La Paz"
-housenumber: 279
+street: Avenida La Paz
+housenumber: "279"
 phone: ""
 opening_hours: ""
 website: ""

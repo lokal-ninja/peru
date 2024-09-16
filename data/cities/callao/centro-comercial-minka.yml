@@ -1,11 +1,11 @@
 id: 31274073
-type: way
+type: node
 latitude: -12.04614
 longitude: -77.11441
 postcode: ""
 city: Callao
-street: "Avenida Argentina"
-housenumber: 3093
+street: Avenida Argentina
+housenumber: "3093"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

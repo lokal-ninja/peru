@@ -1,11 +1,11 @@
 id: 410082453
-type: way
+type: node
 latitude: -12.05714
 longitude: -77.03876
 postcode: "15001"
 city: Cercado de Lima
-street: "Avenida Garcilazo de la Vega"
-housenumber: 1358
+street: Avenida Garcilazo de la Vega
+housenumber: "1358"
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
+opening_hours: Mo-Su 09:00-21:00
 website: ""

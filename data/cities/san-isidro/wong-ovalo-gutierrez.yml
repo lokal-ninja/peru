@@ -1,11 +1,11 @@
 id: 291982777
-type: way
+type: node
 latitude: -12.11
 longitude: -77.03642
 postcode: ""
 city: San Isidro
-street: "Avenida Santa Cruz"
-housenumber: 771
+street: Avenida Santa Cruz
+housenumber: "771"
 phone: ""
-opening_hours: "Mo-Su 08:30-21:30"
+opening_hours: Mo-Su 08:30-21:30
 website: ""

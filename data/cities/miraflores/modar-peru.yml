@@ -1,11 +1,11 @@
 id: 434674314
-type: way
+type: node
 latitude: -12.12867
 longitude: -77.02553
 postcode: ""
 city: Miraflores
-street: "Avenida 28 de Julio"
-housenumber: 820
+street: Avenida 28 de Julio
+housenumber: "820"
 phone: ""
 opening_hours: ""
 website: ""

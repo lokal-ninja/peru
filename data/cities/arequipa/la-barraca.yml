@@ -1,11 +1,11 @@
 id: 399826351
-type: way
+type: node
 latitude: -16.40463
 longitude: -71.53811
 postcode: ""
 city: Arequipa
-street: "San Juan de Dios"
-housenumber: 559
-phone: "+51 54 212607"
-opening_hours: "Mo-Sa 08:00-20:30"
+street: San Juan de Dios
+housenumber: "559"
+phone: +51 54 212607
+opening_hours: Mo-Sa 08:00-20:30
 website: ""

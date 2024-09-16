@@ -1,11 +1,11 @@
 id: 448051330
-type: way
+type: node
 latitude: -12.04735
 longitude: -77.0317
 postcode: ""
 city: Lima
-street: "Jirón de la Unión"
-housenumber: 517
+street: Jirón de la Unión
+housenumber: "517"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 832020961
-type: way
+type: node
 latitude: -12.07595
 longitude: -77.0083
 postcode: ""
 city: San Luis
-street: "Avenida San Juan"
-housenumber: 325
+street: Avenida San Juan
+housenumber: "325"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 306333832
-type: way
+type: node
 latitude: -13.71105
 longitude: -76.19588
 postcode: ""
 city: Pisco
-street: "Las Américas"
-housenumber: 2883
-phone: "+51 961 965 324"
+street: Las Américas
+housenumber: "2883"
+phone: +51 961 965 324
 opening_hours: ""
-website: "https://www.megaplaza.com.pe/pisco-home/"
+website: https://www.megaplaza.com.pe/pisco-home/

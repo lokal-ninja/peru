@@ -1,11 +1,11 @@
 id: 438438465
-type: way
+type: node
 latitude: -12.06448
 longitude: -76.98865
 postcode: ""
 city: San Luis
-street: "José Olaya"
-housenumber: 115
+street: José Olaya
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

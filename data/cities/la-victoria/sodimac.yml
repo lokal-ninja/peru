@@ -1,11 +1,11 @@
 id: 289515650
-type: way
+type: node
 latitude: -12.08979
 longitude: -77.02188
 postcode: "15034"
 city: La Victoria
-street: "Avenida Javier Prado Este"
-housenumber: 900
+street: Avenida Javier Prado Este
+housenumber: "900"
 phone: ""
 opening_hours: ""
 website: ""

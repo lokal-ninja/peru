@@ -1,11 +1,11 @@
 id: 406050169
-type: way
+type: node
 latitude: -12.12289
 longitude: -77.02993
 postcode: ""
 city: Miraflores
-street: "Calle A. Schell"
-housenumber: 208
+street: Calle A. Schell
+housenumber: "208"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.metro.pe/"
+opening_hours: 24/7
+website: https://www.metro.pe/

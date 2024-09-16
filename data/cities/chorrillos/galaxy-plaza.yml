@@ -1,11 +1,11 @@
 id: 504650812
-type: way
+type: node
 latitude: -12.17642
 longitude: -77.01566
 postcode: "15064"
 city: Chorrillos
-street: "Avenida Defensores del Morro"
+street: Avenida Defensores del Morro
 housenumber: Cdra. 16
-phone: "+51 1 2522879"
-opening_hours: "Mo-Su 10:00-21:00"
-website: "http://galaxyplaza.com.pe/portal/"
+phone: +51 1 2522879
+opening_hours: Mo-Su 10:00-21:00
+website: http://galaxyplaza.com.pe/portal/

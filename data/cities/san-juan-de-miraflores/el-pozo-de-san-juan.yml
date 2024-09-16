@@ -1,11 +1,11 @@
 id: 551065566
-type: way
+type: node
 latitude: -12.15148
 longitude: -76.97632
 postcode: ""
 city: San Juan de Miraflores
-street: "Avenida Los Héroes"
-housenumber: 305
+street: Avenida Los Héroes
+housenumber: "305"
 phone: ""
 opening_hours: ""
 website: ""

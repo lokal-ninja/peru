@@ -1,11 +1,11 @@
 id: 946141906
-type: way
+type: node
 latitude: -13.15929
 longitude: -74.20878
 postcode: "05001"
 city: Ayacucho
-street: "Avenida Ejercito"
-housenumber: 775
-phone: "+51 66 636 773"
-opening_hours: "Mo-Fr 08:00-19:00"
-website: "https://poncharello.pe/"
+street: Avenida Ejercito
+housenumber: "775"
+phone: +51 66 636 773
+opening_hours: Mo-Fr 08:00-19:00
+website: https://poncharello.pe/

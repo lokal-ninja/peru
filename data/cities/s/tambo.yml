@@ -1,11 +1,11 @@
 id: 726986934
-type: way
+type: node
 latitude: -12.08853
 longitude: -77.08085
 postcode: "15086"
 city: s
-street: "Avenida Lima"
-housenumber: 701
+street: Avenida Lima
+housenumber: "701"
 phone: ""
 opening_hours: ""
 website: ""

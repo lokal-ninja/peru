@@ -1,11 +1,11 @@
 id: 406011945
-type: way
+type: node
 latitude: -12.12045
 longitude: -77.0282
 postcode: "15074"
 city: Miraflores
-street: "Calle Esperanza"
-housenumber: 184
+street: Calle Esperanza
+housenumber: "184"
 phone: ""
 opening_hours: ""
 website: ""

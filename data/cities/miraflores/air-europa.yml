@@ -1,11 +1,11 @@
 id: 437649832
-type: way
+type: node
 latitude: -12.12484
 longitude: -77.02663
 postcode: "15074"
 city: Miraflores
-street: "Avenida Alfredo Benavides"
-housenumber: 611
+street: Avenida Alfredo Benavides
+housenumber: "611"
 phone: ""
 opening_hours: ""
 website: ""

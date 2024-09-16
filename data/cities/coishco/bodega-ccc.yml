@@ -1,11 +1,11 @@
 id: 957222507
-type: way
+type: node
 latitude: -9.02317
 longitude: -78.61642
 postcode: ""
 city: Coishco
-street: "Avenida Villa del Mar"
-housenumber: 347
-phone: "+51 43 290512"
+street: Avenida Villa del Mar
+housenumber: "347"
+phone: +51 43 290512
 opening_hours: ""
 website: ""

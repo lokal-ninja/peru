@@ -1,11 +1,11 @@
 id: 399826357
-type: way
+type: node
 latitude: -16.40543
 longitude: -71.53773
 postcode: ""
 city: Arequipa
-street: "San Juan de Dios"
-housenumber: 600
+street: San Juan de Dios
+housenumber: "600"
 phone: ""
 opening_hours: ""
 website: ""

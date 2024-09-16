@@ -1,11 +1,11 @@
 id: 438481467
-type: way
+type: node
 latitude: -12.07377
 longitude: -77.01712
 postcode: ""
 city: Lima
-street: "Avenida México"
-housenumber: 1238
+street: Avenida México
+housenumber: "1238"
 phone: ""
 opening_hours: ""
 website: ""

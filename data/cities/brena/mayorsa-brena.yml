@@ -1,11 +1,11 @@
 id: 461622126
-type: way
+type: node
 latitude: -12.05107
 longitude: -77.05455
 postcode: ""
 city: Breña
-street: "Avenida Tingo María"
-housenumber: 383
-phone: "+511 3331217"
-opening_hours: "Mo-Sa 08:00-22:00; Su 08:00-20:00"
-website: "https://www.mayorsa.com.pe/"
+street: Avenida Tingo María
+housenumber: "383"
+phone: +511 3331217
+opening_hours: Mo-Sa 08:00-22:00; Su 08:00-20:00
+website: https://www.mayorsa.com.pe/

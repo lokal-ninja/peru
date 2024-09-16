@@ -1,11 +1,11 @@
 id: 437053691
-type: way
+type: node
 latitude: -12.11243
 longitude: -76.99385
 postcode: ""
 city: Santiago de Surco
-street: "Avenida Caminos del Inca"
-housenumber: 100
+street: Avenida Caminos del Inca
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Sa 07:30-22:00; Su 08:00-21:30"
-website: "https://www.maestro.com.pe/"
+opening_hours: Mo-Sa 07:30-22:00; Su 08:00-21:30
+website: https://www.maestro.com.pe/

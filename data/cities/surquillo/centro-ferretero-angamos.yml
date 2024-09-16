@@ -1,11 +1,11 @@
 id: 436751608
-type: way
+type: node
 latitude: -12.11276
 longitude: -77.01316
 postcode: ""
 city: Surquillo
-street: "Avenida Angamos Este"
-housenumber: 1764
+street: Avenida Angamos Este
+housenumber: "1764"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 68336308
-type: way
+type: node
 latitude: -12.00617
 longitude: -77.00456
 postcode: "15431"
 city: San Juan de Lurigancho
-street: "Avenida Próceres de la Independencia"
-housenumber: 
+street: Avenida Próceres de la Independencia
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.metro.pe"
+website: https://www.metro.pe

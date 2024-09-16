@@ -1,11 +1,11 @@
 id: 332748280
-type: way
+type: node
 latitude: -12.11873
 longitude: -77.0319
 postcode: ""
 city: Miraflores
-street: "Avenida José Pardo"
-housenumber: 332
+street: Avenida José Pardo
+housenumber: "332"
 phone: ""
 opening_hours: ""
 website: ""

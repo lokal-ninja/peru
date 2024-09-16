@@ -1,11 +1,11 @@
 id: 327630517
-type: way
+type: node
 latitude: -16.3744
 longitude: -71.5563
 postcode: ""
 city: Cerro Colorado
-street: "Aviación"
-housenumber: 602
-phone: "+51 54 626 0000"
-opening_hours: "Mo-Su 10:00-22:00"
-website: "https://www.arequipacenter.com/"
+street: Aviación
+housenumber: "602"
+phone: +51 54 626 0000
+opening_hours: Mo-Su 10:00-22:00
+website: https://www.arequipacenter.com/

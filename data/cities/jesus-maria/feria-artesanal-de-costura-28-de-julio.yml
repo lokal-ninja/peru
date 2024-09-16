@@ -1,11 +1,11 @@
 id: 435853560
-type: way
+type: node
 latitude: -12.06417
 longitude: -77.0382
 postcode: ""
 city: Jesús María
-street: "Avenida 28 de Julio"
-housenumber: 747
+street: Avenida 28 de Julio
+housenumber: "747"
 phone: ""
 opening_hours: ""
 website: ""

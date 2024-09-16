@@ -1,11 +1,11 @@
 id: 408779602
-type: way
+type: node
 latitude: -18.0133
 longitude: -70.24716
 postcode: "23001"
 city: Tacna
-street: "Avenida Francisco Bolognesi"
-housenumber: 677
+street: Avenida Francisco Bolognesi
+housenumber: "677"
 phone: ""
-opening_hours: "Mo-Su 9:00-22:00"
+opening_hours: Mo-Su 9:00-22:00
 website: ""

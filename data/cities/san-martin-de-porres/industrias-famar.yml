@@ -1,11 +1,11 @@
 id: 914799510
-type: way
+type: node
 latitude: -12.03229
 longitude: -77.04426
 postcode: ""
 city: San Martín de Porres
-street: "Avenida Caquetá"
-housenumber: 519
-phone: "+51 13820033"
+street: Avenida Caquetá
+housenumber: "519"
+phone: +51 13820033
 opening_hours: ""
 website: ""

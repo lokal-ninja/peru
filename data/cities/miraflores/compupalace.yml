@@ -1,11 +1,11 @@
 id: 130624278
-type: way
+type: node
 latitude: -12.11659
 longitude: -77.02837
 postcode: "15074"
 city: Miraflores
-street: "Avenida Petit Thouars"
-housenumber: 5356
+street: Avenida Petit Thouars
+housenumber: "5356"
 phone: ""
 opening_hours: ""
 website: ""

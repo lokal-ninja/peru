@@ -1,11 +1,11 @@
 id: 388015815
-type: way
+type: node
 latitude: -9.28107
 longitude: -77.64855
 postcode: "02127"
 city: Carhuaz
-street: "Jirón Aurora"
-housenumber: 
+street: Jirón Aurora
+housenumber: ""
 phone: ""
-opening_hours: "08:00-18:00"
+opening_hours: 08:00-18:00
 website: ""

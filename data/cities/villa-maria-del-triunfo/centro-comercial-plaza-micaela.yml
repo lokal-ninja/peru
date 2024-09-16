@@ -1,11 +1,11 @@
 id: 401841919
-type: way
+type: node
 latitude: -12.17328
 longitude: -76.94894
 postcode: ""
 city: Villa María del Triunfo
-street: "Avenida Pachacutec"
-housenumber: 2737
+street: Avenida Pachacutec
+housenumber: "2737"
 phone: ""
 opening_hours: ""
 website: ""

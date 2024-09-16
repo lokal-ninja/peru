@@ -1,11 +1,11 @@
 id: 289468192
-type: way
+type: node
 latitude: -12.07504
 longitude: -77.0263
 postcode: ""
 city: La Victoria
-street: "Javier Luna Pizarro"
-housenumber: 1550
+street: Javier Luna Pizarro
+housenumber: "1550"
 phone: ""
-opening_hours: "Mo-Su 09:00-22:30"
-website: "https://www.metro.pe"
+opening_hours: Mo-Su 09:00-22:30
+website: https://www.metro.pe

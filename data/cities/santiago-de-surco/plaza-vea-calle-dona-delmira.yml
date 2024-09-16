@@ -1,11 +1,11 @@
 id: 358983535
-type: way
+type: node
 latitude: -12.1423
 longitude: -77.00303
-postcode: "Lima 33"
+postcode: Lima 33
 city: Santiago de Surco
-street: "Calle Doña Delmira"
-housenumber: 
+street: Calle Doña Delmira
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

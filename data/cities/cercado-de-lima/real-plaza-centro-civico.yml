@@ -1,11 +1,11 @@
 id: 401860677
-type: way
+type: node
 latitude: -12.05769
 longitude: -77.03792
 postcode: "15001"
 city: Cercado de Lima
-street: "Avenida Garcilazo de la Vega"
-housenumber: 1337
+street: Avenida Garcilazo de la Vega
+housenumber: "1337"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.realplaza.com/centros-comerciales/centro-civico"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.realplaza.com/centros-comerciales/centro-civico
