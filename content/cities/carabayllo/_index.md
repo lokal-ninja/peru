@@ -1,6 +1,6 @@
 ---
 title: Carabayllo
 url: /carabayllo/
-latitude: -11.864
-longitude: -77.073
+latitude: -11.88
+longitude: -77.02
 ---

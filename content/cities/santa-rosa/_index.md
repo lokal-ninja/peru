@@ -1,6 +1,6 @@
 ---
 title: Santa Rosa
 url: /santa-rosa/
-latitude: -11.785
-longitude: -77.158
+latitude: -11.783
+longitude: -77.159
 ---
