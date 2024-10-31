@@ -1,6 +1,6 @@
 ---
 title: Concepción
 url: /concepcion/
-latitude: -11.921
+latitude: -11.923
 longitude: -75.318
 ---
