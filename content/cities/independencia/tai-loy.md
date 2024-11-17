@@ -1,5 +1,5 @@
 ---
 title: "Tai Loy"
-url: /chiclayo/tai-loy-avenida-jose-balta/
+url: /independencia/tai-loy/
 shop: material de oficina
 ---
