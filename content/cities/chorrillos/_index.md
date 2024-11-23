@@ -1,6 +1,6 @@
 ---
 title: Chorrillos
 url: /chorrillos/
-latitude: -12.172
-longitude: -77.014
+latitude: -12.171
+longitude: -77.009
 ---
