@@ -1,6 +1,6 @@
 ---
 title: Ventanilla
 url: /ventanilla/
-latitude: -11.872
-longitude: -77.123
+latitude: -11.869
+longitude: -77.128
 ---
