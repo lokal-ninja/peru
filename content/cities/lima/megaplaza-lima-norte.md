@@ -1,5 +1,5 @@
 ---
 title: "Megaplaza Lima Norte"
-url: /independencia/megaplaza-lima-norte/
+url: /lima/megaplaza-lima-norte/
 shop: centro comercial
 ---
