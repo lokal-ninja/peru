@@ -2,5 +2,5 @@
 title: Huaquillas
 url: /huaquillas/
 latitude: -3.48
-longitude: -80.241
+longitude: -80.24
 ---
