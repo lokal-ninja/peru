@@ -1,6 +1,6 @@
 ---
 title: San Isidro
 url: /san-isidro/
-latitude: -12.104
-longitude: -77.021
+latitude: -12.092
+longitude: -77.033
 ---
