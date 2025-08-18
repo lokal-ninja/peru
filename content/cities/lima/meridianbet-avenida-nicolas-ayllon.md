@@ -1,5 +1,5 @@
 ---
 title: "Meridianbet"
-url: /lima/meridianbet-jiron-la-union/
+url: /lima/meridianbet-avenida-nicolas-ayllon/
 shop: corredor de apuestas
 ---
