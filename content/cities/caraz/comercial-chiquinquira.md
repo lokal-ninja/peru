@@ -1,5 +1,5 @@
 ---
 title: "Comercial Chiquinquirá"
 url: /caraz/comercial-chiquinquira/
-shop: quiosco
+shop: tienda de variedades
 ---
