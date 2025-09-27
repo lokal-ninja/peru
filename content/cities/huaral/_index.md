@@ -1,6 +1,6 @@
 ---
 title: Huaral
 url: /huaral/
-latitude: -11.495
-longitude: -77.208
+latitude: -11.493
+longitude: -77.206
 ---
