@@ -1,6 +1,6 @@
 ---
 title: Socabaya
 url: /socabaya/
-latitude: -16.438
-longitude: -71.527
+latitude: -16.452
+longitude: -71.53
 ---
