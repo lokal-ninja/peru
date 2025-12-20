@@ -1,6 +1,6 @@
 ---
 title: Huarmey
 url: /huarmey/
-latitude: -10.067
-longitude: -78.151
+latitude: -10.069
+longitude: -78.155
 ---

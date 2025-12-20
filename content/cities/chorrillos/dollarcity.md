@@ -1,5 +1,5 @@
 ---
 title: "Dollarcity"
 url: /chorrillos/dollarcity/
-shop: supermercado
+shop: tienda de variedades
 ---
