@@ -1,6 +1,6 @@
 ---
 title: Casma
 url: /casma/
-latitude: -9.478
-longitude: -78.294
+latitude: -9.475
+longitude: -78.298
 ---
