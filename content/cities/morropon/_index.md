@@ -1,6 +1,6 @@
 ---
 title: Morropón
 url: /morropon/
-latitude: -5.184
-longitude: -79.972
+latitude: -5.187
+longitude: -79.971
 ---
