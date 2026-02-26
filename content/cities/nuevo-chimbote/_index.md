@@ -1,6 +1,6 @@
 ---
 title: Nuevo Chimbote
 url: /nuevo-chimbote/
-latitude: -9.123
-longitude: -78.53
+latitude: -9.129
+longitude: -78.518
 ---
