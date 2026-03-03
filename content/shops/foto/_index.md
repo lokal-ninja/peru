@@ -1,5 +1,5 @@
 ---
 title: foto
 url: /foto/
-icon: other
+icon: photo
 ---

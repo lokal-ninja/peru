@@ -1,5 +1,5 @@
 ---
-title: "Diesel Avalos"
+title: "Diésel Ávalos"
 url: /ayacucho/diesel-avalos/
 shop: reparación de automóviles
 ---

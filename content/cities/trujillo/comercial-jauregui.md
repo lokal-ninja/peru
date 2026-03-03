@@ -1,5 +1,5 @@
 ---
-title: "Comercial Jauregui"
+title: "Comercial Jáuregui"
 url: /trujillo/comercial-jauregui/
 shop: general
 ---
