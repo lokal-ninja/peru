@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial El Polo"
-url: /santiago-de-surco/centro-comercial-el-polo/
+url: /lima/centro-comercial-el-polo/
 shop: centro comercial
 ---
