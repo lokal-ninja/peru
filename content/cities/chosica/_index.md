@@ -1,6 +1,6 @@
 ---
 title: chosica
 url: /chosica/
-latitude: -11.935
-longitude: -76.693
+latitude: -11.937
+longitude: -76.695
 ---

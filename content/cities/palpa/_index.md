@@ -1,6 +1,6 @@
 ---
 title: Palpa
 url: /palpa/
-latitude: -14.534
-longitude: -75.185
+latitude: -14.535
+longitude: -75.187
 ---
