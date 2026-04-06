@@ -1,5 +1,5 @@
 ---
-title: "Ferretería Diaz"
+title: "Ferretería Díaz"
 url: /san-andres/ferreteria-diaz/
-shop: comercio
+shop: hardware
 ---

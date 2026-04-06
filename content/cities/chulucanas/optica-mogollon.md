@@ -1,5 +1,5 @@
 ---
-title: "Optica Mogollón"
+title: "Óptica Mogollón"
 url: /chulucanas/optica-mogollon/
 shop: óptico
 ---
