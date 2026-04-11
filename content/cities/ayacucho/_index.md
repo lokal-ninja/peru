@@ -1,6 +1,6 @@
 ---
 title: Ayacucho
 url: /ayacucho/
-latitude: -13.151
-longitude: -74.227
+latitude: -13.164
+longitude: -74.223
 ---
