@@ -1,6 +1,6 @@
 ---
 title: Mala
 url: /mala/
-latitude: -12.661
-longitude: -76.633
+latitude: -12.655
+longitude: -76.632
 ---
