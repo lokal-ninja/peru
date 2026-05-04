@@ -1,5 +1,5 @@
 ---
-title: "Marilu & Yosef"
+title: "Marilú & Yosef"
 url: /huarmey/marilu-y-yosef/
 shop: general
 ---
