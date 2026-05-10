@@ -1,6 +1,6 @@
 ---
 title: Pocollay
 url: /pocollay/
-latitude: -18.005
-longitude: -70.225
+latitude: -18.006
+longitude: -70.227
 ---
