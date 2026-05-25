@@ -1,5 +1,5 @@
 ---
-title: "Libreria Bazar"
+title: "Librería Bazar"
 url: /trujillo/libreria-bazar/
-shop: general
+shop: libros
 ---
