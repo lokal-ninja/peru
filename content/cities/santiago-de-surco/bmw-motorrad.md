@@ -1,5 +1,5 @@
 ---
 title: "BMW Motorrad"
-url: /surquillo/bmw-motorrad/
+url: /santiago-de-surco/bmw-motorrad/
 shop: motocicleta
 ---
