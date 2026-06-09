@@ -1,6 +1,6 @@
 ---
 title: Huancayo
 url: /huancayo/
-latitude: -12.06
-longitude: -75.213
+latitude: -12.055
+longitude: -75.204
 ---
