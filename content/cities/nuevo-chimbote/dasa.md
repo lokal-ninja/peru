@@ -1,5 +1,5 @@
 ---
-title: "Dasa"
+title: "DASA"
 url: /nuevo-chimbote/dasa/
-shop: general
+shop: comodidad
 ---
