@@ -1,6 +1,6 @@
 ---
 title: Ancón
 url: /ancon/
-latitude: -11.776
-longitude: -77.167
+latitude: -11.791
+longitude: -77.157
 ---
