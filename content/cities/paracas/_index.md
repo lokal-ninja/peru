@@ -1,6 +1,6 @@
 ---
 title: Paracas
 url: /paracas/
-latitude: -13.834
-longitude: -76.249
+latitude: -13.833
+longitude: -76.247
 ---

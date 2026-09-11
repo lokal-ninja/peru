@@ -1,6 +1,6 @@
 ---
 title: Breña
 url: /brena/
-latitude: -12.058
-longitude: -77.049
+latitude: -12.052
+longitude: -77.055
 ---
