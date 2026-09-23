@@ -1,5 +1,5 @@
 ---
 title: "Tottus"
-url: /callao/tottus-avenida-lima/
+url: /callao/tottus-calle-zepita/
 shop: supermercado
 ---

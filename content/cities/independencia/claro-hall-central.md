@@ -1,5 +1,5 @@
 ---
 title: "Claro"
-url: /independencia/claro-boulevard/
+url: /independencia/claro-hall-central/
 shop: teléfono móvil
 ---
