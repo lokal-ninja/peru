@@ -1,6 +1,6 @@
 ---
 title: Lurigancho
 url: /lurigancho/
-latitude: -11.921
-longitude: -76.673
+latitude: -12.009
+longitude: -76.947
 ---
