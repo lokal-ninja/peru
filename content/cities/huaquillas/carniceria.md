@@ -1,5 +1,5 @@
 ---
-title: "Carniceria"
+title: "Carnicería"
 url: /huaquillas/carniceria/
-shop: comodidad
+shop: carnicero
 ---
